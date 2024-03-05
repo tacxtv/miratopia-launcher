@@ -1,5 +1,6 @@
 {
     "name": "Miratopia Launcher",
+    "path": "miratopia",
     "config": {
         "menu": {
             "reverse": false,
