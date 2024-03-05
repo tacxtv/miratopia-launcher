@@ -1,0 +1,17 @@
+{
+    "name": "Miratopia Launcher",
+    "config": {
+        "menu": {
+            "reverse": false,
+            "vertical": true
+        },
+        "pages": {
+            "login": {
+                "background": "https://www.oxygenserv.com/wp-content/uploads/2023/03/171177.jpg"
+            },
+            "splash": {
+                "background": "https://www.oxygenserv.com/wp-content/uploads/2023/03/171177.jpg"
+            }
+        }
+    }
+}

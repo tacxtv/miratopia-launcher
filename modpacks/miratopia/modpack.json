@@ -1,0 +1,643 @@
+{
+    "id": "miratopia",
+    "name": "Miratopia",
+    "description": "Miratopia Saison 1",
+    "hidden": false,
+    "default": true,
+    "minecraft": {
+        "version": "1.20.1"
+    },
+    "loaders": [
+        {
+            "type": "neoforge",
+            "version": "1.20.1-47.1.79"
+        }
+    ],
+    "files": [
+        {
+            "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "size": 47428,
+            "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+        },
+        {
+            "path": "mods/architectury-9.1.12-forge.jar",
+            "size": 567579,
+            "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gyJ7kDpb/architectury-9.1.12-forge.jar",
+            "hash": "49fc332e52027845caaa0098289dc9059b8eb010"
+        },
+        {
+            "path": "mods/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "size": 19471,
+            "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Y42wjyly/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "hash": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
+        },
+        {
+            "path": "mods/badpackets-forge-0.4.3.jar",
+            "size": 27919,
+            "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/aXZqpNgH/badpackets-forge-0.4.3.jar",
+            "hash": "34b4ae0b51fe8bb55529dd20968bf58e20b4a21e"
+        },
+        {
+            "path": "mods/balm-forge-1.20.1-7.2.1.jar",
+            "size": 343674,
+            "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/JUrMdJP1/balm-forge-1.20.1-7.2.1.jar",
+            "hash": "bac648850674d2e3f92082a3b9e69f02284d169e"
+        },
+        {
+            "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "size": 468517,
+            "optional": true,
+            "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "hash": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
+        },
+        {
+            "path": "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+            "size": 61525,
+            "optional": true,
+            "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/XkYduFuv/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+            "hash": "0b0a3ff3b244fa191b3f9580547071dee46f7276"
+        },
+        {
+            "path": "mods/botarium-forge-1.20.1-2.2.1.jar",
+            "size": 139102,
+            "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/kLa36Hso/botarium-forge-1.20.1-2.2.1.jar",
+            "hash": "d0d985e3ad275c68f8140520312062e41cca37e7"
+        },
+        {
+            "path": "mods/canary-mc1.20.1-0.3.1.jar",
+            "size": 591918,
+            "hash": "8756668601cbbd0ff1f05ec966dcd426a5f30d54",
+            "url": "https://cdn.modrinth.com/data/qa2H4BS9/versions/bbZjBL8C/canary-mc1.20.1-0.3.1.jar"
+        },
+        {
+            "path": "mods/Chunky-1.3.92.jar",
+            "size": 327983,
+            "hash": "663b25e8646350c2b2ee69f703fc2eb7e8794585",
+            "url": "https://cdn.modrinth.com/data/fALzjamp/versions/EUpM1fJU/Chunky-1.3.92.jar"
+        },
+        {
+            "path": "mods/cloth-config-11.1.118-forge.jar",
+            "size": 1168391,
+            "hash": "c46ca3fba95691873a765f4e79750c615f33e446",
+            "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar"
+        },
+        {
+            "path": "mods/Clumps-forge-1.20.1-12.0.0.3.jar",
+            "size": 20299,
+            "hash": "99fb4cf6d0339d72cec603e045d664c3909ad408",
+            "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/yQVnODwU/Clumps-forge-1.20.1-12.0.0.3.jar"
+        },
+        {
+            "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "size": 88752,
+            "hash": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+            "url": "https://mediafilez.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar"
+        },
+        {
+            "path": "mods/create-1.20.1-0.5.1.f.jar",
+            "size": 14964127,
+            "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0",
+            "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/HNYrbfZZ/create-1.20.1-0.5.1.f.jar"
+        },
+        {
+            "path": "mods/createaddition-1.20.1-1.1.1.jar",
+            "size": 1119629,
+            "hash": "c121a8b15fa28d7fe491e9ba0ee03211e22293da",
+            "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/DVqXwgYF/createaddition-1.20.1-1.1.1.jar"
+        },
+        {
+            "path": "mods/createdieselgenerators-1.20.1-1.2f.jar",
+            "size": 1928386,
+            "hash": "d3a032371a634ce2633a1139b7d5dadb13defb4e",
+            "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/f0wGwbTR/createdieselgenerators-1.20.1-1.2f.jar"
+        },
+        {
+            "path": "mods/create-new-age-forge-1.20.1-1.1.1.jar",
+            "size": 678602,
+            "hash": "042c45d45f4921e4510c2cd3db9486c69f42a1d0",
+            "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rvYVvldk/create-new-age-forge-1.20.1-1.1.1.jar"
+        },
+        {
+            "path": "mods/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "size": 2099945,
+            "hash": "2008e6887b9490c491ddb471e87cfb6d26684dc5",
+            "url": "https://mediafilez.forgecdn.net/files/4997/459/Croptopia-1.20.1-FORGE-3.0.4.jar"
+        },
+        {
+            "path": "mods/dungeons-and-taverns-3.0.3.jar",
+            "size": 13161285,
+            "hash": "d5de9ada085a6af59c0475fa56ed08934358e08b",
+            "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar"
+        },
+        {
+            "path": "mods/easy_npc_1.20.1-3.8.0.jar",
+            "size": 1044634,
+            "hash": "44d718aeffe313cdb22ed0d08fa73858e8fc23e2",
+            "url": "https://mediafilez.forgecdn.net/files/5115/499/easy_npc_1.20.1-3.8.0.jar"
+        },
+        {
+            "path": "mods/embeddium-0.2.16+mc1.20.1.jar",
+            "size": 949746,
+            "hash": "81800daa46a4089c5f30e4f6dde692bcaf66c473",
+            "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/WqH4m6Io/embeddium-0.2.16+mc1.20.1.jar"
+        },
+        {
+            "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar",
+            "size": 62127,
+            "hash": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009",
+            "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/17Hi340V/entityculling-forge-1.6.2-mc1.20.1.jar"
+        },
+        {
+            "path": "mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "size": 756864,
+            "hash": "1eca21b906d38321bf60919dd3b12d160e5e6935",
+            "url": "https://mediafilez.forgecdn.net/files/4889/101/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+        },
+        {
+            "path": "mods/FarmersDelight-1.20.1-1.2.3.jar",
+            "size": 2898860,
+            "hash": "115fe7a8f0fcce534915f5e35f96017d602cebe2",
+            "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/k7RoRFPF/FarmersDelight-1.20.1-1.2.3.jar"
+        },
+        {
+            "path": "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "size": 66989,
+            "hash": "27d58f123951e0404c94caf16ff9b96b442f371c",
+            "url": "https://mediafilez.forgecdn.net/files/4706/149/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+        },
+        {
+            "path": "mods/ferritecore-6.0.1-forge.jar",
+            "size": 123034,
+            "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+            "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+        },
+        {
+            "path": "mods/ftb-quests-forge-2001.2.1.jar",
+            "size": 1154175,
+            "hash": "205647ed1c9862a71b0c07f0619dafa488370861",
+            "url": "https://mediafilez.forgecdn.net/files/4926/101/ftb-quests-forge-2001.2.1.jar"
+        },
+        {
+            "path": "mods/ftb-library-forge-2001.1.4.jar",
+            "size": 616503,
+            "hash": "de7fd22d2fd5e5cd5e6060c487df8f97c33933f2",
+            "url": "https://mediafilez.forgecdn.net/files/4864/329/ftb-library-forge-2001.1.4.jar"
+        },
+        {
+            "path": "mods/ftb-ranks-forge-2001.1.3.jar",
+            "size": 85218,
+            "hash": "5caca1d7fce7154b79238804a7730e23ce767fce",
+            "url": "https://mediafilez.forgecdn.net/files/4596/742/ftb-ranks-forge-2001.1.3.jar"
+        },
+        {
+            "path": "mods/ftb-teams-forge-2001.1.4.jar",
+            "size": 240019,
+            "hash": "8b7628248ffd6e97bde2ffce0a630a4db4504b9b",
+            "url": "https://mediafilez.forgecdn.net/files/4623/116/ftb-teams-forge-2001.1.4.jar"
+        },
+        {
+            "path": "mods/ftb-xmod-compat-forge-2.0.4.jar",
+            "size": 117711,
+            "hash": "71a4523bfc675f013a18c6fd7d88d3fa4df0dc60",
+            "url": "https://mediafilez.forgecdn.net/files/4925/842/ftb-xmod-compat-forge-2.0.4.jar"
+        },
+        {
+            "path": "mods/ftb-chunks-forge-2001.2.4.jar",
+            "size": 887122,
+            "hash": "a0c9bf580b7bbf749f78a17d8e48ae8af5038afe",
+            "url": "https://mediafilez.forgecdn.net/files/4925/796/ftb-chunks-forge-2001.2.4.jar"
+        },
+        {
+            "path": "mods/geckolib-neoforge-1.20.1-4.3.1.jar",
+            "size": 986424,
+            "hash": "b6b9b64850ebc7400e3a9bc881331cc015254b84",
+            "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/LsTR7vL2/geckolib-neoforge-1.20.1-4.3.1.jar"
+        },
+        {
+            "path": "mods/handcrafted-forge-1.20.1-3.0.5.jar",
+            "size": 7106774,
+            "hash": "a9f6181b44be4be5d54c2ac357e0210fed880a98",
+            "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/M4OyV9RU/handcrafted-forge-1.20.1-3.0.5.jar"
+        },
+        {
+            "path": "mods/item-filters-forge-2001.1.0-build.59.jar",
+            "size": 110191,
+            "hash": "55a7f032c59489eca96069a7841601de2ff97590",
+            "url": "https://mediafilez.forgecdn.net/files/4838/266/item-filters-forge-2001.1.0-build.59.jar"
+        },
+        {
+            "path": "mods/Jade-1.20.1-forge-11.7.1.jar",
+            "size": 523256,
+            "hash": "6a17415a34591168203b8ed6f334a349da55f797",
+            "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/cqz4BTbh/Jade-1.20.1-forge-11.7.1.jar"
+        },
+        {
+            "path": "mods/jei-1.20.1-forge-15.2.0.27.jar",
+            "size": 1112891,
+            "hash": "a565f2e31fc2bbe6f297a4ca25241cbfd704ef6b",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HU1FUi8s/jei-1.20.1-forge-15.2.0.27.jar"
+        },
+        {
+            "path": "mods/kubejs-forge-2001.6.4-build.120.jar",
+            "size": 1636029,
+            "hash": "9e0f66e565e1ff6a22f20cf73e7da34e9584e304",
+            "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/Br93DtM2/kubejs-forge-2001.6.4-build.120.jar"
+        },
+        {
+            "path": "mods/lootr-1.20-0.7.30.73.jar",
+            "size": 275128,
+            "hash": "d435ec7cca33d7fd882f709fb452339059e0c62c",
+            "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/DtZL7OFm/lootr-1.20-0.7.30.73.jar"
+        },
+        {
+            "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "size": 227925,
+            "hash": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
+            "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17+-1.1.5.jar"
+        },
+        {
+            "path": "mods/moonlight-1.20-2.8.79-forge.jar",
+            "size": 1107399,
+            "hash": "82eafec560a47eac304226950ed636cf31a4ab56",
+            "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/7NLlFrFF/moonlight-1.20-2.8.79-forge.jar"
+        },
+        {
+            "path": "mods/netherportalfix-forge-1.20-13.0.1.jar",
+            "size": 217831,
+            "hash": "2179040063d0e11083e54a9b1957de9f909d0d6f",
+            "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/cWPAnu7u/netherportalfix-forge-1.20-13.0.1.jar"
+        },
+        {
+            "path": "mods/oculus-mc1.20.1-1.6.13.jar",
+            "size": 2798867,
+            "hash": "196539d0e5dc057b81edbaa8d0e396c6cd8a2db8",
+            "url": "https://cdn.modrinth.com/data/GchcoXML/versions/yUsIHXQX/oculus-mc1.20.1-1.6.13.jar"
+        },
+        {
+            "path": "mods/Patchouli-1.20.1-84-FORGE.jar",
+            "size": 642506,
+            "hash": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
+            "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/JMtc0mTS/Patchouli-1.20.1-84-FORGE.jar"
+        },
+        {
+            "path": "mods/refinedstorage-1.12.4.jar",
+            "size": 3300191,
+            "hash": "014bf4de4975f6310d22a6ed06c6a7e1e0805641",
+            "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZITLFjjf/refinedstorage-1.12.4.jar"
+        },
+        {
+            "path": "mods/resourcefullib-forge-1.20.1-2.1.20.jar",
+            "size": 396447,
+            "hash": "daca45ab33a528baff545b6c82fd9035b4e17586",
+            "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/P0GVeAtv/resourcefullib-forge-1.20.1-2.1.20.jar"
+        },
+        {
+            "path": "mods/rhino-forge-2001.2.2-build.18.jar",
+            "size": 1782275,
+            "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/w5HiejeN/rhino-forge-2001.2.2-build.18.jar"
+        },
+        {
+            "path": "mods/rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar",
+            "size": 488301,
+            "hash": "81800daa46a4089c5f30e4f6dde692bcaf66c473",
+            "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/PSRJ0h1d/rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar"
+        },
+        {
+            "path": "mods/servercore-forge-1.3.9+1.20.1.jar",
+            "size": 1235588,
+            "hash": "6e0d401e259c2b630a1c48ef120d696ddadbca63",
+            "url": "https://mediafilez.forgecdn.net/files/4824/802/servercore-forge-1.3.9+1.20.1.jar"
+        },
+        {
+            "path": "mods/skinlayers3d-forge-1.6.1-mc1.20.1.jar",
+            "size": 465690,
+            "hash": "7695d7f2eb892289f646f63398d115e10d84d78e",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/wOTrfvOF/skinlayers3d-forge-1.6.1-mc1.20.1.jar"
+        },
+        {
+            "path": "mods/soundphysics-forge-1.20.1-1.3.0.jar",
+            "size": 165733,
+            "hash": "ca8813fae5d360a3ceb6ebf0c6b640c3494d8f02",
+            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/sSV5WT7s/soundphysics-forge-1.20.1-1.3.0.jar"
+        },
+        {
+            "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
+            "size": 110583,
+            "hash": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
+            "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2+forge.1cda73c.jar"
+        },
+        {
+            "path": "mods/supplementaries-1.20-2.7.21.jar",
+            "size": 14952611,
+            "hash": "9c045044b039de44a4bb26a0aa35dd64c97900bc",
+            "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/16GEKSIv/supplementaries-1.20-2.7.21.jar"
+        },
+        {
+            "path": "mods/Terralith_1.20.4_v2.4.11.jar",
+            "size": 2478785,
+            "hash": "ac529b2a6ab9189cc6b6b459fa7b7b85f6e230e4",
+            "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/FgvUosFH/Terralith_1.20.4_v2.4.11.jar"
+        },
+        {
+            "path": "mods/TravelersTitles-1.20-Forge-4.0.1.jar",
+            "size": 219608,
+            "hash": "0d3d9746fb2a78542095e93ebff0dc14dae56e53",
+            "url": "https://cdn.modrinth.com/data/JtifUr64/versions/ZA3ahpCR/TravelersTitles-1.20-Forge-4.0.1.jar"
+        },
+        {
+            "path": "mods/voicechat-forge-1.20.1-2.4.32.jar",
+            "size": 7660001,
+            "hash": "0ddc174a52973036e5fcfd2fb72686b3b18aed3f",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nHtyikTv/voicechat-forge-1.20.1-2.4.32.jar"
+        },
+        {
+            "path": "mods/waystones-forge-1.20-14.1.3.jar",
+            "size": 482947,
+            "hash": "b85d0fb174e544a025d4db86282773f8cc43b1e8",
+            "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/TlRV5nuf/waystones-forge-1.20-14.1.3.jar"
+        },
+        {
+            "path": "mods/WorldEditCUI-1.20+01.jar",
+            "size": 168681,
+            "hash": "5f0676a7369999e7414e7b2ab4f90da1f51471d4",
+            "url": "https://cdn.modrinth.com/data/lOELapP1/versions/SRJCpmta/WorldEditCUI-1.20+01.jar"
+        },
+        {
+            "path": "mods/worldedit-mod-7.2.15.jar",
+            "size": 5825402,
+            "hash": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+            "url": "https://mediafilez.forgecdn.net/files/4586/218/worldedit-mod-7.2.15.jar"
+        },
+        {
+            "path": "mods/YungsApi-1.20-Forge-4.0.2.jar",
+            "size": 346402,
+            "hash": "c90bf9ac408804e18312d4810d07c3e970a04506",
+            "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/HIRzLg0r/YungsApi-1.20-Forge-4.0.2.jar"
+        },
+        {
+            "path": "mods/Masik'sPuzzleDungeon-forge-1.20.1-v1.1.1.jar",
+            "size": 737063,
+            "hash": "c366599a9c733ab003d676a659dd4f9b4e0b2761",
+            "url": "https://mediafilez.forgecdn.net/files/4617/334/Masik'sPuzzleDungeon-forge-1.20.1-v1.1.1.jar"
+        },
+        {
+            "path": "mods/saturn-mc1.20.1-0.1.1.jar",
+            "size": 56487,
+            "hash": "9ad0dbc95ca6bea2e55959a1f22376bdaf9c0c0e",
+            "url": "https://mediafilez.forgecdn.net/files/4979/432/saturn-mc1.20.1-0.1.1.jar"
+        },
+        {
+            "path": "mods/smoothboot-mc1.20.1-0.0.3.jar",
+            "size": 39948,
+            "hash": "53abe64226f6c7b1f03d02400f830a853259645d",
+            "url": "https://mediafilez.forgecdn.net/files/4685/319/smoothboot-mc1.20.1-0.0.3.jar"
+        },
+        {
+            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "size": 409956,
+            "hash": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715",
+            "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/D5fox3fg/ComplementaryReimagined_r5.1.1.zip"
+        },
+        {
+            "path": "mods/embeddiumplus-1.20.1-v1.1.0.jar",
+            "size": 949746,
+            "hash": "e6c9a0264fe6e524da4147a13a31f37d59fcae77",
+            "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/SaEEcVyn/embeddiumplus-1.20.1-v1.1.0.jar"
+        },
+        {
+            "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar",
+            "size": 58529,
+            "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/AdyaTuHw/JadeAddons-1.20.1-forge-5.2.2.jar",
+            "hash": "74b567a2b23bf34cd37ee4c02059318f8cc702d7"
+        },
+        {
+            "path": "mods/ForgeClientResetPacket-0.3.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4808/617/ForgeClientResetPacket-0.3.1.jar"
+        },
+        {
+            "path": "mods/armourersworkshop-forge-1.20.1-2.0.11.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4987/565/armourersworkshop-forge-1.20.1-2.0.11.jar"
+        },
+        {
+            "path": "mods/DistantHorizons-2.0.1-a-1.20.1.jaar",
+            "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"
+        },
+        {
+            "path": "mods/corpse-1.20.1-1.0.9.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4913/871/corpse-1.20.1-1.0.9.jar"
+        },
+        {
+            "path": "mods/sophisticatedbackpacks-1.20.1-3.20.1.1012.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5102/995/sophisticatedbackpacks-1.20.1-3.20.1.1012.jar"
+        },
+        {
+            "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2f5mEUPY/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
+        },
+        {
+            "path": "mods/bendy-lib-forge-4.0.0.jar",
+            "url": "https://cdn.modrinth.com/data/aRnIEV0F/versions/df4Yfl6J/bendy-lib-forge-4.0.0.jar"
+        },
+        {
+            "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar",
+            "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/vKRSJIfJ/YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar"
+        },
+        {
+            "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+        },
+        {
+            "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar",
+            "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/yyEN8Zb4/YungsBetterDungeons-1.20-Forge-4.0.3.jar"
+        },
+        {
+            "path": "mods/YungsBridges-1.20-Forge-4.0.3.jar",
+            "url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/KgO1gfM2/YungsBridges-1.20-Forge-4.0.3.jar"
+        },
+        {
+            "path": "mods/polymorph-forge-0.49.2+1.20.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4928/442/polymorph-forge-0.49.2%2B1.20.1.jar"
+        },
+        {
+            "path": "mods/PlayerRevive_FORGE_v2.0.21_mc1.20.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4994/127/PlayerRevive_FORGE_v2.0.21_mc1.20.1.jar"
+        },
+        {
+            "path": "mods/curios-forge-5.4.7+1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/3VUlU5Ga/curios-forge-5.4.7%2B1.20.1.jar"
+        },
+        {
+            "path": "mods/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/OwUqgdCm/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar"
+        },
+        {
+            "path": "mods/CMDCam_FORGE_v2.1.1_mc1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/hZw3uqi3/versions/A1X7SdnC/CMDCam_FORGE_v2.1.1_mc1.20.1.jar"
+        },
+        {
+            "path": "mods/VideoPlayer-2.6-FORGE-1.20.X.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4782/60/VideoPlayer-2.6-FORGE-1.20.X.jar"
+        },
+        {
+            "path": "mods/watermedia-2.0.25.jar",
+            "url": "https://cdn.modrinth.com/data/G922NeHS/versions/VSUu8vsY/watermedia-2.0.25.jar"
+        },
+        {
+            "path": "mods/acedium-0.2.5-beta.jar",
+            "url": "https://github.com/ferriarnus/acedium/releases/download/v0.2.5-1.20.1/acedium-0.2.5-beta.jar"
+        },
+        {
+            "path": "mods/bobby-1.20.1_v5.0.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4650/227/bobby-1.20.1_v5.0.1.jar"
+        },
+        {
+            "path": "mods/constructionwand-1.20.1-2.11.jar",
+            "url": "https://cdn.modrinth.com/data/bV2crgLh/versions/XCgKj8gL/constructionwand-1.20.1-2.11.jar"
+        },
+        {
+            "path": "mods/constructionwand-1.20.1-2.11.jar",
+            "url": "https://cdn.modrinth.com/data/bV2crgLh/versions/XCgKj8gL/constructionwand-1.20.1-2.11.jar"
+        },
+        {
+            "path": "mods/betterarcheology-1.0.2.jar",
+            "url": "https://cdn.modrinth.com/data/zCh7omyG/versions/vTViLQvA/betterarcheology-1.0.2.jar"
+        },
+        {
+            "path": "mods/create-stuff-additions1.20.1_v2.0.4a.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4703/287/create-stuff-additions1.20.1_v2.0.4a.jar"
+        },
+        {
+            "path": "mods/endrem_forge-5.2.3-R-1.20.X.jar",
+            "url": "https://cdn.modrinth.com/data/ZJTGwAND/versions/9OkkRvff/endrem_forge-5.2.3-R-1.20.X.jar"
+        },
+        {
+            "path": "mods/caelus-forge-3.1.0+1.20.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4581/481/caelus-forge-3.1.0%2B1.20.jar"
+        },
+        {
+            "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+        },
+        {
+            "path": "mods/xercapaint-1.20.1-1.0.0.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4666/42/xercapaint-1.20.1-1.0.0.jar"
+        },
+        {
+            "path": "mods/alexsmobs-1.22.6.jar",
+            "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/BX2HPlTH/alexsmobs-1.22.6.jar"
+        },
+        {
+            "path": "mods/liquidburner-1.20.1-0.5.jar",
+            "url": "https://cdn.modrinth.com/data/kDFtUgr8/versions/qd5ehKK8/liquidburner-1.20.1-0.5.jar"
+        },
+        {
+            "path": "mods/citadel-2.5.3-1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/3OJWvUG9/citadel-2.5.3-1.20.1.jar"
+        },
+        {
+            "path": "mods/simple_zoom-1.20.1-1.0.jar",
+            "url": "https://cdn.modrinth.com/data/ylWD7aoA/versions/QIW368nh/simple_zoom-1.20.1-1.0.jar"
+        },
+        {
+            "path": "mods/OnlineDisplays-1.20.1-20.1.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4779/377/OnlineDisplays-1.20.1-20.1.1.jar"
+        },
+        {
+            "path": "mods/HammerLib-1.20.1-20.1.25.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5043/221/HammerLib-1.20.1-20.1.25.jar"
+        },
+        {
+            "path": "mods/miramod.jar",
+            "url": "https://cdn.modrinth.com/data/98tyLEsZ/versions/ofIHWAFS/miramod.jar"
+        },
+        {
+            "path": "mods/fancymenu_forge_3.1.0_MC_1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/AuPFlN9F/fancymenu_forge_3.1.0_MC_1.20.1.jar"
+        },
+        {
+            "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+        },
+        {
+            "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+        },
+        {
+            "path": "mods/born_in_chaos_[Forge]1.20.1_1.2.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5084/879/born_in_chaos_%5BForge%5D1.20.1_1.2.jar"
+        },
+        {
+            "path": "mods/dungeonsweaponry-1.15.0-1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/NrWDtgVf/versions/BrZ9lDh2/dungeonsweaponry-1.15.0-1.20.1.jar"
+        },
+        {
+            "path": "mods/theurgy-1.20.1-1.16.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5068/704/theurgy-1.20.1-1.16.1.jar"
+        },
+        {
+            "path": "mods/modonomicon-1.20.1-forge-1.59.0.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5112/214/modonomicon-1.20.1-forge-1.59.0.jar"
+        },
+        {
+            "path": "mods/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
+            "url": "https://cdn.modrinth.com/data/TqCKvqjC/versions/VA60FWUa/loadmyresources_forge_1.0.4_MC_1.19.3.jar"
+        },
+        {
+            "path": "mods/veinmining-forge-1.3.0+1.20.1.jar",
+            "url": "https://cdn.modrinth.com/data/bRAPbNyF/versions/C8j3UrWK/veinmining-forge-1.3.0%2B1.20.1.jar"
+        },
+        {
+            "path": "mods/mighty_mail-forge-1.20.1-1.0.14.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4750/272/mighty_mail-forge-1.20.1-1.0.14.jar"
+        },
+        {
+            "path": "mods/daily_rewards_1.20.1-5.2.0.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4778/265/daily_rewards_1.20.1-5.2.0.jar"
+        },
+        {
+            "path": "mods/sophisticatedstorage-1.20.1-0.9.6.720.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5104/313/sophisticatedstorage-1.20.1-0.9.6.720.jar"
+        },
+        {
+            "path": "mods/letsdo-vinery-forge-1.4.8.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5092/323/letsdo-vinery-forge-1.4.8.jar"
+        },
+        {
+            "path": "mods/doapi-1.2.8-forge.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4833/128/doapi-1.2.8-forge.jar"
+        },
+        {
+            "path": "mods/sophisticatedcore-1.20.1-0.6.3.553.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5102/975/sophisticatedcore-1.20.1-0.6.3.553.jar"
+        },
+        {
+            "path": "mods/framework-forge-1.20.1-0.6.16.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4718/251/framework-forge-1.20.1-0.6.16.jar"
+        },
+        {
+            "path": "mods/letsdo-bakery-forge-1.1.3b.jar",
+            "url": "https://mediafilez.forgecdn.net/files/4781/568/letsdo-bakery-forge-1.1.3b.jar"
+        },
+        {
+            "path": "mods/polaroidcamera-1.6.4.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5070/521/polaroidcamera-1.6.4.jar"
+        },
+        {
+            "path": "mods/immersive_aircraft-0.7.1+1.20.1-forge.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5085/633/immersive_aircraft-0.7.1%2B1.20.1-forge.jar"
+        },
+        {
+            "path": "mods/CTM_DEV-1.20.1-1.1.86.jar",
+            "url": "https://cdn.modrinth.com/data/EhFHiWkD/versions/oDUUFkzh/CTM_DEV-1.20.1-1.1.86.jar"
+        },
+        {
+            "path": "mods/dawnoftimebuilder-1.20.1 v2.1.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5136/169/dawnoftimebuilder-1.20.1%20v2.1.jar"
+        },
+        {
+            "path": "mods/letsdo-brewery-forge-1.1.3.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5136/543/letsdo-brewery-forge-1.1.3.jar"
+        }
+    ]
+}
