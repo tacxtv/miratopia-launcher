@@ -1,0 +1,42 @@
+/**
+ * @see https://www.electron.build/configuration/configuration
+ */
+{
+  "appId": "fr.tacxtv.miratopia-launcher",
+  "productName": "Miratopia Launcher",
+  "asar": false,
+  "publish": {
+    "provider": "generic",
+    "url": "http://localhost:8080/"
+  },
+  "directories": {
+    "output": "release/${version}"
+  },
+  "files": [
+    ".output/**/*",
+    "dist-electron"
+  ],
+  "mac": {
+    "artifactName": "${productName}_${version}.${ext}",
+    "target": [
+      "dmg"
+    ]
+  },
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": [
+          "x64"
+        ]
+      }
+    ],
+    "artifactName": "${productName}_${version}.${ext}"
+  },
+  "nsis": {
+    "oneClick": true,
+    "perMachine": false,
+    "allowToChangeInstallationDirectory": false,
+    "deleteAppDataOnUninstall": false
+  }
+}
