@@ -7,7 +7,14 @@
     "minecraft": {
       "version": "1.20.1"
     },
-    "ignoredFiles": ["loadmyresources"],
+    "ignoredFiles": [
+      "loadmyresources", 
+      "$onlinedisplays", 
+      ".bobby",
+      "armourers_workshop",
+      "easy_npc",
+      "fancymenu_data"
+    ],
     "loaders": [
       {
         "type": "neoforge",
