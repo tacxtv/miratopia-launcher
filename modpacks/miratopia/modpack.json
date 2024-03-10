@@ -13,7 +13,9 @@
       ".bobby",
       "armourers_workshop",
       "easy_npc",
-      "fancymenu_data"
+      "fancymenu_data",
+      "patchouli_books",
+      "schematics"
     ],
     "loaders": [
       {
