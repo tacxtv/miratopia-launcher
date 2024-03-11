@@ -1,0 +1,25 @@
+name: Modpack Parse File
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run modpack_file_parse script
+        run: |
+            cd modpacks/miratopia
+            node ./modpack_file_parse.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update modpack file"
+          git push
