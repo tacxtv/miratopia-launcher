@@ -22,4 +22,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Update modpack file"
-          git push
+          git push origin config
