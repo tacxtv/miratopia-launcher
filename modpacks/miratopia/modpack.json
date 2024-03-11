@@ -5,7 +5,8 @@
     "description": "Miratopia Saison 1",
     "hidden": false,
     "minecraft": {
-      "version": "1.20.1"
+      "version": "1.20.1",
+      "recommendedMemory": 4096
     },
     "ignoredFiles": [
       "loadmyresources", 
