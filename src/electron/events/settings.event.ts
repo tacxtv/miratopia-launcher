@@ -1,4 +1,4 @@
-import { app, ipcMain } from 'electron'
+import { app, ipcMain, shell } from 'electron'
 import Store from 'electron-store'
 import log from 'electron-log/main'
 // noinspection ES6PreferShortImport
@@ -28,7 +28,7 @@ export class SettingsEvent {
     ipcMain.on('setLauncherResolution', (_, val) => {
       store.set('launcher_resolution_width', val.width)
       store.set('launcher_resolution_height', val.height)
-      store.set('launcher_resolution_fullscreen', val.fullscreen)
+      store.set('launcher_resolution_fullscreen', !!val.fullscreen)
     })
 
     ipcMain.handle('getModpackMemory', (_, modpack: Modpack) => {
@@ -74,6 +74,9 @@ export class SettingsEvent {
             break
         }
       }
+    })
+    ipcMain.on('openFolderModPack', (_, modpack: Modpack) => {
+      shell.showItemInFolder(join(app.getAppPath(), 'instances', modpack.id, 'assets'))
     })
 
     ipcMain.handle('getLauncherStayInOpen', () => {

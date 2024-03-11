@@ -123,16 +123,16 @@ export class AuthHandler {
 			"identityToken": "XBL3.0 x=${xsts.DisplayClaims.xui[0].uhs};${xsts.Token}"
 	 		}`
     // try {
-      const res = await axios({
-        method: 'post',
-        url: 'https://api.minecraftservices.com/authentication/login_with_xbox',
-        data,
-        headers: {
-          'Content-Type': 'application/json',
-          Accept: 'application/json',
-        },
-      })
-      return res.data
+    const res = await axios({
+      method: 'post',
+      url: 'https://api.minecraftservices.com/authentication/login_with_xbox',
+      data,
+      headers: {
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
+    })
+    return res.data
     // } catch (e) {
     //   throw new Error('Error, the XSTS Token to McToken is expirated.')
     // }

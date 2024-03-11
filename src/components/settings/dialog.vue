@@ -5,7 +5,6 @@ q-dialog(
   transition-hide="slide-down"
   maximized
 )
-  //q-layout.full-height.full-width(view="hHh lpR fFf")
   q-card.flex.overflow-hidden(:style='{flexFlow: "column", width: "80vw", height: "80vh"}')
     q-bar
       q-toolbar-title
@@ -114,10 +113,10 @@ export default defineNuxtComponent({
       },
     },
     launcher(): Launcher {
-      return (this['global-launcher'] as UnwrapNestedRefs<{ data: Launcher }>).data
+      return this['global-launcher'] as Launcher
     },
     modpacks(): Modpack[] {
-      return (this['global-modpacks'] as UnwrapNestedRefs<{ data: Modpack[] }>).data
+      return this['global-modpacks'] as Modpack[]
     },
     settingsTypeUser() {
       return Object.entries(this.tabs).filter(
@@ -162,38 +161,4 @@ export default defineNuxtComponent({
     }
   }
 })
-
-// const splitter = ref(20)
-// const settings = ref({
-//   launcher: {
-//     title: 'Launcher',
-//     icon: 'mdi-rocket-launch',
-//     component: 'settings-launcher',
-//     type: 'top',
-//   },
-//   minecraft: {
-//     title: 'Minecraft',
-//     icon: 'mdi-cog',
-//     component: 'settings-minecraft',
-//     type: 'user',
-//   },
-//   minecraft2: {
-//     title: 'Minecraft',
-//     icon: 'mdi-cog',
-//     component: 'settings-minecraft',
-//     type: 'user',
-//   },
-//   minecraft3: {
-//     title: 'Minecraft',
-//     icon: 'mdi-cog',
-//     component: 'settings-minecraft',
-//     type: 'user',
-//   },
-//   accounts: {
-//     title: 'Comptes',
-//     icon: 'mdi-account',
-//     component: 'settings-accounts',
-//     type: 'bottom',
-//   },
-// })
 </script>

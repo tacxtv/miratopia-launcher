@@ -1,18 +1,16 @@
-import { BrowserWindow, Menu, Tray, app, ipcMain } from "electron";
-import { createUpdateWindow } from "./windows/update.window";
+import { BrowserWindow, Menu, Tray, app, ipcMain } from 'electron'
+import { createUpdateWindow } from './windows/update.window'
 import log from 'electron-log/main'
-import path from "path";
-import { WindowEvent } from "./events/window.event";
-import { UpdateEvent } from "./events/update.event";
-import { AuthService } from "./services/auth.service";
-import { MinecraftService } from "./services/minecraft.service";
-import { SettingsEvent } from "./events/settings.event";
+import path from 'path'
+import { WindowEvent } from './events/window.event'
+import { UpdateEvent } from './events/update.event'
+import { AuthService } from './services/auth.service'
+import { MinecraftService } from './services/minecraft.service'
+import { SettingsEvent } from './events/settings.event'
 
 process.env.ROOT = path.join(__dirname, '..')
 process.env.DIST = path.join(process.env.ROOT, 'dist-electron')
-process.env.VITE_PUBLIC = process.env.VITE_DEV_SERVER_URL
-  ? path.join(process.env.ROOT, 'public')
-  : path.join(process.env.ROOT, '.output/public')
+process.env.VITE_PUBLIC = process.env.VITE_DEV_SERVER_URL ? path.join(process.env.ROOT, 'public') : path.join(process.env.ROOT, '.output/public')
 process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
 if (process.env.NODE_ENV === 'development') {
   require('electron-debug')({ showDevTools: true })
@@ -56,7 +54,7 @@ app.whenReady().then(async () => {
     {
       label: 'Afficher/Masquer',
       click: () => ipcMain.emit('showHideWindow'),
-    }
+    },
   ])
   tray.setToolTip(process.env.npm_package_description || '')
   tray.setContextMenu(contextMenu)

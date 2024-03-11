@@ -1,3 +1,4 @@
+import path from 'path'
 
 process.env.NUXT_APP_BASE_URL = './'
 process.env.NUXT_APP_BUILD_ASSETS_DIR = './'
@@ -23,6 +24,8 @@ export default defineNuxtConfig({
     app: {
       baseURL: './',
       buildAssetsDir: './',
+      installDir: path.join(__dirname, '/public'),
+      packageVersion: process.env.npm_package_version,
     },
   },
   app: {
@@ -32,10 +35,7 @@ export default defineNuxtConfig({
       meta: [{ charset: 'utf-8' }, { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     },
   },
-  modules: [
-    'nuxt-electron',
-    'nuxt-quasar-ui',
-  ],
+  modules: ['nuxt-electron', 'nuxt-quasar-ui', 'nuxt-icon'],
   electron: {
     build: [
       { entry: 'src/electron/main.ts' },
@@ -58,6 +58,13 @@ export default defineNuxtConfig({
         position: 'top-right',
         actions: [{ icon: 'mdi-close', color: 'white' }],
       },
+    },
+  },
+  nuxtIcon: {
+    size: '48px',
+    class: 'icon',
+    aliases: {
+      nuxt: 'logos:nuxt-icon',
     },
   },
   vite: {

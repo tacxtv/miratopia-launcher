@@ -1,33 +1,53 @@
 import { app, ipcMain } from 'electron'
 import log from 'electron-log/main'
 // noinspection ES6PreferShortImport
-import type { Modpack } from '../../../types/modpack.type'
+import type { Modpack, ModpackFile } from '../../../types/modpack.type'
 import Store from 'electron-store'
 import { join } from 'path'
 import { Launch } from 'minecraft-java-core'
 import { sendMainWindowWebContent } from '../windows/main.window'
 import * as crypto from 'crypto'
+import { AuthService } from './auth.service'
 
 const store = new Store()
 const root = join(app.getAppPath(), 'instances')
 
+function isIterable(obj: any) {
+  if (obj == null) {
+    return false
+  }
+  return typeof obj[Symbol.iterator] === 'function'
+}
+
 export class MinecraftService {
   public static name = 'MinecraftService'
 
+  public async fetchGithubFiles(modpack: Modpack): Promise<ModpackFile[]> {
+    const list = await fetch(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/files.json`).then((res) =>
+      res.json(),
+    )
+    console.log(list)
+
+    return list
+  }
+
   public async registerEvents(): Promise<void> {
     ipcMain.handle('launchMinecraft', async (_, modpack: Modpack) => {
-      console.log('launchMinecraft')
-
+      log.info('launchMinecraft', modpack.id)
+      const launch = new Launch()
       const loader = {} as any
-      // noinspection LoopStatementThatDoesntLoopJS
       for (const l of modpack.loaders) {
         loader.type = l.type
         loader.build = l.version
         loader.enable = true
         break
       }
+      const optionalFiles = store.get(modpack.name + '_files', []) as (ModpackFile & { enabled: boolean })[]
+      let files = modpack.files.filter((f) => !f.optional || optionalFiles.find((o) => o.path === f.path && o.enabled))
+      const githubFiles = await this.fetchGithubFiles(modpack)
+      files = files.concat(githubFiles)
 
-      const launch = new Launch()
+      await AuthService.refreshCurrentAccessToken()
       await launch.Launch({
         authenticator: {
           user_properties: '{}',
@@ -39,11 +59,12 @@ export class MinecraftService {
           meta: {
             xuid: (<any>global).share.auth.xuid,
             access_token_expires_in: ((<any>global).share.auth.access_token_expires_in || 0) + Math.floor(Date.now() / 1000),
-            type: "Xbox",
+            type: 'Xbox',
             demo: false,
           },
         },
-        // url: 'nodownload',
+        url: 'nodownload',
+        files,
         javaPath: '',
         timeout: 10000,
         path: join(root, modpack.id),
@@ -51,9 +72,24 @@ export class MinecraftService {
         detached: true,
         downloadFileMultiple: 100,
         loader,
-        verify: false,
-        ignored: ['loader', 'options.txt'],
-        args: [],
+        verify: true,
+        ignored: [
+          'config',
+          'loader',
+          'local',
+          'logs',
+          'resources',
+          'resourcepacks',
+          'screenshots',
+          'shaderpacks',
+          'shaderpacks',
+          'options.txt',
+          'usercache.json',
+          'usernamecache.json',
+          // 'servers.dat',
+          ...(modpack.ignoredFiles || []),
+        ],
+        //args: [],
         screen: {
           width: store.get('launcher_resolution_width', 854) as number,
           height: store.get('launcher_resolution_height', 480) as number,
@@ -74,7 +110,7 @@ export class MinecraftService {
 
       launch.on('progress', (progress: any, size: any, element: any) => {
         console.log(`Downloading ${element} ${Math.round((progress / size) * 100)}%`)
-        sendMainWindowWebContent('windowLogEvent', { message: `Downloading ${element} ${Math.round((progress / size) * 100)}%`})
+        sendMainWindowWebContent('windowLogEvent', { message: `Downloading ${element} ${Math.round((progress / size) * 100)}%` })
       })
 
       launch.on('check', (progress: any, size: any, element: any) => {
@@ -82,9 +118,9 @@ export class MinecraftService {
       })
 
       launch.on('estimated', (time: any) => {
-        let hours = Math.floor(time / 3600)
-        let minutes = Math.floor((time - hours * 3600) / 60)
-        let seconds = Math.floor(time - hours * 3600 - minutes * 60)
+        const hours = Math.floor(time / 3600)
+        const minutes = Math.floor((time - hours * 3600) / 60)
+        const seconds = Math.floor(time - hours * 3600 - minutes * 60)
         console.log(`${hours}h ${minutes}m ${seconds}s`)
       })
 
@@ -94,7 +130,7 @@ export class MinecraftService {
 
       launch.on('patch', (patch: any) => {
         console.log(patch)
-      });
+      })
 
       launch.on('data', (e: any) => {
         console.log('d', e)
@@ -102,11 +138,11 @@ export class MinecraftService {
 
       launch.on('close', (code: any) => {
         console.log(code)
-      });
+      })
 
       launch.on('error', (err: any) => {
         console.log(err)
-      });
+      })
     })
   }
 }

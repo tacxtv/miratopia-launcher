@@ -6,7 +6,7 @@ q-card(flat)
       span(v-text='modpack.name')
     q-space
     q-btn(
-      @click=''
+      @click='openFolderModPack'
       icon='mdi-folder-open'
       flat round
     )
@@ -86,7 +86,10 @@ q-card(flat)
 
 <script lang="ts">
 import type { PropType } from 'vue'
+import { useQuasar } from 'quasar'
 import type { Modpack, ModpackFile } from '~~/types/modpack.type'
+
+const $q = useQuasar()
 
 export default defineNuxtComponent({
   props: {
@@ -123,22 +126,32 @@ export default defineNuxtComponent({
   },
   methods: {
     reinstallModpack() {
-      window.electron.reinstallModpack(JSON.parse(JSON.stringify(this.modpack)))
+      if (window.confirm("Voulez-vous vraiment réinstaller le modpack ?")) {
+        //TODO: fix this
+        window.electron.reinstallModpack(JSON.parse(JSON.stringify(this.modpack)))
+      }
     },
     uninstallModpack() {
-      window.electron.uninstallModpack(JSON.parse(JSON.stringify(this.modpack)))
+      if (window.confirm("Vous êtes sur le point de supprimer le modpack, êtes-vous sûr ?")) {
+        //TODO: fix this
+        window.electron.uninstallModpack(JSON.parse(JSON.stringify(this.modpack)))
+      }
+    },
+    openFolderModPack() {
+      //TODO: fix this
+      window.electron.openFolderModPack(JSON.parse(JSON.stringify(this.modpack)))
     },
     openSelectFolderDialog() {
       document.getElementById('file')?.click()
     },
     async clearFolderDialog() {
-      this.modpackJava.javaPath = ''
-      document.getElementById('file').value = ''
+      this.modpackJava.javaPath = '';
+      (document.getElementById('file') as HTMLInputElement).value = ''
       window.electron.setModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)), '')
       this.$nextTick(async () => {
         //TODO: fix this
-        this.modpackJava.javaPath = await window.electron.getModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)))
-        document.getElementById('file').value = this.modpackJava.javaPath
+        this.modpackJava.javaPath = await window.electron.getModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)));
+        (document.getElementById('file') as HTMLInputElement).value = this.modpackJava.javaPath
       })
     },
     async selectFolderDialog($event: Event) {

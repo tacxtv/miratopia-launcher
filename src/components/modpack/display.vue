@@ -1,19 +1,22 @@
 <template lang="pug">
 div.fit.flex(:style='{flexFlow: "column"}')
-  div.fit.q-px-md
-    h1.text-h4.text-center.q-mb-md(v-text='modpack.name')
-    small.text-center.q-mb-md(v-text='modpack.description')
+  div.fit.q-px-md.text-center.q-mt-lg
+    q-img.q-ma-sm(src="https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/logo.png" height="auto" width="20%")
+    q-img.q-ma-sm.q-mt-xl(src="https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/title.png" height="auto" width="70%")
+    //- h1.text-h4.text-center.q-mb-md(v-text='modpack.name')
+    //- small.text-center.q-mb-md(v-text='modpack.description')
   q-toolbar.q-mb-lg
     q-space
     q-btn.q-mx-sm(icon='mdi-cog' flat dense @click='openSettings')
+
     q-btn(
       @click='launchMinecraft'
-      label='Jouer !'
-      icon='mdi-play'
       :color='loading ? "negative" : "positive"'
       :loading='loading'
       :percentage='downloadProgress'
     )
+      icon(name="line-md:play-filled" size="24")
+      span.block.q-pl-sm Jouer !
     q-space
   q-expansion-item.q-pa-none(v-model='logsDisplay' label='Console' icon='mdi-console' dense)
     q-scroll-area.bg-blue-grey-10.q-pa-xs(ref="chatScroll" :style='{maxHeight: "100px", height: "100px"}')
@@ -43,8 +46,8 @@ export default defineNuxtComponent({
   }),
   methods: {
     openSettings() {
-      ;(this['settings-dialog'] as { data: boolean }).data = true
-      ;(this['settings-tab'] as { data: string }).data = this.modpack.name
+      ; (this['settings-dialog'] as { data: boolean }).data = true
+        ; (this['settings-tab'] as { data: string }).data = this.modpack.name
     },
     launchMinecraft() {
       this.logsDisplay = true
@@ -57,26 +60,27 @@ export default defineNuxtComponent({
     this.logsItems = ['Initialisation du launcher...']
 
     window.electron.onWindowLogEvent((payload: { message?: string }) => {
+      //TODO: gérer tableau avec taille max
       if (payload.message) this.logsItems.push(payload.message)
       this.$nextTick(() => {
         const target = (this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.getScrollTarget()
         if (!target) return
-        ;(this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.setScrollPosition('vertical', target.scrollHeight, 0)
+          ; (this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.setScrollPosition('vertical', target.scrollHeight, 0)
       })
     })
-    window.electron.onMinecraftStartup(() => {
-      this.loading = true
-      console.log('onGameStartup', arguments)
-    })
-    window.electron.onMinecraftDownloadProgress((download: { id: string; value: number }) => {
-      this.downloadProgress = download.value
-      console.log('onMinecraftDownloadProgress', arguments)
-    })
-    window.electron.onMinecraftDownloadFinish(() => {
-      this.downloadProgress = 0
-      this.loading = false
-      console.log('onMinecraftDownloadFinish', arguments)
-    })
+    // window.electron.onMinecraftStartup(() => {
+    //   this.loading = true
+    //   console.log('onGameStartup', arguments)
+    // })
+    // window.electron.onMinecraftDownloadProgress((download: { id: string; value: number }) => {
+    //   this.downloadProgress = download.value
+    //   console.log('onMinecraftDownloadProgress', arguments)
+    // })
+    // window.electron.onMinecraftDownloadFinish(() => {
+    //   this.downloadProgress = 0
+    //   this.loading = false
+    //   console.log('onMinecraftDownloadFinish', arguments)
+    // })
   },
 })
 </script>

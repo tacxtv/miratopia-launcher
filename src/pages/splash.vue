@@ -11,13 +11,16 @@ div.fit.flex(:style='{flexFlow: "column", background: "url(" + launcher?.config?
 
 <script lang='ts'>
 import type { Launcher } from '~~/types/launcher.type'
-import type { UnwrapNestedRefs } from '@vue/reactivity'
+
+definePageMeta({
+  layout: 'simple',
+})
 
 export default defineNuxtComponent({
   inject: ['global-launcher'],
   computed: {
     launcher(): Launcher {
-      return (this['global-launcher'] as UnwrapNestedRefs<{ data: Launcher }>).data
+      return (this['global-launcher'])
     },
   },
   methods: {

@@ -1,5 +1,15 @@
 <template lang="pug">
-div.fit(:style='{background: `url(${backgroundUrl}) no-repeat center center fixed`}')
+//- div.fit(:style='{background: `url(${backgroundUrl}) no-repeat center center fixed`}')
+div.fit(style="overflow: hidden;position: absolute;top: 0;bottom: 0;")
+  video(
+    v-for="video in videos"
+    v-show="selectedVideo === video.name"
+    :id="'video-' + video.name" muted playsinline
+    :src='baseVideoUrl + video.name'
+    ref="video"
+    :style='{position: "absolute", objectFit: "none"}'
+    style="z-index: -1;overflow: hidden;min-width: 100%;min-height: 100%;width: auto;height: auto;"
+  )
   q-splitter.full-height.gradient(v-model='splitter' :horizontal='!launcher.config.menu.vertical' disable)
     template(v-slot:before)
       div.flex.fit(:style='{flexFlow: menuFlow}')
@@ -19,18 +29,17 @@ div.fit(:style='{background: `url(${backgroundUrl}) no-repeat center center fixe
 
     template(v-slot:after)
       div.flex.fit(:style='{flexFlow: "column"}')
-        q-tab-panels.fit.transparent(v-mod§el='tab' transition-prev="jump-up" transition-next="jump-up" animated swipeable)
+        q-tab-panels.fit.transparent(v-model='tab' transition-prev="jump-up" transition-next="jump-up" animated swipeable)
           q-tab-panel.fit.q-pa-none.overflow-hidden(v-for='modpack in modpacks' :key='modpack.id' :name='modpack.name')
             modpack-display(:modpack='modpack')
         q-bar
           q-space
-          small v1.0.0
+          small(v-text="'v' + packageVersion")
   settings-dialog
 </template>
 
 <script lang="ts">
 import { reactive, ref } from 'vue'
-import type { UnwrapNestedRefs } from '@vue/reactivity'
 import type { Launcher } from '~~/types/launcher.type'
 import type { Modpack } from '~~/types/modpack.type'
 
@@ -38,6 +47,8 @@ export default defineNuxtComponent({
   inject: ['global-launcher', 'global-modpacks'],
   data: () => ({
     tab: ref(''),
+    videoPlayer: ref<HTMLVideoElement | null>(null),
+    selectedVideo: '',
     settingsDialog: reactive({
       data: false,
     }),
@@ -47,10 +58,10 @@ export default defineNuxtComponent({
   }),
   computed: {
     launcher(): Launcher {
-      return (this['global-launcher'] as UnwrapNestedRefs<{ data: Launcher }>).data
+      return (this['global-launcher']) as Launcher
     },
     modpacks(): Modpack[] {
-      return (this['global-modpacks'] as UnwrapNestedRefs<{ data: Modpack[] }>).data
+      return (this['global-modpacks']) as Modpack[]
     },
     menuFlow(): string {
       let flow = this.launcher.config.menu.vertical ? 'column' : 'row'
@@ -62,13 +73,119 @@ export default defineNuxtComponent({
     },
   },
   setup() {
+    const videos = [
+      {
+        "name": "/videos/Bateau_pirate.mp4"
+      },
+      {
+        "name": "/videos/Bibliotheque.mp4"
+      },
+      {
+        "name": "/videos/Champs.mp4"
+      },
+      {
+        "name": "/videos/Chateau.mp4"
+      },
+      {
+        "name": "/videos/Coatlicue.mp4"
+      },
+      {
+        "name": "/videos/Collisee.mp4"
+      },
+      {
+        "name": "/videos/Cuisine.mp4"
+      },
+      {
+        "name": "/videos/Demonis.mp4"
+      },
+      {
+        "name": "/videos/Ecole.mp4"
+      },
+      {
+        "name": "/videos/Ecole_1.mp4"
+      },
+      {
+        "name": "/videos/Ferme.mp4"
+      },
+      {
+        "name": "/videos/Forteresse_2.mp4"
+      },
+      {
+        "name": "/videos/Forteresse_3.mp4"
+      },
+      {
+        "name": "/videos/Fraktalis_plan_large.mp4"
+      },
+      {
+        "name": "/videos/Fraktalis_plan_large_2.mp4"
+      },
+      {
+        "name": "/videos/Frelheim.mp4"
+      },
+      {
+        "name": "/videos/Marche.mp4"
+      },
+      {
+        "name": "/videos/Oui_Heberg.mp4"
+      },
+      {
+        "name": "/videos/Paradis.mp4"
+      },
+      {
+        "name": "/videos/Place.mp4"
+      },
+      {
+        "name": "/videos/Plan_Sekeris.mp4"
+      },
+      {
+        "name": "/videos/Plan_Sekeris_2.mp4"
+      },
+      {
+        "name": "/videos/Pub.mp4"
+      },
+      {
+        "name": "/videos/Pyramid.mp4"
+      },
+      {
+        "name": "/videos/Restaurant.mp4"
+      },
+      {
+        "name": "/videos/Temple_3.mp4"
+      },
+      {
+        "name": "/videos/Tour_ensorceleur.mp4"
+      },
+      {
+        "name": "/videos/Viridiana.mp4"
+      },
+      {
+        "name": "/videos/Viridiana_plan_large.mp4"
+      }
+    ]
+    const runtimeConfig = useRuntimeConfig()
     const backgroundUrl = ref('https://www.oxygenserv.com/wp-content/uploads/2023/03/171177.jpg')
     const splitter = ref(25)
 
+    console.log('runtimeConfig.app.installDir', runtimeConfig.app.installDir.replace(/\\/g, '/'))
+
     return {
+      videos,
       backgroundUrl,
       splitter,
+      packageVersion: runtimeConfig.app.packageVersion,
+      baseVideoUrl: 'https://github.com/tacxtv/miratopia-launcher/raw/config/launcher',
     }
+  },
+  methods: {
+    onVideoEnded(e: any) {
+      const nextVideo = this.videos[Math.floor(Math.random() * this.videos.length)]
+      this.videoPlayer?.removeEventListener('ended', this.onVideoEnded, false)
+      this.videoPlayer = document.getElementById('video-' + nextVideo.name) as HTMLVideoElement
+      this.videoPlayer.addEventListener('ended', this.onVideoEnded, false)
+      this.selectedVideo = nextVideo.name
+      this.videoPlayer.playbackRate = 0.9
+      this.videoPlayer.play()
+    },
   },
   provide() {
     return {
@@ -76,8 +193,15 @@ export default defineNuxtComponent({
       'settings-tab': ref(this.settingsTab),
     }
   },
-  mounted() {
+  created() {
+    this.selectedVideo = this.videos[Math.floor(Math.random() * this.videos.length)].name
     this.tab = this.defaultModpack.name
+  },
+  mounted() {
+    this.videoPlayer = document.getElementById('video-' + this.selectedVideo) as HTMLVideoElement
+    this.videoPlayer.addEventListener('ended', this.onVideoEnded, false)
+    this.videoPlayer.playbackRate = 0.9
+    this.videoPlayer.play()
   },
 })
 </script>

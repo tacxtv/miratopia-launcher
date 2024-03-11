@@ -15,7 +15,7 @@ q-card(flat)
               q-input(v-model.number='resolution.height' type='number' filled square dense)
               q-checkbox.q-px-md(v-model='resolution.fullscreen' label='Plein écran' dense)
       q-separator.q-my-sm
-      q-expansion-item(icon='mdi-move-resize' label='Résolution' caption="Résolution appliquée au lancement de Minecraft")
+      //- q-expansion-item(icon='mdi-move-resize' label='Résolution' caption="Résolution appliquée au lancement de Minecraft")
         q-card(flat)
           q-card-section
             div.full-width.flex.items-center

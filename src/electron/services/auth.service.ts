@@ -26,7 +26,7 @@ export class AuthService {
       if (accounts === null || accounts === undefined || accounts.length <= 0) return
       log.info('getAccounts')
       const res: any = []
-      console.log('accounts', accounts)
+      // console.log('accounts', accounts)
       accounts.forEach((account: any) => {
         res.push({
           id: account.id,
