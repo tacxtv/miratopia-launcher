@@ -1,6 +1,6 @@
 {
   "name": "@tacxtv/miratopia-launcher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Launcher officiel du serveur Minecraft Miratopia",
   "main": "dist-electron/main.js",
   "repository": "https://github.com/tacxtv/miratopia-launcher.git",
