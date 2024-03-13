@@ -1,0 +1,10 @@
+{
+  "custom.elythria_phase_1": {
+    "category": "neutral",
+    "sounds": ["custom/elythria_phase_1"]
+  },
+  "custom.elythria_phase_2": {
+    "category": "neutral",
+    "sounds": ["custom/elythria_phase_2"]
+  }
+}
