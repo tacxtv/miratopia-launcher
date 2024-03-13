@@ -38,6 +38,10 @@ declare global {
 
       launchMinecraft: (modpack: Modpack) => void
       onWindowLogEvent: (func: (...args: any[]) => void) => void
+      onMinecraftStartup: (func: (...args: any[]) => void) => void
+      onMinecraftClose: (func: (...args: any[]) => void) => void
+      onEstimatedTimeToDownload: (func: (...args: any[]) => void) => void
+      onSpeedToDownload: (func: (...args: any[]) => void) => void
     }
   }
 }
@@ -77,6 +81,10 @@ contextBridge.exposeInMainWorld('electron', {
 
   launchMinecraft: (modpack: Modpack) => ipcRenderer.invoke('launchMinecraft', modpack),
   onWindowLogEvent: (func: (...args: any[]) => void) => ipcRenderer.on('windowLogEvent', (_, ...args) => func(...args)),
+  onMinecraftStartup: (func: (...args: any[]) => void) => ipcRenderer.on('minecraftStartup', (_, ...args) => func(...args)),
+  onMinecraftClose: (func: (...args: any[]) => void) => ipcRenderer.on('minecraftClose', (_, ...args) => func(...args)),
+  onEstimatedTimeToDownload: (func: (...args: any[]) => void) => ipcRenderer.on('estimatedTimeToDownload', (_, ...args) => func(...args)),
+  onSpeedToDownload: (func: (...args: any[]) => void) => ipcRenderer.on('speedToDownload', (_, ...args) => func(...args)),
 })
 
 window.addEventListener('DOMContentLoaded', () => {

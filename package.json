@@ -1,6 +1,6 @@
 {
   "name": "@tacxtv/miratopia-launcher",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Launcher officiel du serveur Minecraft Miratopia",
   "main": "dist-electron/main.js",
   "repository": "https://github.com/tacxtv/miratopia-launcher.git",
@@ -45,7 +45,8 @@
     "jsonwebtoken": "^9.0.2",
     "minecraft-java-core": "git+https://github.com/tacxtv/minecraft-java-core.git",
     "nuxt-quasar-ui": "^2.0.7",
-    "quasar": "^2.14.6"
+    "quasar": "^2.14.6",
+    "radash": "^12.1.0"
   },
   "peerDependencies": {
     "vue": "^3.4"

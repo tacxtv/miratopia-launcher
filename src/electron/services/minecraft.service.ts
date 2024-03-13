@@ -1,23 +1,17 @@
 import { app, ipcMain } from 'electron'
 import log from 'electron-log/main'
 // noinspection ES6PreferShortImport
-import type { Modpack, ModpackFile } from '../../../types/modpack.type'
-import Store from 'electron-store'
-import { join } from 'path'
-import { Launch } from 'minecraft-java-core'
-import { sendMainWindowWebContent } from '../windows/main.window'
 import * as crypto from 'crypto'
+import Store from 'electron-store'
+import { Launch } from 'minecraft-java-core'
+import { join } from 'path'
+import { isNumber, throttle } from 'radash'
+import type { Modpack, ModpackFile } from '../../../types/modpack.type'
+import { sendMainWindowWebContent } from '../windows/main.window'
 import { AuthService } from './auth.service'
 
 const store = new Store()
 const root = join(app.getAppPath(), 'instances')
-
-function isIterable(obj: any) {
-  if (obj == null) {
-    return false
-  }
-  return typeof obj[Symbol.iterator] === 'function'
-}
 
 export class MinecraftService {
   public static name = 'MinecraftService'
@@ -26,8 +20,6 @@ export class MinecraftService {
     const list = await fetch(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/files.json`).then((res) =>
       res.json(),
     )
-    console.log(list)
-
     return list
   }
 
@@ -47,7 +39,17 @@ export class MinecraftService {
       const githubFiles = await this.fetchGithubFiles(modpack)
       files = files.concat(githubFiles)
 
+      // let i = 0
+      // while (i < 100) {
+      //   sendMainWindowWebContent('windowLogEvent', { message: `Downloading ${i}` })
+      //   i++
+      // }
+
+      sendMainWindowWebContent('windowLogEvent', { message: `Authenticate Minecraft account...` })
       await AuthService.refreshCurrentAccessToken()
+      sendMainWindowWebContent('windowLogEvent', { message: `Authentication successful !` })
+
+      sendMainWindowWebContent('minecraftStartup', null)
       await launch.Launch({
         authenticator: {
           user_properties: '{}',
@@ -105,31 +107,46 @@ export class MinecraftService {
       })
 
       launch.on('extract', (extract: any) => {
-        console.log(extract)
+        console.log('extract', extract)
       })
 
-      launch.on('progress', (progress: any, size: any, element: any) => {
-        console.log(`Downloading ${element} ${Math.round((progress / size) * 100)}%`)
-        sendMainWindowWebContent('windowLogEvent', { message: `Downloading ${element} ${Math.round((progress / size) * 100)}%` })
+      const throttleProgressEvent = (progress: number, size: number, element: string) => {
+        const progressPercentage = Math.round(((progress || 0) / (size || 0)) * 100)
+        const progressMsg = `Downloading ${element} ${progressPercentage}%`
+        sendMainWindowWebContent('windowLogEvent', { message: progressMsg })
+        log.info(progressMsg)
+      }
+      const throttledProgressEvent = throttle({ interval: 250 }, throttleProgressEvent)
+      launch.on('progress', (progress: number, size: number, element: string) => {
+        throttledProgressEvent(progress, size, element)
       })
 
-      launch.on('check', (progress: any, size: any, element: any) => {
-        console.log(`Checking ${element} ${Math.round((progress / size) * 100)}%`)
+      const throttleCheckEvent = (progress: number, size: number, element: string) => {
+        console.log(progress, size, element)
+        const progressPercentage = Math.round(((progress || 0) / (size || 0)) * 100)
+        const progressMsg = `Checking ${element} ${isNumber(progressPercentage) ? progressPercentage : 0}%`
+        sendMainWindowWebContent('windowLogEvent', { message: progressMsg })
+        log.info(progressMsg)
+      }
+      const throttledCheckEvent = throttle({ interval: 250 }, throttleCheckEvent)
+      launch.on('check', (progress: number, size: number, element: string) => {
+        throttledCheckEvent(progress, size, element)
       })
 
       launch.on('estimated', (time: any) => {
-        const hours = Math.floor(time / 3600)
-        const minutes = Math.floor((time - hours * 3600) / 60)
-        const seconds = Math.floor(time - hours * 3600 - minutes * 60)
-        console.log(`${hours}h ${minutes}m ${seconds}s`)
+        const estimatedMsg = `Estimated time: ${time ? Math.round(time) + ' seconds' : 'calculating...'}`
+        sendMainWindowWebContent('estimatedTimeToDownload', { message: estimatedMsg })
+        log.info(estimatedMsg)
       })
 
       launch.on('speed', (speed: any) => {
-        console.log(`${(speed / 1067008).toFixed(2)} Mb/s`)
+        const speedMsg = `Speed: ${(speed / 1067008).toFixed(2)} Mb/s`
+        sendMainWindowWebContent('speedToDownload', { message: speedMsg })
+        log.info(speedMsg)
       })
 
       launch.on('patch', (patch: any) => {
-        console.log(patch)
+        console.log('patch', patch)
       })
 
       launch.on('data', (e: any) => {
@@ -138,10 +155,11 @@ export class MinecraftService {
 
       launch.on('close', (code: any) => {
         console.log(code)
+        sendMainWindowWebContent('minecraftClose', null)
       })
 
       launch.on('error', (err: any) => {
-        console.log(err)
+        console.log('error', err)
       })
     })
   }

@@ -57,10 +57,12 @@ export default defineNuxtComponent({
   },
   mounted() {
     // console.log('this.$refs?.logEvents?.$el', this.$refs?.logEvents)
-    this.logsItems = ['Initialisation du launcher...']
+    this.logsItems.push('Initialisation du launcher...')
 
     window.electron.onWindowLogEvent((payload: { message?: string }) => {
-      //TODO: gérer tableau avec taille max
+      if (this.logsItems.length >= 10) {
+        this.logsItems.shift()
+      }
       if (payload.message) this.logsItems.push(payload.message)
       this.$nextTick(() => {
         const target = (this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.getScrollTarget()
@@ -68,10 +70,14 @@ export default defineNuxtComponent({
           ; (this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.setScrollPosition('vertical', target.scrollHeight, 0)
       })
     })
-    // window.electron.onMinecraftStartup(() => {
-    //   this.loading = true
-    //   console.log('onGameStartup', arguments)
-    // })
+    window.electron.onMinecraftStartup(() => {
+      this.loading = true
+      console.log('onMinecraftStartup', arguments)
+    })
+    window.electron.onMinecraftClose(() => {
+      this.loading = false
+      console.log('onMinecraftClose', arguments)
+    })
     // window.electron.onMinecraftDownloadProgress((download: { id: string; value: number }) => {
     //   this.downloadProgress = download.value
     //   console.log('onMinecraftDownloadProgress', arguments)
