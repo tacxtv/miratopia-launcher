@@ -204,6 +204,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/elythria_phase_2.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/GouverneurProxim3.ogg",
+    "size": 109231,
+    "hash": "932514388eb018c6fd77f1eac870f0b980d078e8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/GouverneurProxim3.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/yasufeu.ogg",
     "size": 1537272,
     "hash": "ab4d1d8084c2cfad7b1cd1b07002eb489f5985f8",
