@@ -11,7 +11,7 @@ import { sendMainWindowWebContent } from '../windows/main.window'
 import { AuthService } from './auth.service'
 
 const store = new Store()
-const root = join(app.getAppPath(), 'instances')
+const root = join(app.getAppPath(), '../instances')
 
 export class MinecraftService {
   public static name = 'MinecraftService'
