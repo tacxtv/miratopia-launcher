@@ -1,20 +1,26 @@
 {
-  "custom.elythria_phase_1": {
+  "custom.boss_elythria_phase_1": {
     "category": "neutral",
     "sounds": [
-      "custom/elythria_phase_1"
+      "custom/boss_elythria_phase_1"
     ]
   },
-  "custom.elythria_phase_2": {
+  "custom.boss_elythria_phase_2": {
     "category": "neutral",
     "sounds": [
-      "custom/elythria_phase_2"
+      "custom/boss_elythria_phase_2"
     ]
   },
-  "custom.GouverneurProxim3": {
+  "custom.boss_yasufeu": {
     "category": "neutral",
     "sounds": [
-      "custom/GouverneurProxim3"
+      "custom/boss_yasufeu"
+    ]
+  },
+  "custom.pnj_gouverneur_proxim_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_gouverneur_proxim_3"
     ]
   }
 }

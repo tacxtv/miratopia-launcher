@@ -180,45 +180,45 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/config/fancymenu/user_variables.db"
   },
   {
-    "path": "resources/minecraft/sounds/custom/chevalier_phase_1.ogg",
+    "path": "resources/minecraft/sounds/custom/boss_chevalier_phase_1.ogg",
     "size": 881139,
     "hash": "ecb207c3013f8786fe17a20553313e4d77547f65",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/chevalier_phase_1.ogg"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_chevalier_phase_1.ogg"
   },
   {
-    "path": "resources/minecraft/sounds/custom/chevalier_phase_2.ogg",
+    "path": "resources/minecraft/sounds/custom/boss_chevalier_phase_2.ogg",
     "size": 624088,
     "hash": "779ec89817744d306761ca882f235ea15707a396",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/chevalier_phase_2.ogg"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_chevalier_phase_2.ogg"
   },
   {
-    "path": "resources/minecraft/sounds/custom/elythria_phase_1.ogg",
+    "path": "resources/minecraft/sounds/custom/boss_elythria_phase_1.ogg",
     "size": 714337,
     "hash": "8b1f5bbb193a776d9a1e17d7234fd4155a63fba8",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/elythria_phase_1.ogg"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_elythria_phase_1.ogg"
   },
   {
-    "path": "resources/minecraft/sounds/custom/elythria_phase_2.ogg",
+    "path": "resources/minecraft/sounds/custom/boss_elythria_phase_2.ogg",
     "size": 1050627,
     "hash": "3d4ad7de803583846cc5c5a1f0a3eb7d140ea242",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/elythria_phase_2.ogg"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_elythria_phase_2.ogg"
   },
   {
-    "path": "resources/minecraft/sounds/custom/GouverneurProxim3.ogg",
-    "size": 109231,
-    "hash": "932514388eb018c6fd77f1eac870f0b980d078e8",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/GouverneurProxim3.ogg"
-  },
-  {
-    "path": "resources/minecraft/sounds/custom/yasufeu.ogg",
+    "path": "resources/minecraft/sounds/custom/boss_yasufeu.ogg",
     "size": 1537272,
     "hash": "ab4d1d8084c2cfad7b1cd1b07002eb489f5985f8",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/yasufeu.ogg"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_yasufeu.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_3.ogg",
+    "size": 109231,
+    "hash": "932514388eb018c6fd77f1eac870f0b980d078e8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_proxim_3.ogg"
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 374,
-    "hash": "b516b74591273b4fbca016e7bd0a8e7d7f7fef99",
+    "size": 521,
+    "hash": "62cdeaa5250367d6f27097ec4bc34c25c1ceed86",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   }
 ]
