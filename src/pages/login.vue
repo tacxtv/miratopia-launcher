@@ -4,12 +4,11 @@ div.fit.flex(:style='{flexFlow: "column"}')
     q-btn(label='Connexion' color='primary' icon="mdi-login-variant" size='lg' @click='getAccessToken')
   q-bar
     q-space
-    small v1.0.0
+    small(v-text="'v' + packageVersion")
 </template>
 
 <script lang='ts'>
 import type { Launcher } from '~~/types/launcher.type'
-import type { UnwrapNestedRefs } from '@vue/reactivity'
 
 definePageMeta({
   layout: 'simple',
@@ -17,14 +16,21 @@ definePageMeta({
 
 export default defineNuxtComponent({
   inject: ['global-launcher'],
+  setup() {
+    const runtimeConfig = useRuntimeConfig()
+
+    return {
+      packageVersion: runtimeConfig.app.packageVersion,
+    }
+  },
   computed: {
     launcher(): Launcher {
-      return (this['global-launcher'])
+      return (this['global-launcher']) as Launcher
     },
   },
   methods: {
     getAccessToken() {
-      window.electron?.getAccessToken()
+      window.electron?.getAccessToken(true)
     },
   },
 })

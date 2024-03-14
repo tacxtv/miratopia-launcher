@@ -9,6 +9,7 @@ import { isNumber, throttle } from 'radash'
 import type { Modpack, ModpackFile } from '../../../types/modpack.type'
 import { sendMainWindowWebContent } from '../windows/main.window'
 import { AuthService } from './auth.service'
+import axios from 'axios'
 
 const store = new Store()
 const root = join(app.getPath('userData'), '/instances')
@@ -26,6 +27,10 @@ export class MinecraftService {
   public async registerEvents(): Promise<void> {
     ipcMain.handle('launchMinecraft', async (_, modpack: Modpack) => {
       log.info('launchMinecraft', modpack.id)
+
+      modpack = (await axios.get(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/modpack.json`))
+        .data as Modpack
+
       const launch = new Launch()
       const loader = {} as any
       for (const l of modpack.loaders) {
@@ -38,12 +43,6 @@ export class MinecraftService {
       let files = modpack.files.filter((f) => !f.optional || optionalFiles.find((o) => o.path === f.path && o.enabled))
       const githubFiles = await this.fetchGithubFiles(modpack)
       files = files.concat(githubFiles)
-
-      // let i = 0
-      // while (i < 100) {
-      //   sendMainWindowWebContent('windowLogEvent', { message: `Downloading ${i}` })
-      //   i++
-      // }
 
       sendMainWindowWebContent('windowLogEvent', { message: `Authenticate Minecraft account...` })
       await AuthService.refreshCurrentAccessToken()

@@ -86,10 +86,7 @@ q-card(flat)
 
 <script lang="ts">
 import type { PropType } from 'vue'
-import { useQuasar } from 'quasar'
 import type { Modpack, ModpackFile } from '~~/types/modpack.type'
-
-const $q = useQuasar()
 
 export default defineNuxtComponent({
   props: {

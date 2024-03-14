@@ -46,8 +46,8 @@ export default defineNuxtComponent({
   }),
   methods: {
     openSettings() {
-      ; (this['settings-dialog'] as { data: boolean }).data = true
-        ; (this['settings-tab'] as { data: string }).data = this.modpack.name
+      (this['settings-dialog'] as { data: boolean }).data = true;
+      (this['settings-tab'] as { data: string }).data = this.modpack.name;
     },
     launchMinecraft() {
       this.logsDisplay = true

@@ -81,9 +81,12 @@ export class AuthService {
       await AuthService.logout()
     })
 
-    ipcMain.on('getAccessToken', async () => {
+    ipcMain.on('getAccessToken', async (event, reset: boolean = false) => {
       log.info('storeb', store.store)
       log.info('(<any>global).share.auth', (<any>global).share.auth)
+      if (reset) {
+        await AuthService.logout(false)
+      }
       await AuthService.authWithMicrosoft()
     })
 
@@ -187,7 +190,7 @@ export class AuthService {
       await AuthService.authWithMicrosoft(!changeAccount)
       return
     }
-    console.log('transparent', transparent)
+    // console.log('transparent', transparent)
     await AuthService.saveUserInfos(accessToken, refreshToken, mcInfo, transparent)
   }
 
@@ -223,7 +226,7 @@ export class AuthService {
         sendLoginWindowWebContent('setLoginBtn', false)
       }
     })
-    console.log('authHandler.forwardUrl', authHandler.forwardUrl)
+    // console.log('authHandler.forwardUrl', authHandler.forwardUrl)
     // noinspection ES6MissingAwait
     authWindow.loadURL(authHandler.forwardUrl)
     const filter = { urls: [REDIRECT_URL] }
@@ -232,7 +235,7 @@ export class AuthService {
       authWindowclosedByUser = false
       authWindow.close()
       const code = details.url.split('=')[1].split('&')[0]
-      console.log('code', code)
+      // console.log('code', code)
       if (!code) {
         log.error('ERROR: The MC code is null.')
         sendLoginWindowWebContent('setLoginBtn', false)
@@ -265,7 +268,7 @@ export class AuthService {
 
   public static async refreshCurrentAccessToken(): Promise<void> {
     const currAccount = store.get('current-account')
-    console.log('currAccount', currAccount)
+    // console.log('currAccount', currAccount)
     const accounts: any = store.get('accounts')
     const index = accounts.findIndex((account: any) => account.username === currAccount)
     await AuthService.loginUser(accounts[index], false, true)
@@ -280,7 +283,7 @@ export class AuthService {
     }
   }
 
-  public static async logout(): Promise<void> {
+  public static async logout(recreateWindow: boolean = true): Promise<void> {
     store.set('current-account', null)
     ;(<any>global).share.auth.access_token = ''
     ;(<any>global).share.auth.xuid = ''
@@ -288,7 +291,10 @@ export class AuthService {
     ;(<any>global).share.auth.name = ''
     await session.defaultSession.clearCache()
     await session.defaultSession.clearStorageData()
-    await createLoginWindow()
-    destroyMainWindow()
+
+    if (recreateWindow) {
+      await createLoginWindow()
+      destroyMainWindow()
+    }
   }
 }

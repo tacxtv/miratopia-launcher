@@ -6,7 +6,7 @@ div.fit.flex(:style='{flexFlow: "column", background: "url(" + launcher?.config?
       h6.text-white.q-mt-md.q-mb-sm Vérification des mises à jour...
   q-bar
     q-space
-    small v1.0.0
+    small(v-text="'v' + packageVersion")
 </template>
 
 <script lang='ts'>
@@ -18,9 +18,16 @@ definePageMeta({
 
 export default defineNuxtComponent({
   inject: ['global-launcher'],
+  setup() {
+    const runtimeConfig = useRuntimeConfig()
+
+    return {
+      packageVersion: runtimeConfig.app.packageVersion,
+    }
+  },
   computed: {
     launcher(): Launcher {
-      return (this['global-launcher'])
+      return (this['global-launcher']) as Launcher
     },
   },
   methods: {

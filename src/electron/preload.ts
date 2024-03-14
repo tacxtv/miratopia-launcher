@@ -14,7 +14,7 @@ declare global {
       checkForUpdates: () => void
       quitAndInstallUpdate: () => void
 
-      getAccessToken: () => void
+      getAccessToken: (reset?: boolean) => void
       getAccounts: () => Promise<any[]>
       currentAccount: () => Promise<string>
       changeAccount: (accountName: string) => Promise<void>
@@ -57,7 +57,7 @@ contextBridge.exposeInMainWorld('electron', {
   checkForUpdates: () => ipcRenderer.send('checkForUpdates'),
   quitAndInstallUpdate: () => ipcRenderer.send('quitAndInstallUpdate'),
 
-  getAccessToken: () => ipcRenderer.send('getAccessToken'),
+  getAccessToken: (reset?: boolean) => ipcRenderer.send('getAccessToken', !!reset),
   getAccounts: () => ipcRenderer.invoke('getAccounts'),
   currentAccount: () => ipcRenderer.invoke('currentAccount'),
   changeAccount: (accountName: string) => ipcRenderer.send('changeAccount', accountName),

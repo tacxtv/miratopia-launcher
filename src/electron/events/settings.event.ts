@@ -7,6 +7,7 @@ import { join } from 'path'
 import { rmSync } from 'fs'
 
 const store = new Store()
+const root = join(app.getPath('userData'), '/instances')
 
 export class SettingsEvent {
   public static name = 'SettingsEvent'
@@ -76,7 +77,7 @@ export class SettingsEvent {
       }
     })
     ipcMain.on('openFolderModPack', (_, modpack: Modpack) => {
-      shell.showItemInFolder(join(app.getAppPath(), 'instances', modpack.id, 'assets'))
+      shell.showItemInFolder(join(root, modpack.id))
     })
 
     ipcMain.handle('getLauncherStayInOpen', () => {

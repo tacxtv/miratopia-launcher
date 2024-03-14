@@ -163,14 +163,10 @@ export default defineNuxtComponent({
       }
     ]
     const runtimeConfig = useRuntimeConfig()
-    const backgroundUrl = ref('https://www.oxygenserv.com/wp-content/uploads/2023/03/171177.jpg')
     const splitter = ref(25)
-
-    console.log('runtimeConfig.app.installDir', runtimeConfig.app.installDir.replace(/\\/g, '/'))
 
     return {
       videos,
-      backgroundUrl,
       splitter,
       packageVersion: runtimeConfig.app.packageVersion,
       baseVideoUrl: 'https://github.com/tacxtv/miratopia-launcher/raw/config/launcher',
