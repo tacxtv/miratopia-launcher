@@ -8,10 +8,10 @@
         },
         "pages": {
             "login": {
-                "background": "https://www.oxygenserv.com/wp-content/uploads/2023/03/171177.jpg"
+                "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/background.png"
             },
             "splash": {
-                "background": "https://www.oxygenserv.com/wp-content/uploads/2023/03/171177.jpg"
+                "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/background.png"
             }
         }
     }
