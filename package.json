@@ -8,7 +8,7 @@
   "license": "BSD-3-Clause",
   "private": true,
   "scripts": {
-    "postinstall": "clean-modules -y !node_modules/yaml/dist/** && nuxt prepare",
+    "postinstall": "clean-modules -y && nuxt prepare",
     "dev": "nuxi dev",
     "build": "yarn run build:nuxt && yarn run build:electron",
     "build:nuxt": "nuxi build --prerender",
