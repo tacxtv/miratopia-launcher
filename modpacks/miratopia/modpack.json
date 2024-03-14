@@ -16,7 +16,8 @@
       "easy_npc",
       "fancymenu_data",
       "patchouli_books",
-      "schematics"
+      "schematics",
+      "servers.dat"
     ],
     "loaders": [
       {
