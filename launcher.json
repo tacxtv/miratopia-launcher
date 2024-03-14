@@ -8,10 +8,10 @@
         },
         "pages": {
             "login": {
-                "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/background.png"
+                "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/login.png"
             },
             "splash": {
-                "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/background.png"
+                "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/splash.png"
             }
         }
     }
