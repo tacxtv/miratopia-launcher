@@ -115,7 +115,7 @@ export class MinecraftService {
         sendMainWindowWebContent('windowLogEvent', { message: progressMsg })
         log.info(progressMsg)
       }
-      const throttledProgressEvent = throttle({ interval: 250 }, throttleProgressEvent)
+      const throttledProgressEvent = throttle({ interval: 100 }, throttleProgressEvent)
       launch.on('progress', (progress: number, size: number, element: string) => {
         throttledProgressEvent(progress, size, element)
       })
@@ -127,7 +127,7 @@ export class MinecraftService {
         sendMainWindowWebContent('windowLogEvent', { message: progressMsg })
         log.info(progressMsg)
       }
-      const throttledCheckEvent = throttle({ interval: 250 }, throttleCheckEvent)
+      const throttledCheckEvent = throttle({ interval: 100 }, throttleCheckEvent)
       launch.on('check', (progress: number, size: number, element: string) => {
         throttledCheckEvent(progress, size, element)
       })

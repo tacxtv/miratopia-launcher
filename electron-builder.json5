@@ -5,6 +5,7 @@
   appId: 'fr.tacxtv.miratopia-launcher',
   productName: 'Miratopia Launcher',
   asar: true,
+  compression: 'maximum',
   publish: {
     provider: 'github',
   },

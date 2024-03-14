@@ -8,13 +8,14 @@
   "license": "BSD-3-Clause",
   "private": true,
   "scripts": {
-    "postinstall": "nuxt prepare",
+    "postinstall": "clean-modules -y !node_modules/yaml/dist/** && nuxt prepare",
     "dev": "nuxi dev",
     "build": "yarn run build:nuxt && yarn run build:electron",
     "build:nuxt": "nuxi build --prerender",
     "build:electron": "electron-builder"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.6",
     "@types/node": "^20.11.24",
     "@typescript-eslint/eslint-plugin": "^7.1.1",
     "@typescript-eslint/parser": "^7.1.1",
