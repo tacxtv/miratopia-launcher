@@ -210,15 +210,81 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_yasufeu.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_1.ogg",
+    "size": 140012,
+    "hash": "cfef726741e01f4ec95f7cc8ea2c42030122f4fe",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_proxim_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_2.ogg",
+    "size": 92817,
+    "hash": "7d6da43cfa28b64fec760d78c0497e93bc5aca63",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_proxim_2.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_3.ogg",
     "size": 109231,
     "hash": "932514388eb018c6fd77f1eac870f0b980d078e8",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_proxim_3.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_replique_1.ogg",
+    "size": 228195,
+    "hash": "ce1da15e71f5ed8da0ab7aeabbcc78f0c76350ae",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_replique_2.ogg",
+    "size": 686715,
+    "hash": "45fe50136b5897e9b0c31e2b4293ff4fe38f9682",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_replique_3.ogg",
+    "size": 523278,
+    "hash": "0b5185685bc706259443991c1aa78153edfe77b6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_3.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_replique_4.ogg",
+    "size": 592872,
+    "hash": "83eb5b131411ec7045b3492f30d4a6c3f3641905",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_4.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur_replique_5.ogg",
+    "size": 754388,
+    "hash": "d5526e375714f1fe147246f949feb265ddb55249",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_5.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_1.ogg",
+    "size": 645978,
+    "hash": "12cec92ac6b1a4501c443a51b561aaed527ba42a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_rosalia_replique_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_2.ogg",
+    "size": 411252,
+    "hash": "b8ba81c715e0cce0259b636ed45ec1e80daf4a34",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_rosalia_replique_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_3.ogg",
+    "size": 392009,
+    "hash": "8ba81f7d81a945f072987cc885b46e1d4b07d7ca",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_rosalia_replique_3.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_4.ogg",
+    "size": 424668,
+    "hash": "d388600ff5c73dc366daabf7ced1a49bb449cf69",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_rosalia_replique_4.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds.json",
-    "size": 521,
-    "hash": "62cdeaa5250367d6f27097ec4bc34c25c1ceed86",
+    "size": 2040,
+    "hash": "a220475cd684b0457f37e68e2abe0b6817d9e018",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   }
 ]
