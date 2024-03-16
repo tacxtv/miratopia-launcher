@@ -1,4 +1,82 @@
 {
+  "custom.pdv_tour_du_diable": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_tour_du_diable"
+    ]
+  },
+  "custom.pdv_tour_du_demon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_tour_du_demon"
+    ]
+  },
+  "custom.pdv_hotel_de_ville": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_hotel_de_ville"
+    ]
+  },
+  "custom.pdv_mongolfiere_rouge": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_mongolfiere_rouge"
+    ]
+  },
+  "custom.pdv_taverne-poney_fringant": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_taverne-poney_fringant"
+    ]
+  },
+  "custom.pdv_arbre_pleureur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_arbre_pleureur"
+    ]
+  },
+  "custom.pdv_tour_ensorcelleur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_tour_ensorcelleur"
+    ]
+  },
+  "custom.pdv_coatlicue": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_coatlicue"
+    ]
+  },
+  "custom.pdv_fractalis_centre": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_fractalis_centre"
+    ]
+  },
+  "custom.pdv_fraktalis_tour_hebergement": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_fraktalis_tour_hebergement"
+    ]
+  },
+  "custom.pdv_fraktalis_thousand_funny": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pdv_fraktalis_thousand_funny"
+    ]
+  },
+  "custom.boss_chevalier_phase_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_chevalier_phase_1"
+    ]
+  },
+  "custom.boss_chevalier_phase_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_chevalier_phase_2"
+    ]
+  },
   "custom.boss_elythria_phase_1": {
     "category": "neutral",
     "sounds": [
@@ -11,10 +89,46 @@
       "custom/boss_elythria_phase_2"
     ]
   },
+  "custom.boss_terra": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_terra"
+    ]
+  },
   "custom.boss_yasufeu": {
     "category": "neutral",
     "sounds": [
       "custom/boss_yasufeu"
+    ]
+  },
+  "custom.boss_academy_phase_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_academy_phase_1"
+    ]
+  },
+  "custom.boss_academy_phase_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_academy_phase_2"
+    ]
+  },
+  "custom.boss_lune": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune"
+    ]
+  },
+  "custom.boss_soleil": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_soleil"
+    ]
+  },
+  "custom.boss_gandoulf": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf"
     ]
   },
   "custom.pnj_gouverneur_replique_1": {
@@ -87,6 +201,30 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_rosalia_replique_4"
+    ]
+  },
+  "custom.pnj_mark_page_replique_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_mark_page_replique_1"
+    ]
+  },
+  "custom.pnj_mark_page_replique_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_mark_page_replique_2"
+    ]
+  },
+  "custom.pnj_celine_replique_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_celine_replique_1"
+    ]
+  },
+  "custom.pnj_macgo_lagalle_replique_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_macgo_lagalle_replique_1"
     ]
   }
 }

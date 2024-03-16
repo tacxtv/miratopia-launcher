@@ -180,6 +180,18 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/config/fancymenu/user_variables.db"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_academy_phase_1.ogg",
+    "size": 437927,
+    "hash": "c2db5b11bfe49a732a6c2f33a17f8d9a646a57e4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_academy_phase_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_academy_phase_2.ogg",
+    "size": 923999,
+    "hash": "e07313fd3acaa9e8d045b1635d27c1a6e720b88f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_academy_phase_2.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_chevalier_phase_1.ogg",
     "size": 881139,
     "hash": "ecb207c3013f8786fe17a20553313e4d77547f65",
@@ -194,20 +206,116 @@
   {
     "path": "resources/minecraft/sounds/custom/boss_elythria_phase_1.ogg",
     "size": 714337,
-    "hash": "8b1f5bbb193a776d9a1e17d7234fd4155a63fba8",
+    "hash": "96006a7c405d53dc8c1125b0b11f0ea162ec1f64",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_elythria_phase_1.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/boss_elythria_phase_2.ogg",
-    "size": 1050627,
-    "hash": "3d4ad7de803583846cc5c5a1f0a3eb7d140ea242",
+    "size": 1248129,
+    "hash": "e96ee26296b81883130b7e413ed6d7ad39c49512",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_elythria_phase_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_gandoulf.ogg",
+    "size": 1075209,
+    "hash": "137ad2f459df2ceac23cc2b8d11cc5e9b709b24e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_gandoulf.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune.ogg",
+    "size": 1059118,
+    "hash": "8bd515b357dcd83e804f25f74c591b93c3a36875",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_soleil.ogg",
+    "size": 1060676,
+    "hash": "861465c7a5ff50a5740abd2c39959c785f0a16bf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_soleil.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_terra.ogg",
+    "size": 1269344,
+    "hash": "e9e3c4befdc0448071316bbf971a8c630324fe19",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_terra.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/boss_yasufeu.ogg",
     "size": 1537272,
     "hash": "ab4d1d8084c2cfad7b1cd1b07002eb489f5985f8",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_yasufeu.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_arbre_pleureur.ogg",
+    "size": 512497,
+    "hash": "617a2e23c32755f31d34cd44e1ee3588c26c9b27",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_arbre_pleureur.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_coatlicue.ogg",
+    "size": 577572,
+    "hash": "29cce8e9cb9d31304abfea7586616de1015db5ed",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_coatlicue.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_fractalis_centre.ogg",
+    "size": 594394,
+    "hash": "2b8253efa3abc4a971efeebf9f1e32d1c8ae3532",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_fractalis_centre.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_fraktalis_thousand_funny.ogg",
+    "size": 581043,
+    "hash": "fe4c1b528d6fe2bf36bb38e742c73831df4a7931",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_fraktalis_thousand_funny.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_fraktalis_tour_hebergement.ogg",
+    "size": 563856,
+    "hash": "f2286ba91c02b6bbe02e0362e8d730800a5ccf61",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_fraktalis_tour_hebergement.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_hotel_de_ville.ogg",
+    "size": 561213,
+    "hash": "df3f912703ffb849a01f9a12c181d96fb2aea4bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_hotel_de_ville.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_mongolfiere_rouge.ogg",
+    "size": 574149,
+    "hash": "efd9007cf76945d6c332e14e6e8dcd35851fdff1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_mongolfiere_rouge.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_taverne-poney_fringant.ogg",
+    "size": 608432,
+    "hash": "ce32e1902f3ea4aa8bbf33f70a2843905d66e7b9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_taverne-poney_fringant.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_tour_du_demon.ogg",
+    "size": 519588,
+    "hash": "95f3d71507c951d8fee7f746bd7bfab63f056d43",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_tour_du_demon.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_tour_du_diable.ogg",
+    "size": 590090,
+    "hash": "b5448d9d7bd9985a42bbc01a5d6c99daff9b60bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_tour_du_diable.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pdv_tour_ensorcelleur.ogg",
+    "size": 660696,
+    "hash": "dcf7a2415b6ae9937a24cf8543111c1d9822e067",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_tour_ensorcelleur.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_celine_replique_1.ogg",
+    "size": 703294,
+    "hash": "56dadac27a9dcaba3c461688e7a1dc86a32906c8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_celine_replique_1.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_1.ogg",
@@ -258,6 +366,30 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_5.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_macgo_lagalle_replique_1.ogg",
+    "size": 274912,
+    "hash": "3147e940be20ab86356716b7bc222c20a491cf91",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_macgo_lagalle_replique_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_mark_page_proxim_1.ogg",
+    "size": 82146,
+    "hash": "9e57ec786ab6b6c907ae015a197bbfd7a1f4bff8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_mark_page_proxim_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_mark_page_replique_1.ogg",
+    "size": 902868,
+    "hash": "6ebe04b14adfbfa6234b046e6c53896ab61bc742",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_mark_page_replique_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_mark_page_replique_2.ogg",
+    "size": 467858,
+    "hash": "450c43cba7753f0d78213e601265a4808633c35e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_mark_page_replique_2.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_1.ogg",
     "size": 645978,
     "hash": "12cec92ac6b1a4501c443a51b561aaed527ba42a",
@@ -283,8 +415,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 2040,
-    "hash": "a220475cd684b0457f37e68e2abe0b6817d9e018",
+    "size": 5041,
+    "hash": "b473314878c0e64cd7f01951e32565bb89b048d3",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   }
 ]
