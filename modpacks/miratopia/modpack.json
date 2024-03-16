@@ -58,6 +58,11 @@
         "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/JUrMdJP1/balm-forge-1.20.1-7.2.1.jar"
       },
       {
+        "optional": true,
+        "path": "mods/probejs-6.0.0-forge.jar",
+        "url": "https://github.com/Prunoideae/ProbeJS/releases/download/v6.0.0/probejs-6.0.0-forge.jar"
+      },
+      {
         "hash": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
         "optional": true,
         "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
