@@ -180,6 +180,90 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/config/fancymenu/user_variables.db"
   },
   {
+    "path": "resources/minecraft/atlases/blocks.json",
+    "size": 71,
+    "hash": "f52bc57294de35504cbef904dd5332a391f8883e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/atlases/blocks.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/head.json",
+    "size": 141,
+    "hash": "70b3701c992f49872c85bf56fcd26b67286c2db7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/head.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/left_arm.json",
+    "size": 152,
+    "hash": "767180856d731ae223e4f4289b239dae922183af",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/left_arm.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/left_leg.json",
+    "size": 142,
+    "hash": "7b06926fefa4bacb148b5bcca914d16dc79339fd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/left_leg.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/right_arm.json",
+    "size": 151,
+    "hash": "ba95f45434e9cdce5744cd608e47196bdf7dcd8e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/right_arm.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/right_leg.json",
+    "size": 142,
+    "hash": "7b06926fefa4bacb148b5bcca914d16dc79339fd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/right_leg.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/slim_left.json",
+    "size": 157,
+    "hash": "1797307b8410294ac4b8c6e9b087943298ae34f2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/slim_left.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/slim_right.json",
+    "size": 156,
+    "hash": "6d3501fdb3a5467d2b40f109cf80fefd7acaf3e9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/slim_right.json"
+  },
+  {
+    "path": "resources/minecraft/models/custom/entities/player/torso.json",
+    "size": 141,
+    "hash": "e5b2e51a47278fe8ba7c8b8a98811d2450537bb9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/custom/entities/player/torso.json"
+  },
+  {
+    "path": "resources/minecraft/models/item/leather_horse_armor.json",
+    "size": 44156,
+    "hash": "17e91fd39de1bd29f758702dda8871364aafc5c4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/item/leather_horse_armor.json"
+  },
+  {
+    "path": "resources/minecraft/models/item/player_head.json",
+    "size": 742,
+    "hash": "17aa913b830f26184cfe17160320983c62591693",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/models/item/player_head.json"
+  },
+  {
+    "path": "resources/minecraft/shaders/core/rendertype_entity_translucent.fsh",
+    "size": 1176,
+    "hash": "4ecaa538c906a9eb88635f1c7b3a679b0e5ba162",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/shaders/core/rendertype_entity_translucent.fsh"
+  },
+  {
+    "path": "resources/minecraft/shaders/core/rendertype_entity_translucent.json",
+    "size": 1583,
+    "hash": "31f084c68d976ef430d15f91ac69f79ab92bd9fb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/shaders/core/rendertype_entity_translucent.json"
+  },
+  {
+    "path": "resources/minecraft/shaders/core/rendertype_entity_translucent.vsh",
+    "size": 6504,
+    "hash": "8ed0dee78e23b9ef8d4fa9e4e6e36e55f7b58c00",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/shaders/core/rendertype_entity_translucent.vsh"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_academy_phase_1.ogg",
     "size": 437927,
     "hash": "c2db5b11bfe49a732a6c2f33a17f8d9a646a57e4",
@@ -418,5 +502,3491 @@
     "size": 5041,
     "hash": "b473314878c0e64cd7f01951e32565bb89b048d3",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/arm1.json",
+    "size": 10847,
+    "hash": "d790e25a8df74fc2a41474b751e6634d1ac6f237",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/arm1.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/arm1_1.json",
+    "size": 5854,
+    "hash": "73d79e013a077a4066e927af1465cbc00af704a4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/arm1_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/arm1_2.json",
+    "size": 6324,
+    "hash": "b09eabf545cc02ba2f5b445b328d001bc287686f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/arm1_2.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/arm2.json",
+    "size": 6754,
+    "hash": "45afc3626825354fe2b37c6151ffeb2ea0d8c4dd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/body.json",
+    "size": 1733,
+    "hash": "688ee5e323b1fc7387fe1b7cda371b145266d256",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/body1.json",
+    "size": 9897,
+    "hash": "0291ba8426264df796cb705692e093b33291bebb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/body1.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/head.json",
+    "size": 22576,
+    "hash": "e44957a0dd6ae4387a81e675cfa4facabdf46920",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/leg1.json",
+    "size": 16623,
+    "hash": "d6c407dc67f7eff83a67f49f69b0f0716c376151",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/leg1.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/leg1_1.json",
+    "size": 13151,
+    "hash": "e13e0df42e1e67eb253747d7ee35eb504da66a62",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/leg1_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/leg1_2.json",
+    "size": 6311,
+    "hash": "95ffb87c138a2c7a4cd2bd8591ef1dbecc1d4cff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/leg1_2.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/leg1_3.json",
+    "size": 8037,
+    "hash": "5623205ae18c04936a55349f20aa8e2d8c08078c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/leg1_3.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/leg1_4.json",
+    "size": 7292,
+    "hash": "74b3ebf5791d00765b3179d68c34653a9e78e310",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/leg1_4.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/leg2.json",
+    "size": 5870,
+    "hash": "be0b1772fb420fc7246b2e12f939ec147289f746",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sur1.json",
+    "size": 7361,
+    "hash": "c56e19a83f74429a5034e8839691f246ee68f0ce",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sur1.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sur2.json",
+    "size": 7305,
+    "hash": "229fd403db867319fb2d7e66b0f67f6a97e27f0a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sur2.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sur3.json",
+    "size": 7180,
+    "hash": "2a9edbdb4731043764db40d8c372668a4ea0b3a5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sur3.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sword.json",
+    "size": 8234,
+    "hash": "3c6ccde5c13fd92c274a27d90105a809b435d423",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sword.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sword2.json",
+    "size": 5454,
+    "hash": "456131901c17e12e4dd8899b2d37805c38d244cf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sword2.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sword3.json",
+    "size": 7754,
+    "hash": "4d616f9959d12ab7ca34fef03fefa31c71093960",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sword3.json"
+  },
+  {
+    "path": "resources/modelengine/models/cyber_ninja/sword_eff.json",
+    "size": 985,
+    "hash": "09b55a4bb734a816bcc8ae42169f41bde956a1ba",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/cyber_ninja/sword_eff.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack2_vfx.json",
+    "size": 362,
+    "hash": "4bc668a4ac9a079589b0db6dd8d1077074951a27",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack2_vfx.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack2_vfx2.json",
+    "size": 374,
+    "hash": "b43f6d7a0be7f4e1f7788b15561604020e0ab22b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack2_vfx2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack3_raser.json",
+    "size": 1639,
+    "hash": "3a627a7e0b5be565c92830d615f27a72a47dbd38",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack3_raser.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack3_raser2.json",
+    "size": 740,
+    "hash": "e2463cb8d3a709925a63336cd36a414ca2425876",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack3_raser2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack3_vfx1.json",
+    "size": 355,
+    "hash": "ef97f349f2cb812a676f4086c6dd09960f57c878",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack3_vfx1.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack3_vfx2.json",
+    "size": 351,
+    "hash": "e554d46e2207471c888ad37d41bcb8727ef7e9be",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack3_vfx2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack3_vfx3.json",
+    "size": 361,
+    "hash": "c24f0bcddca6e18b5918ed4c4e42a096dd9c81e6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack3_vfx3.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/attack3_vfx4.json",
+    "size": 356,
+    "hash": "2611224211e75868033ed1871266684609484c76",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/attack3_vfx4.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/body.json",
+    "size": 756,
+    "hash": "087a0a2ddd495a57e6b023cc4ef3c4601279fce5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/bone13.json",
+    "size": 588,
+    "hash": "8950c7af4d53ccd249e1c1a96e792f1f2bb4776d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/bone13.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/bullet.json",
+    "size": 1338,
+    "hash": "1d16a71a7f266990716705b136416d4adcf77daa",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/bullet.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/chest.json",
+    "size": 849,
+    "hash": "c7e87863236b53312b248d471ef1613bc23da36a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/chest.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/gnufire.json",
+    "size": 370,
+    "hash": "270f5437308419c366593520730ea340fbb1b3ef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/gnufire.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/gnufire2.json",
+    "size": 370,
+    "hash": "db3217c08a3424d7647bdc18693c1d351b6ace73",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/gnufire2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/gun.json",
+    "size": 10281,
+    "hash": "c2cb3a15ec11870b9b1f509c155d1f33cb66bcec",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/gun.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/gun_ro.json",
+    "size": 5965,
+    "hash": "1a8baee08493002fdabb0367f32ec4fc595e107a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/gun_ro.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/hand.json",
+    "size": 3154,
+    "hash": "33732b23a0ecfb8f43a1193989384b66a07f5518",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/hand.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/hand_missile.json",
+    "size": 755,
+    "hash": "a2567a1c69ac0a316eef9df0ac124c0728dc1f75",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/hand_missile.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/head.json",
+    "size": 2553,
+    "hash": "0356679140189ca0dc690714a46b165ff094c9ba",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/left_arm.json",
+    "size": 760,
+    "hash": "9a8c0702ca95f7b4064ffb5de896099d03cdd351",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/left_arm2.json",
+    "size": 755,
+    "hash": "3eabeb82dbb0f7d0e734dbb7ee21dd654282a282",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/left_arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/left_face.json",
+    "size": 754,
+    "hash": "54f2e4936ada2a29dee916a4053ef41bce14e8ab",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/left_face.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/left_leg.json",
+    "size": 748,
+    "hash": "6e735098eff7ef122ab6a06084409e6553f6162b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/left_leg2.json",
+    "size": 759,
+    "hash": "9ceea55e5d92dc09c238b6675f77c56160b61bcf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/left_leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/right_arm.json",
+    "size": 754,
+    "hash": "b283d08e24ae9e5f14f64c11d8e6f844e88e125f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/right_arm2.json",
+    "size": 757,
+    "hash": "f8ddee95041e9e5a40b9c7ef33a4d89bb39dc922",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/right_arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/right_face.json",
+    "size": 748,
+    "hash": "66399bbce57dde1729152a06f388b0157e5fc7e7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/right_face.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/right_leg.json",
+    "size": 749,
+    "hash": "4832f732b694addfb028a1faed3eedfbcf4208c5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/right_leg2.json",
+    "size": 756,
+    "hash": "55c15f844f783bf3ff6c9631541b1b833a76825d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/right_leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/set.json",
+    "size": 2657,
+    "hash": "e02cf97ce4b176d2707ec8d659541469378d8dbc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/set.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva/waist.json",
+    "size": 761,
+    "hash": "3624d1b9ed6f6dd5f0f0f2914d83ab808e34e389",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva/waist.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone.json",
+    "size": 537,
+    "hash": "6181e4715c0c9d6233ac3e9f2adb761575190801",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone10.json",
+    "size": 545,
+    "hash": "225d676e0f255b195dc33ae658a95ab917d26309",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone10.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone11.json",
+    "size": 545,
+    "hash": "42f3edfc96cbdbd11198ba62bcfda13fa778b843",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone11.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone12.json",
+    "size": 551,
+    "hash": "0ef32c5266a0852b8c5b826e1f44ac3023db2fb1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone12.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone13.json",
+    "size": 545,
+    "hash": "203c0e64dca355dfa7e4cf910645511c9e98121b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone13.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone2.json",
+    "size": 537,
+    "hash": "e06e02502d3d2d13dd86e8ea7fa542cc8c07ca0b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone3.json",
+    "size": 537,
+    "hash": "d25feb3c8072e965bb116d3fab007778114fa54c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone3.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone4.json",
+    "size": 537,
+    "hash": "06676cc801cdc1ec72ae028102aae38f85594a5e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone4.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone5.json",
+    "size": 541,
+    "hash": "c77e23b9f3ff306b6bd313fbe6c9fa3050d73884",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone5.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone6.json",
+    "size": 541,
+    "hash": "1136dd1dace203118b93e6b77f5e70f4df8810fa",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone6.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone7.json",
+    "size": 545,
+    "hash": "fc6e611deb4a3cdf3b60bb83b952b1d811f874ec",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone7.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone8.json",
+    "size": 545,
+    "hash": "0508ce721c03992cc45039abd9441b384b27cef5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone8.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone9.json",
+    "size": 550,
+    "hash": "dc242a19ce4782b04ec9d65e11d867e36acbcd70",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_fire_vfx/bone9.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_missile/bone.json",
+    "size": 628,
+    "hash": "56b5190aef6d6591b07e26f3fbca7891af22c02a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_missile/bone.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/body.json",
+    "size": 746,
+    "hash": "5cb4f5a939cce12132d1097126ce2692df8f89ba",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/chest.json",
+    "size": 815,
+    "hash": "62233640d265d8b3a74deedd89baa140fd740bcf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/chest.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/head.json",
+    "size": 2478,
+    "hash": "22441c527c719a47257c416c6b0e3a36068e79ac",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/left_arm.json",
+    "size": 743,
+    "hash": "6b8221a23dbe5a99bce95da3f008f8243ba9e564",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/left_arm2.json",
+    "size": 728,
+    "hash": "18a36a05cad23a1d4b23074c8d0336ef8e3dbbf3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/left_arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/left_face.json",
+    "size": 747,
+    "hash": "e1f29de0cc9589feabd70c234ddee0066904c802",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/left_face.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/left_leg.json",
+    "size": 749,
+    "hash": "38c0d4df929c8adfdfdb259ef60a6f2219f92024",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/left_leg2.json",
+    "size": 740,
+    "hash": "0b987790169d5e053ba71d07ea50efdb35953fa7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/left_leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/right_arm.json",
+    "size": 751,
+    "hash": "306c8b79602043d9543643ba96d8e6ceb7c12cd9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/right_arm2.json",
+    "size": 754,
+    "hash": "dd304bc75aaa10e5b2b6c93babc44c836c280dc9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/right_arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/right_face.json",
+    "size": 747,
+    "hash": "77aab640a076466504b2f3746433926ea191526c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/right_face.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/right_leg.json",
+    "size": 736,
+    "hash": "041538185fd963a324b361ab0e24640c6bcc9d62",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/right_leg2.json",
+    "size": 738,
+    "hash": "bdca73c19172579a7b91b1da5eedf0a4ae159e32",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/right_leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_phase2/waist.json",
+    "size": 743,
+    "hash": "b35de153855487ef9bed6b9a3b69f364cc017c72",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_phase2/waist.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_raser/bone.json",
+    "size": 619,
+    "hash": "326f2515c030f303497aa9a09e12a8ce20aef365",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_raser/bone.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_raser/bone2.json",
+    "size": 1377,
+    "hash": "fe0297c2669dfe51a907b73f476fdf30624e9e51",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_raser/bone2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/body.json",
+    "size": 761,
+    "hash": "634bd12efb6956c4a0b7f35bbf7df776b13c095d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/chest.json",
+    "size": 844,
+    "hash": "6771437ceb3f759d70babbc3f1ab8ab1759f17bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/chest.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/head.json",
+    "size": 2549,
+    "hash": "45593286235bd26dca7d0604b693d86d57656e8c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/left_arm.json",
+    "size": 753,
+    "hash": "382b0ef219bac7b8b94f1f890f40772d0b0204d7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/left_arm2.json",
+    "size": 742,
+    "hash": "e28e6c7c879a829f45cd7971e1a12c04b06a8d56",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/left_arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/left_face.json",
+    "size": 753,
+    "hash": "d260ed0b938067ebf1109b57b231fbf34bae7307",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/left_face.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/left_leg.json",
+    "size": 747,
+    "hash": "d7763f9fdbe2b0e904bf53d2699b898a7de2aed6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/left_leg2.json",
+    "size": 754,
+    "hash": "65201d9399651c0501ebad9a35c54b5df020417a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/left_leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/right_arm.json",
+    "size": 753,
+    "hash": "41fa776faae028ff5f0c64197228ab8d1187209f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/right_arm2.json",
+    "size": 737,
+    "hash": "602cb1de9e9ff95c4fa97a718403ae9a368be7ee",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/right_arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/right_face.json",
+    "size": 745,
+    "hash": "1b08b33a5433bd05d5abd820b84868da3be628d7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/right_face.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/right_leg.json",
+    "size": 748,
+    "hash": "0da7a11583213e0b701dd697b8f0e33cc5c6fb48",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/right_leg2.json",
+    "size": 753,
+    "hash": "08465916a2929fde8d35f9a4eb7a104fe6624039",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/right_leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/set.json",
+    "size": 2632,
+    "hash": "c5fc490e7f5025d33cfb62299e430da8a81c1c87",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/set.json"
+  },
+  {
+    "path": "resources/modelengine/models/gatling_bodhisattva_spawn/waist.json",
+    "size": 760,
+    "hash": "247dce080d8708c0e4aa89cf38e656ef78b32bf2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gatling_bodhisattva_spawn/waist.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/arm_left.json",
+    "size": 1203,
+    "hash": "379b458436a24b92db840614d30904828256258d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/arm_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/arm_left_low.json",
+    "size": 2470,
+    "hash": "7bbcb49a8e412e998ac197ca74a85d704c421399",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/arm_left_low.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/arm_right.json",
+    "size": 1223,
+    "hash": "ea921e8a1540d671104ccb394a9b6da988459a58",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/arm_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/arm_right_low.json",
+    "size": 2410,
+    "hash": "60ae437ab9e42217fba229f4f9d40e49a1559069",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/arm_right_low.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/bandage.json",
+    "size": 331,
+    "hash": "b22f763b115e77bc4582e94c8f9052082c6d7a75",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/bandage.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/bandage1.json",
+    "size": 326,
+    "hash": "22ff43fd1a6c2eed9b74196ca4accdfd3f40b9d9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/bandage1.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/bandage2.json",
+    "size": 343,
+    "hash": "f13bf4487bca1b6e1b3ce2698bb25bf3fad19b36",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/bandage2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/body.json",
+    "size": 1967,
+    "hash": "b9da0a3c8bc15a765ea14d18682805947362fa3c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/foot_left.json",
+    "size": 3738,
+    "hash": "6244315dfc32338e27757c5dbc4085752c374f0d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/foot_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/foot_right.json",
+    "size": 4384,
+    "hash": "80df1ef195ce1896af964fdfbba2ff5f1167cb65",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/foot_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/hair2.json",
+    "size": 416,
+    "hash": "6b96bce0b494b0b1be4d7a8c289ae7f75679215d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/hair2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/hair3.json",
+    "size": 417,
+    "hash": "abd783b3a13505b1692aec221ec2830e0ac64685",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/hair3.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/head.json",
+    "size": 2720,
+    "hash": "95e765cce15c2052fe90c78f8d11cfc56abbf83c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/jaw.json",
+    "size": 1399,
+    "hash": "83c73cab70ef00516e4d8ac480e59a35e71e796b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/left_bandage.json",
+    "size": 340,
+    "hash": "4617f6c3fc2005e69c7ae0655d55e9eff865c850",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/left_bandage.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/left_bandage1.json",
+    "size": 332,
+    "hash": "d62429bb6d7e09d21017ffdd88d62bce4b176bf7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/left_bandage1.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/left_bandage2.json",
+    "size": 342,
+    "hash": "3e194655f6fd803d8e540a82fff0c4fd0804b45d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/left_bandage2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/leg_left.json",
+    "size": 1246,
+    "hash": "bc6f48c607b4e50503ab1650b22c1e3f98f463b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/leg_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/leg_right.json",
+    "size": 672,
+    "hash": "13295f93674fda139065298d0659206c6f2e2e66",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/leg_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul1/upper_body.json",
+    "size": 4271,
+    "hash": "e33aa92eb31c1693dd8d2e4050afceb792a959ae",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul1/upper_body.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/arm_left.json",
+    "size": 1203,
+    "hash": "379b458436a24b92db840614d30904828256258d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/arm_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/arm_left_low.json",
+    "size": 2470,
+    "hash": "7bbcb49a8e412e998ac197ca74a85d704c421399",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/arm_left_low.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/arm_right.json",
+    "size": 1223,
+    "hash": "ea921e8a1540d671104ccb394a9b6da988459a58",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/arm_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/arm_right_low.json",
+    "size": 2981,
+    "hash": "5d7f041733d5b66b241bcd3132dd8ae3b61df9f0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/arm_right_low.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/bandage.json",
+    "size": 331,
+    "hash": "b22f763b115e77bc4582e94c8f9052082c6d7a75",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/bandage.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/bandage1.json",
+    "size": 326,
+    "hash": "22ff43fd1a6c2eed9b74196ca4accdfd3f40b9d9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/bandage1.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/bandage2.json",
+    "size": 343,
+    "hash": "f13bf4487bca1b6e1b3ce2698bb25bf3fad19b36",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/bandage2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/body.json",
+    "size": 1967,
+    "hash": "b9da0a3c8bc15a765ea14d18682805947362fa3c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/foot_left.json",
+    "size": 3738,
+    "hash": "6244315dfc32338e27757c5dbc4085752c374f0d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/foot_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/foot_right.json",
+    "size": 4384,
+    "hash": "80df1ef195ce1896af964fdfbba2ff5f1167cb65",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/foot_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/hair2.json",
+    "size": 416,
+    "hash": "fc5fb91cd60fe1869d627b24ce0a7bfc3b698288",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/hair2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/hair3.json",
+    "size": 417,
+    "hash": "31c21ec822e663a75677a5187cf4fefc2f8109be",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/hair3.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/head.json",
+    "size": 2720,
+    "hash": "95e765cce15c2052fe90c78f8d11cfc56abbf83c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/jaw.json",
+    "size": 1399,
+    "hash": "83c73cab70ef00516e4d8ac480e59a35e71e796b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/left_bandage.json",
+    "size": 340,
+    "hash": "4617f6c3fc2005e69c7ae0655d55e9eff865c850",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/left_bandage.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/left_bandage1.json",
+    "size": 332,
+    "hash": "d62429bb6d7e09d21017ffdd88d62bce4b176bf7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/left_bandage1.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/left_bandage2.json",
+    "size": 342,
+    "hash": "3e194655f6fd803d8e540a82fff0c4fd0804b45d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/left_bandage2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/leg_left.json",
+    "size": 1246,
+    "hash": "bc6f48c607b4e50503ab1650b22c1e3f98f463b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/leg_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/leg_right.json",
+    "size": 672,
+    "hash": "13295f93674fda139065298d0659206c6f2e2e66",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/leg_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul2/upper_body.json",
+    "size": 4271,
+    "hash": "e33aa92eb31c1693dd8d2e4050afceb792a959ae",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul2/upper_body.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/arm_left.json",
+    "size": 1203,
+    "hash": "5e966ea118af69f99452a44024e899669e5239f9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/arm_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/arm_left_low.json",
+    "size": 2469,
+    "hash": "602f8a5f6771fdc1b070980bfa59fa3660de749d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/arm_left_low.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/arm_right.json",
+    "size": 1223,
+    "hash": "da47b950d51395031ced176d82a8885986fb1053",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/arm_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/arm_right_low.json",
+    "size": 2983,
+    "hash": "56a8833cc307e0161d6b41662df486cb29f2000a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/arm_right_low.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/bandage.json",
+    "size": 327,
+    "hash": "583779763ef452bb94a4aa31063097d427e3cdc1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/bandage.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/bandage1.json",
+    "size": 325,
+    "hash": "277af500e7eaf058788a3b8877aa01633f8d7950",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/bandage1.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/bandage2.json",
+    "size": 343,
+    "hash": "064c050eddcf1f73ec7c0bde878132dd58576a53",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/bandage2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/body.json",
+    "size": 1967,
+    "hash": "a6f092715f0610fa78c89632ae30b6c515e035ea",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/foot_left.json",
+    "size": 3732,
+    "hash": "2d891a187b4bb24938b9aca8f0334c7fe547543a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/foot_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/foot_right.json",
+    "size": 4386,
+    "hash": "70c829478a2f1847dfd32fa5a4697fe1c505865c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/foot_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/hair2.json",
+    "size": 411,
+    "hash": "1ab96b7eaf92d523d1447b418ae135f1375d1ee9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/hair2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/hair3.json",
+    "size": 412,
+    "hash": "3fab24a24877e0e31b9baf74080a8d212fe8b35d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/hair3.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/head.json",
+    "size": 2720,
+    "hash": "be316adb679cea0799f392cd46279b188e7486a8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/jaw.json",
+    "size": 1399,
+    "hash": "83c73cab70ef00516e4d8ac480e59a35e71e796b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/left_bandage.json",
+    "size": 330,
+    "hash": "6551b0a341aa5b9219086cc59d64379d772fbffb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/left_bandage.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/left_bandage1.json",
+    "size": 332,
+    "hash": "d62429bb6d7e09d21017ffdd88d62bce4b176bf7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/left_bandage1.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/left_bandage2.json",
+    "size": 342,
+    "hash": "3e194655f6fd803d8e540a82fff0c4fd0804b45d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/left_bandage2.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/leg_left.json",
+    "size": 1246,
+    "hash": "a18c05a6dd246a32053da779565ba5152eb601a2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/leg_left.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/leg_right.json",
+    "size": 671,
+    "hash": "df276c23e4271ef0b91f1b9aa95c338b99180b05",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/leg_right.json"
+  },
+  {
+    "path": "resources/modelengine/models/ghoul3/upper_body.json",
+    "size": 4264,
+    "hash": "9d3972232b10a371046ff4675088ac0f90aa1c28",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/ghoul3/upper_body.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/agujero.json",
+    "size": 611,
+    "hash": "9578c73e2460f6e202dcc1ac0992260f9a8c46de",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/agujero.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/body.json",
+    "size": 2168,
+    "hash": "94b08b647bb4f7160fc1647089b32cd472b7424f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/derbot.json",
+    "size": 618,
+    "hash": "80fc094905b62c263e92e372345d7432f240de4f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/derbot.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/gaboda.json",
+    "size": 1147,
+    "hash": "012c3c007b70621179c7bbc7fd1299b4257af1f5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/gaboda.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/head.json",
+    "size": 2153,
+    "hash": "ad3f6811cb38d738a6ea9c2aee3827e7348c9154",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/izbot.json",
+    "size": 614,
+    "hash": "7647d28edef058ff549f1723fac764ddc6d325be",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/izbot.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/labottom.json",
+    "size": 685,
+    "hash": "5c43fcc9c19e84d8e2d11018742808c2da533ad7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/labottom.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/leftarm.json",
+    "size": 627,
+    "hash": "149d8a1bc64b48ddee3205694e1d8a8eed8c1077",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/leftarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/leftleg.json",
+    "size": 606,
+    "hash": "88c40d19e2b28cadfd0cbfac7eb0e5d45b141f3e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/leftleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/rabot.json",
+    "size": 621,
+    "hash": "c16adc6e0fa4266c1cd0f8ba04b3858b6574eae8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/rabot.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/rightarm.json",
+    "size": 620,
+    "hash": "7927c594a73e4f91aa494bd9457ccef598270439",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/rightarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/rightleg.json",
+    "size": 626,
+    "hash": "4f233331ab1a300d3f949196543c0d67b0193957",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/rightleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/gononeita/vaaosucra.json",
+    "size": 36386,
+    "hash": "77995890c0703ca2ad98f778bb1eb53145046522",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/gononeita/vaaosucra.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/blade.json",
+    "size": 15676,
+    "hash": "756024c3d3141f60995122ca5cbbeea34b904521",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/blade.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/finger_1.json",
+    "size": 1252,
+    "hash": "d8d5d046ae3b6e23e3f6208f44c6ef14be1dc6a6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/finger_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/finger_2.json",
+    "size": 1267,
+    "hash": "55ea9f58c1db50fc77d4d734db2c008d2fc8dfce",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/finger_2.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/head.json",
+    "size": 2310,
+    "hash": "01c1f47742681ae05c99f6dba79bef1dfdd03a78",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/left_arm.json",
+    "size": 1291,
+    "hash": "396ffd6e733c4067e2a9746b5f1606e955d8709f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/left_foot.json",
+    "size": 2313,
+    "hash": "6d1419eae0d5fda57b2e584c58a384fd43c865de",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/left_foot.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/left_forearm.json",
+    "size": 1221,
+    "hash": "641c5260f3801cac2bf6a99a36448c9be6c5ac77",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/left_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/left_hand.json",
+    "size": 1220,
+    "hash": "df1a706586aafd556afaf0a9bdc1a2315561bb61",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/left_hand.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/left_leg.json",
+    "size": 1347,
+    "hash": "cd82d04b90b9450567c107f55dd6df1bf6757fa3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/pelvis.json",
+    "size": 5686,
+    "hash": "f290dc101aed0dc884fbc1cceac526f096862e77",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/pelvis.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/right_arm.json",
+    "size": 1937,
+    "hash": "dde39f12b6026d056b3fd27254bf97d5d40016d0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/right_foot.json",
+    "size": 2315,
+    "hash": "0c1ba24729ea9105a7a2a82c281c1f4f1c879efc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/right_foot.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/right_forearm.json",
+    "size": 2347,
+    "hash": "5ef544beb97cc52c527da8b872b9105a9be8b554",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/right_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/right_leg.json",
+    "size": 1347,
+    "hash": "342253a89f501ce3928bdb5c1433ab9430da6405",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2/torso.json",
+    "size": 11117,
+    "hash": "0e7e9ad84e1336abb809dda4c24e1458ec872326",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2/torso.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2_damaged/right_arm_damage_1.json",
+    "size": 1966,
+    "hash": "4732bba13ff3c37d1b4955d0f9eea90edc42c094",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2_damaged/right_arm_damage_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2_damaged/torso_damage_1.json",
+    "size": 11147,
+    "hash": "52d5851961103f3bfe66e2ed400adcb75328110c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2_damaged/torso_damage_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2_damaged/torso_damage_2.json",
+    "size": 10633,
+    "hash": "4457e48d4d32c9ff53f8713b3fa16e4f26ca97eb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2_damaged/torso_damage_2.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2_damaged/torso_damage_3.json",
+    "size": 10473,
+    "hash": "8049fb71ed072ef1e3be3bdb96c7a8eed4af36ef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2_damaged/torso_damage_3.json"
+  },
+  {
+    "path": "resources/modelengine/models/kindletron2_damaged/torso_glide.json",
+    "size": 14840,
+    "hash": "fa1e842a065356506172577f2f5ecb26fe3e7121",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/kindletron2_damaged/torso_glide.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/back_cloth.json",
+    "size": 613,
+    "hash": "871a5d3be614289c2722decff011382f2cf2d0fd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/back_cloth.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/back_mask.json",
+    "size": 684,
+    "hash": "6ac8663891a964a7645bbfc4baba14297bf690c0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/back_mask.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/back_mask_two.json",
+    "size": 1278,
+    "hash": "96935083c59dfabded95d7c10ae08c7f368ea1e2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/back_mask_two.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/body.json",
+    "size": 1142,
+    "hash": "29aed0aaa91c8010bc8234ff6cf1853a2d9631c1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/cut_effect.json",
+    "size": 894,
+    "hash": "ca89f82b3b70ac0fc9cefe168e8e9985734b895b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/cut_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/front_mask.json",
+    "size": 681,
+    "hash": "60156f3ad06c338bca30cc54fc7e9aba41f2ffc4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/front_mask.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/head.json",
+    "size": 1615,
+    "hash": "ee84390c4dcb00fe61a87a453ebbc6aa74505853",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_arm.json",
+    "size": 613,
+    "hash": "000449f59c6ef5bc7649081b5071272c3b243288",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_arm_part_two.json",
+    "size": 613,
+    "hash": "937afd972966723721a3850f22157f9a5c8ca797",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_arm_part_two.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_cloth.json",
+    "size": 453,
+    "hash": "92158fa66fb8cda37ac8fd172803584be442a1f7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_cloth.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_leg.json",
+    "size": 631,
+    "hash": "0be8f74cb0f9d97de8e44378abca49c661d0b4f8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_shadow_arm.json",
+    "size": 616,
+    "hash": "4c05736a89a9452864e904bdfcfecc5ae384cda8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_shadow_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_shadow_arm_spike.json",
+    "size": 649,
+    "hash": "61e24fe1f333283db7f042e3fdd8b45bbf03c258",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_shadow_arm_spike.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_shadow_forearm.json",
+    "size": 617,
+    "hash": "5aa6da552c27bdd07fa19b633b7843f9012764a6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_shadow_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/left_shoulder.json",
+    "size": 613,
+    "hash": "f6eb8d29902b09b892bbf2eea254e5d789c5b20a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/left_shoulder.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/mask_spike.json",
+    "size": 647,
+    "hash": "21147dd6463cf346d33b37a11136b9f16393bc48",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/mask_spike.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/right_arm.json",
+    "size": 614,
+    "hash": "a75c0a9a64f596474d33556a160e0352a33b1e53",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/right_arm_part_two.json",
+    "size": 612,
+    "hash": "c92cc877f69c80bf7c2e0aac5b430cbc5cb53682",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/right_arm_part_two.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/right_cloth.json",
+    "size": 455,
+    "hash": "779bcb96189941445bc54ec7a9c683c09ed98ea1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/right_cloth.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/right_leg.json",
+    "size": 631,
+    "hash": "c244c3adc57b840fe38613d0c3a3bdd7a51e2db7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/right_leg_mask.json",
+    "size": 692,
+    "hash": "90460866aecdac4b8864d49c0f4a338130d82196",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/right_leg_mask.json"
+  },
+  {
+    "path": "resources/modelengine/models/maskerer/shadow_effect.json",
+    "size": 1549,
+    "hash": "1650d4affe1ff93bae66b9d93d31f4f4eb1340e1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/maskerer/shadow_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/mask_projectile_1/mask_pojectile_1.json",
+    "size": 686,
+    "hash": "443f6f2bd353aa0abb4d521473f3e84cc0a182b3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/mask_projectile_1/mask_pojectile_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/arm1.json",
+    "size": 657,
+    "hash": "714574556a5c140c51c9f0e69a52fa9696435124",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/arm1.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/arm1_1.json",
+    "size": 1822,
+    "hash": "398d1ae61fedb10e239d90c70439d6417a37a28f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/arm1_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/arm1_2.json",
+    "size": 1217,
+    "hash": "25ea3f2f532cdaaf5c66954f45f48128ffa8a975",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/arm1_2.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/arm2.json",
+    "size": 1725,
+    "hash": "ab6e7e55b87bd86db5699bf8907d1f2421d192a4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/body.json",
+    "size": 6638,
+    "hash": "728e4f6ac34257438eddaeefd29f842ea8326316",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/head.json",
+    "size": 2601,
+    "hash": "bcffc31538611ae1b961df0d83caefd282d4271e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/jaw.json",
+    "size": 724,
+    "hash": "dabdb0f4c09da3d1dd9df87e524b3e14533d38ba",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/leg1.json",
+    "size": 1183,
+    "hash": "9fe95fbfc9f42e2226e1f908f5d080903ea7842d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/leg1.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/leg1_1.json",
+    "size": 1706,
+    "hash": "9cc63c83418f9af77797a007d2b8b507dc97589a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/leg1_1.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/leg1_2.json",
+    "size": 1701,
+    "hash": "e7003cac4f5440718aee33227f1c5a52a36e7981",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/leg1_2.json"
+  },
+  {
+    "path": "resources/modelengine/models/moss_golem/leg2.json",
+    "size": 1184,
+    "hash": "f44730f170945f9bebcb25ba6b2c9ec888c0a335",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/moss_golem/leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_homonculus/arm1.json",
+    "size": 1881,
+    "hash": "3d58cb2d28b7e43a1db66a4b274881d411fa2fd7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_homonculus/arm1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_homonculus/arm2.json",
+    "size": 1888,
+    "hash": "e073a53c0959d4aeb423a638414a52bc012fda43",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_homonculus/arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_homonculus/hat.json",
+    "size": 4032,
+    "hash": "6c3bc47fcc1b3417f87ad06e87e82c5df12c7111",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_homonculus/hat.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_homonculus/homonculus.json",
+    "size": 5528,
+    "hash": "ae40732c1574cd19943d1e23c5bde4b14deece35",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_homonculus/homonculus.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_potion/bottle.json",
+    "size": 1676,
+    "hash": "c6745a2a2509dbffd74be44f717e711e91dfe1b0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_potion/bottle.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/alchemist.json",
+    "size": 9934,
+    "hash": "59315ed338899a2c1333b4a10404a89c0ad35d8e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/alchemist.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/arm1.json",
+    "size": 1346,
+    "hash": "0f12a27d0818763b5024045f71c9fb229264cf1d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/arm1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/arm2.json",
+    "size": 1358,
+    "hash": "f84c367833b72d37275bdad3d52dfbb1024fcb40",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/endleg1.json",
+    "size": 10069,
+    "hash": "862573f4203dd99f141b41b23cbfdf96d8ed35e0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/endleg1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/endleg2.json",
+    "size": 10093,
+    "hash": "2e1fe5b4220b4af1b48e10907bf96a042ddb36b1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/endleg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/erlenmeyer.json",
+    "size": 5142,
+    "hash": "bff3a35840608ebcbc440b4ec36825789cf2b004",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/erlenmeyer.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/eyebrow.json",
+    "size": 2564,
+    "hash": "f7d3736d7b1322506c43de7a15dfb15747611595",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/eyebrow.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/eyes_closed.json",
+    "size": 614,
+    "hash": "21a52c1e3e48b32fd14d7a58b9c280af1b6f785d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/eyes_closed.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/eyes_opened.json",
+    "size": 602,
+    "hash": "872d57bcab8c2fe8db627e95dd881b5439522aa2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/eyes_opened.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/forearm1.json",
+    "size": 1283,
+    "hash": "7b5804265f3924ae20979fcddd6f72fd73eea33a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/forearm1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/forearm2.json",
+    "size": 1288,
+    "hash": "498c2a5316eeb519d4fdbb0af40c0cf39aed9a24",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/forearm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/hat.json",
+    "size": 5184,
+    "hash": "5185a5cef438a6b92a4eee15323f48d02a38c78c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/hat.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/head.json",
+    "size": 9586,
+    "hash": "1ceeb9d0511b565b60a689c37932d15099765da4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/jarres.json",
+    "size": 13529,
+    "hash": "f494c25cbb9ee282543025ce8cfc81f40f6cd7f2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/jarres.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/jarresback.json",
+    "size": 12968,
+    "hash": "9d409c6c5d319a6fc9007e414ae0cd0c57f39399",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/jarresback.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/leg1.json",
+    "size": 1226,
+    "hash": "546546ca65f6c465e4d6fc8f340bf7f5f76dffbd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/leg1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/leg2.json",
+    "size": 1236,
+    "hash": "9d0a0a74eaea001f42da2af11bd69c0e487242b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/leg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/sacoche.json",
+    "size": 4748,
+    "hash": "0593c9d8e6925781f811a54d96784db29bcc595c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/sacoche.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/shoulder1.json",
+    "size": 1262,
+    "hash": "e14bd01aad2e437488252a5865d5d86580967529",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/shoulder1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/shoulder2.json",
+    "size": 1253,
+    "hash": "54e664b7b3e78b63e0701ec8ef9ab06735e2b9d1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/shoulder2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia/throwingbottle.json",
+    "size": 1687,
+    "hash": "49b8699a73dae78f9086beab01a33a281ce0f08b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia/throwingbottle.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/arm1.json",
+    "size": 2484,
+    "hash": "b1f150cb4cb137628c947076c778c0f224154e20",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/arm1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/arm2.json",
+    "size": 2486,
+    "hash": "1240b42158c78687433b6f642cb223845db8f2d8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/arm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/body.json",
+    "size": 7462,
+    "hash": "dc57e24d84b0f242de086fe038dc31d298ec214b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/boot.json",
+    "size": 8827,
+    "hash": "3e3deba582fc34ae560010f513de92a3c4b7e5ca",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/boot.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/finger1.json",
+    "size": 1205,
+    "hash": "a84d449f7e47a75bb5c5cd207147ec6bbb960ee3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/finger1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/finger2.json",
+    "size": 1218,
+    "hash": "4f308675a59979c5ae404d844862306f0e106de9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/finger2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/finger3.json",
+    "size": 1213,
+    "hash": "7b882c9f6a8ad85c1847f1193e95e4e4592f1cd1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/finger3.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/finger4.json",
+    "size": 1206,
+    "hash": "4938cad4430b3cf408654f7de1704fa21eee22f1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/finger4.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/finger5.json",
+    "size": 1215,
+    "hash": "d56b4debb2fe0b06c18ab0ff24821c15ef1da13d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/finger5.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/finger6.json",
+    "size": 1213,
+    "hash": "f0de86a00b1840526b205b2903f3e17d0eba5455",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/finger6.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/head.json",
+    "size": 7064,
+    "hash": "6008f6b12e3329ceeaeb35b2bbd88ff91165a547",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/jarres.json",
+    "size": 20227,
+    "hash": "823fc28f11b98b9680543681277d13b2473cf5ba",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/jarres.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/jarres2.json",
+    "size": 13107,
+    "hash": "f451fd58e9fef3aa24d20ac4b6b38494df94a13e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/jarres2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/jaw.json",
+    "size": 2420,
+    "hash": "816f1c3ff5e123b5207616f3b02a8ebe74bb399f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/neck1.json",
+    "size": 5345,
+    "hash": "985ebdc8536036ebcfae3f0a98306fd144fc8a3c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/neck1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/neck2.json",
+    "size": 3935,
+    "hash": "d52786cd292d7d6b3648a5b923672ae7c1d65c79",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/neck2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/neck3.json",
+    "size": 4080,
+    "hash": "9017fbe90c8fbfc1db201b9d7755b31eae800330",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/neck3.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/neck5.json",
+    "size": 7595,
+    "hash": "ec49bcc9379e0d68022d25fcc3dcc4e693b77bfc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/neck5.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/neck6.json",
+    "size": 7626,
+    "hash": "4714e997a63d684dcc3ca3ae81d4dfbc68819ecb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/neck6.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/neck7.json",
+    "size": 7600,
+    "hash": "ace986cd23192be0c65cbf6212c2e8290cc38b8c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/neck7.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/spine1.json",
+    "size": 1975,
+    "hash": "3d2a7a676f8115dad1849f60af599f4e506aecf6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/spine1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/spine2.json",
+    "size": 1995,
+    "hash": "2e43cf19226020edb06b176938ed2c1eb28c5aab",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/spine2.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/spine3.json",
+    "size": 1372,
+    "hash": "b476af4d07d6039978c86ea60be7c4f9e0ae4fd6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/spine3.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/spine4.json",
+    "size": 1370,
+    "hash": "5fed9ee0bc03423d6ec4817b3e064ff9767773db",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/spine4.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/tail1.json",
+    "size": 7006,
+    "hash": "627c4c687d2ee65df3db3cd773dffe90a784b9f6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/tail1.json"
+  },
+  {
+    "path": "resources/modelengine/models/nocsy_zvarikia_chimere/tail2.json",
+    "size": 3204,
+    "hash": "07acd851cfe7d8210dd4dd82fdb4aff14d5e645b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/nocsy_zvarikia_chimere/tail2.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/body.json",
+    "size": 1131,
+    "hash": "107222f1596ad2b6a7f04cfa93d9a80744db1bda",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/body_shadow.json",
+    "size": 1122,
+    "hash": "b0987d54f3e6fc8b617dec0861252f187e83692c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/body_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/cut_effect.json",
+    "size": 901,
+    "hash": "1a09166d480c2202693a1fde62f3b864a4f02e1d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/cut_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/front_shoulder_one.json",
+    "size": 1201,
+    "hash": "cdad65e194811a11d294998b115697077aa30737",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/front_shoulder_one.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/head.json",
+    "size": 619,
+    "hash": "d7154f63d836d0944ab6c3aa3b56531786da933f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/head_shadow.json",
+    "size": 609,
+    "hash": "41c9eeb6401c03c963a316e79f816dd5ad6ac4b4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/head_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/left_arm.json",
+    "size": 624,
+    "hash": "6d918b1909a6f31e1a9b4e317065080b4bcbe1b6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/left_arm_shadow.json",
+    "size": 616,
+    "hash": "960dad3275f5f267cddb9cb8a125c348d430fbcb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/left_arm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/left_forearm.json",
+    "size": 645,
+    "hash": "883ccefbfc168c664468f2f0fe0b707ad1ffcaef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/left_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/left_forearm_shadow.json",
+    "size": 616,
+    "hash": "53a31dda84290eb69340866d71abecc4ceb7977c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/left_forearm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/left_leg.json",
+    "size": 638,
+    "hash": "bbe1259cabb1b391489ca56e37b1099db3022c18",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/left_leg_shadow.json",
+    "size": 612,
+    "hash": "a80317a720b9432d36de56dc3c7d96b572bc750a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/left_leg_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/mask_spin_effect.json",
+    "size": 326,
+    "hash": "dd1f472bb4c8ab142c20eb880e039698035bf648",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/mask_spin_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_arm.json",
+    "size": 625,
+    "hash": "8d62cc31e5b7eb09804403db89b4580f1ef4d70a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_arm_shadow.json",
+    "size": 616,
+    "hash": "e5828aa72852cbb9947a3112431cc1bc0ec41a74",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_arm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_arm_spike.json",
+    "size": 645,
+    "hash": "0fc71e97b0e8b68bc4c154cce280abc107a23866",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_arm_spike.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_forearm.json",
+    "size": 645,
+    "hash": "ca9a60c3704fa6ea4d19ad385ddef131554524b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_forearm_shadow.json",
+    "size": 612,
+    "hash": "9366cd39b26d752650d39d9154a6b13ed3be2e1e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_forearm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_leg.json",
+    "size": 638,
+    "hash": "0a23201638760688d3c0a64a23a060e4b4f1cc12",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/right_leg_shadow.json",
+    "size": 612,
+    "hash": "308e40a656360f96e5977e4d535c8019f70819d3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/right_leg_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask/shadow_effect.json",
+    "size": 1541,
+    "hash": "b88753572954eb39a2b10c841d4abd6db6bd48cb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask/shadow_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/body.json",
+    "size": 1131,
+    "hash": "107222f1596ad2b6a7f04cfa93d9a80744db1bda",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/body_shadow.json",
+    "size": 1122,
+    "hash": "b0987d54f3e6fc8b617dec0861252f187e83692c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/body_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/cut_effect.json",
+    "size": 901,
+    "hash": "1a09166d480c2202693a1fde62f3b864a4f02e1d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/cut_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/front_shoulder_one.json",
+    "size": 687,
+    "hash": "8f75a1c54d4a319b5ce216ee5d1d9bec233fc475",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/front_shoulder_one.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/head.json",
+    "size": 619,
+    "hash": "d7154f63d836d0944ab6c3aa3b56531786da933f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/head_shadow.json",
+    "size": 609,
+    "hash": "41c9eeb6401c03c963a316e79f816dd5ad6ac4b4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/head_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/left_arm.json",
+    "size": 624,
+    "hash": "6d918b1909a6f31e1a9b4e317065080b4bcbe1b6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/left_arm_shadow.json",
+    "size": 616,
+    "hash": "960dad3275f5f267cddb9cb8a125c348d430fbcb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/left_arm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/left_forearm.json",
+    "size": 645,
+    "hash": "883ccefbfc168c664468f2f0fe0b707ad1ffcaef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/left_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/left_forearm_shadow.json",
+    "size": 616,
+    "hash": "53a31dda84290eb69340866d71abecc4ceb7977c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/left_forearm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/left_leg.json",
+    "size": 638,
+    "hash": "bbe1259cabb1b391489ca56e37b1099db3022c18",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/left_leg_shadow.json",
+    "size": 612,
+    "hash": "a80317a720b9432d36de56dc3c7d96b572bc750a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/left_leg_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/mask_spin_effect.json",
+    "size": 326,
+    "hash": "dd1f472bb4c8ab142c20eb880e039698035bf648",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/mask_spin_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_arm.json",
+    "size": 625,
+    "hash": "8d62cc31e5b7eb09804403db89b4580f1ef4d70a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_arm_shadow.json",
+    "size": 616,
+    "hash": "e5828aa72852cbb9947a3112431cc1bc0ec41a74",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_arm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_arm_spike.json",
+    "size": 645,
+    "hash": "0fc71e97b0e8b68bc4c154cce280abc107a23866",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_arm_spike.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_forearm.json",
+    "size": 645,
+    "hash": "ca9a60c3704fa6ea4d19ad385ddef131554524b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_forearm_shadow.json",
+    "size": 612,
+    "hash": "9366cd39b26d752650d39d9154a6b13ed3be2e1e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_forearm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_leg.json",
+    "size": 638,
+    "hash": "0a23201638760688d3c0a64a23a060e4b4f1cc12",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/right_leg_shadow.json",
+    "size": 612,
+    "hash": "308e40a656360f96e5977e4d535c8019f70819d3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/right_leg_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_2/shadow_effect.json",
+    "size": 1543,
+    "hash": "30d9acc002966ac0512201319aee17a28312caef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_2/shadow_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/body.json",
+    "size": 1131,
+    "hash": "107222f1596ad2b6a7f04cfa93d9a80744db1bda",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/body_shadow.json",
+    "size": 1122,
+    "hash": "b0987d54f3e6fc8b617dec0861252f187e83692c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/body_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/cut_effect.json",
+    "size": 901,
+    "hash": "1a09166d480c2202693a1fde62f3b864a4f02e1d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/cut_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/front_shoulder_one.json",
+    "size": 4171,
+    "hash": "f6a282bb72961240e37ca5b29475a8afebe14be5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/front_shoulder_one.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/head.json",
+    "size": 619,
+    "hash": "d7154f63d836d0944ab6c3aa3b56531786da933f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/head_shadow.json",
+    "size": 609,
+    "hash": "41c9eeb6401c03c963a316e79f816dd5ad6ac4b4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/head_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/left_arm.json",
+    "size": 624,
+    "hash": "6d918b1909a6f31e1a9b4e317065080b4bcbe1b6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/left_arm_shadow.json",
+    "size": 616,
+    "hash": "960dad3275f5f267cddb9cb8a125c348d430fbcb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/left_arm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/left_forearm.json",
+    "size": 645,
+    "hash": "883ccefbfc168c664468f2f0fe0b707ad1ffcaef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/left_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/left_forearm_shadow.json",
+    "size": 616,
+    "hash": "53a31dda84290eb69340866d71abecc4ceb7977c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/left_forearm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/left_leg.json",
+    "size": 638,
+    "hash": "bbe1259cabb1b391489ca56e37b1099db3022c18",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/left_leg_shadow.json",
+    "size": 612,
+    "hash": "a80317a720b9432d36de56dc3c7d96b572bc750a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/left_leg_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/mask_spin_effect.json",
+    "size": 326,
+    "hash": "dd1f472bb4c8ab142c20eb880e039698035bf648",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/mask_spin_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_arm.json",
+    "size": 625,
+    "hash": "8d62cc31e5b7eb09804403db89b4580f1ef4d70a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_arm_shadow.json",
+    "size": 616,
+    "hash": "e5828aa72852cbb9947a3112431cc1bc0ec41a74",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_arm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_arm_spike.json",
+    "size": 645,
+    "hash": "0fc71e97b0e8b68bc4c154cce280abc107a23866",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_arm_spike.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_forearm.json",
+    "size": 645,
+    "hash": "ca9a60c3704fa6ea4d19ad385ddef131554524b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_forearm_shadow.json",
+    "size": 612,
+    "hash": "9366cd39b26d752650d39d9154a6b13ed3be2e1e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_forearm_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_leg.json",
+    "size": 638,
+    "hash": "0a23201638760688d3c0a64a23a060e4b4f1cc12",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/right_leg_shadow.json",
+    "size": 612,
+    "hash": "308e40a656360f96e5977e4d535c8019f70819d3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/right_leg_shadow.json"
+  },
+  {
+    "path": "resources/modelengine/models/possesed_mask_3/shadow_effect.json",
+    "size": 1541,
+    "hash": "b88753572954eb39a2b10c841d4abd6db6bd48cb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/possesed_mask_3/shadow_effect.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/axe.json",
+    "size": 2775,
+    "hash": "7967b0b7279ade77a5915ba9d9b089ec820dfbd1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/axe.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/back_cloak_part.json",
+    "size": 555,
+    "hash": "9f8b56cabbaeadab12135552aee4529c7479b10f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/back_cloak_part.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/body.json",
+    "size": 631,
+    "hash": "64c52411f934f460144f120baf2ba0e86b0816d3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/eyes.json",
+    "size": 523,
+    "hash": "0789c778602938d8731afe71ecdc6a87454f2779",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/eyes.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/head.json",
+    "size": 2107,
+    "hash": "6b9f14739a4edbed5901bdabbde35cc2be9635e7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/left_arm.json",
+    "size": 612,
+    "hash": "4ee2d5a4580afe3a64017612496a97b594489d5f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/left_arm_part_two.json",
+    "size": 622,
+    "hash": "e9fc486b63694501ebc1a17a01cfc6638356cf16",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/left_arm_part_two.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/left_cloak_part.json",
+    "size": 478,
+    "hash": "7888869e52ba7c6036db64e85e8ce4bdb0e8cab9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/left_cloak_part.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/left_eye_spark.json",
+    "size": 316,
+    "hash": "3bda1405d8692efd265ce86e6ebd7fc5a5092b78",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/left_eye_spark.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/left_hood_part.json",
+    "size": 472,
+    "hash": "f9c1c475ec40788719e7c8c928e1badb9a88236e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/left_hood_part.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/left_leg.json",
+    "size": 630,
+    "hash": "7f49feb7d3adb23e80172785f36e7e0a041b5aa8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/right_arm.json",
+    "size": 613,
+    "hash": "cb99e3603e047881f09a17a9c93c667289c97256",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/right_arm_part_two.json",
+    "size": 621,
+    "hash": "8158dc9f8ed3b3b89c512f561792c2b6fdb720cb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/right_arm_part_two.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/right_cloak_part.json",
+    "size": 477,
+    "hash": "698173a807008be111dbf6fa56f20b10788f9de4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/right_cloak_part.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/right_eye_spark.json",
+    "size": 316,
+    "hash": "3bda1405d8692efd265ce86e6ebd7fc5a5092b78",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/right_eye_spark.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/right_hood_part.json",
+    "size": 470,
+    "hash": "f53e01aa67b5887a7e0bb3c603db5a22c9c3cbdd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/right_hood_part.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/right_leg.json",
+    "size": 630,
+    "hash": "3d2144334e056c07591ea843ee3500d96cbdd61f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/shadow_body.json",
+    "size": 462,
+    "hash": "614b370b4ff117c5a43b9d49e4b7eebda093bbf3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/shadow_body.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/shadow_head.json",
+    "size": 1108,
+    "hash": "c92bbde668a2bb3acf74b2bead9ee4b6c20777ff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/shadow_head.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/shadow_left_arm.json",
+    "size": 611,
+    "hash": "0d7ac61dbdea9f1d17f0593b4fd723d5ceba869e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/shadow_left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/shadow_legs.json",
+    "size": 537,
+    "hash": "e525394c863b2f3dbcada8e141e22ee454c1a17d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/shadow_legs.json"
+  },
+  {
+    "path": "resources/modelengine/models/pursued/shadow_right_arm.json",
+    "size": 612,
+    "hash": "495dd23d06b357238c5121849285718e7075058f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/pursued/shadow_right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/body.json",
+    "size": 14953,
+    "hash": "ea0266f4e82dd9d14253c118ffad29524d6b8aaf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/cryatla1.json",
+    "size": 1343,
+    "hash": "9e7485de1e818c5f3d62d4649c151e608b25b07f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/cryatla1.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/crystal2.json",
+    "size": 1175,
+    "hash": "10b009f321bf2243a76b32689709c51a860e9080",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/crystal2.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/crystal3.json",
+    "size": 1182,
+    "hash": "c06d6af86546f82583f572dd5f842786df644d47",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/crystal3.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/cystal3.json",
+    "size": 1300,
+    "hash": "9d3fd1eda61017f0ec30dd4103b43b94bde6e037",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/cystal3.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/head.json",
+    "size": 6139,
+    "hash": "3adb759261d3e27ccbfbd5c0dc965fc9767e6b4e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/jaw.json",
+    "size": 1722,
+    "hash": "71af8de31ebeb6183d4259b81511a9584a3c8c8c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/leftarm.json",
+    "size": 2349,
+    "hash": "c71a3dd4589ad50a54e28fc08ebeb40acf1a6580",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/leftarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/leftleg.json",
+    "size": 1249,
+    "hash": "bd96c8ff27575e72405892682c88c3e20e2d0c10",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/leftleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/lowerleftarm.json",
+    "size": 5097,
+    "hash": "70fbdb2b0cdcd4307bf0067b85b04e6ca278fedf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/lowerleftarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/lowerrightarm.json",
+    "size": 5582,
+    "hash": "cda3eafd26e7be2e1e556cfe79f67b740de92f15",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/lowerrightarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/rightarm.json",
+    "size": 2367,
+    "hash": "44d39134045e149a52b408d831200de23daafc92",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/rightarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/rightleg.json",
+    "size": 1239,
+    "hash": "5cf7a2edcafbc3703122b7891ef13f506b54bc9e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/rightleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/rightleg2.json",
+    "size": 1299,
+    "hash": "5b11e7b8d51a268b31c9998da39891fc4500f06d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/rightleg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/rocky/rightleg4.json",
+    "size": 1312,
+    "hash": "b5d1cce9cada374cc89952de3a8ffd4631904d39",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/rocky/rightleg4.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/body.json",
+    "size": 1052,
+    "hash": "e510a710ba7c949879f5596f4daf85bbca6fa971",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/eye_spark.json",
+    "size": 318,
+    "hash": "c665bef9cefcb75776cc154fd79e23bca8f6cd97",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/eye_spark.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/front_part_four.json",
+    "size": 1069,
+    "hash": "f83c03b6457ec3bb3e5a37fc282f713ebdc0a42e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/front_part_four.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/front_part_one.json",
+    "size": 1087,
+    "hash": "59b66b047b2319b4cf452ca5d4589960a2b93887",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/front_part_one.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/front_part_three.json",
+    "size": 1088,
+    "hash": "b9e06dc752e2f32253d1f7851e8760d7b83d5a98",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/front_part_three.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/front_part_two.json",
+    "size": 1081,
+    "hash": "cd8d5ff533b80027c54bd14faca9e19aa3b57fa9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/front_part_two.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/golem_head.json",
+    "size": 1147,
+    "hash": "2ceb44ffbd54ac0b32fb05effa8506db854c9e79",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/golem_head.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/head.json",
+    "size": 625,
+    "hash": "f6a33d74382b7f83f55c331cda0c9a09cd3f4dbf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/left_arm.json",
+    "size": 1071,
+    "hash": "528f3c21543839d8edcfe60aeae7241c1b339d42",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/left_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/left_fingers.json",
+    "size": 3523,
+    "hash": "c4194b7c56bbb2266bebd45c295663a0278e6cea",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/left_fingers.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/left_hand.json",
+    "size": 1772,
+    "hash": "735f42e399c4cf95da5243f20c6ca0b5a81684ea",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/left_hand.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/left_leg.json",
+    "size": 639,
+    "hash": "d5229455157272b71072e348acc6ce46aa3d504b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/left_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/left_shadow_arm.json",
+    "size": 610,
+    "hash": "e4a5ec05dcb46d2a46fc979b029559d76a5a6060",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/left_shadow_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/left_shadow_forearm.json",
+    "size": 606,
+    "hash": "ebdcdfc55eaa872759b05ba9c140e9344e2f2fcd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/left_shadow_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/right_arm.json",
+    "size": 1075,
+    "hash": "077a97d336ffb7bc14d44321e4e6618fd983072c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/right_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/right_fingers.json",
+    "size": 3522,
+    "hash": "fda33afdeb957991c14bd020144969ca581e10ee",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/right_fingers.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/right_hand.json",
+    "size": 1768,
+    "hash": "bf8ed36bd2aeda67e70293ba7cc7bab0d6fcd657",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/right_hand.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/right_leg.json",
+    "size": 639,
+    "hash": "3519c5fa121b03219782d04c306f1d3296b480b0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/right_leg.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/right_shadow_arm.json",
+    "size": 606,
+    "hash": "5dee8d688e16680d672783f638f685a5b2637080",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/right_shadow_arm.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/right_shadow_forearm.json",
+    "size": 606,
+    "hash": "ebdcdfc55eaa872759b05ba9c140e9344e2f2fcd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/right_shadow_forearm.json"
+  },
+  {
+    "path": "resources/modelengine/models/shadow_golem/shadow_head.json",
+    "size": 613,
+    "hash": "e9c642371800222cc3de657ad2b58ed22e69c77d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shadow_golem/shadow_head.json"
+  },
+  {
+    "path": "resources/modelengine/models/shuriken/sur3.json",
+    "size": 7294,
+    "hash": "a7316be0b4c9e7a2e4b8a90320c33aae1b83fb68",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/shuriken/sur3.json"
+  },
+  {
+    "path": "resources/modelengine/models/slash_projectile/head.json",
+    "size": 2533,
+    "hash": "b23027312a671dd2286e7eafa413f3de42beafe9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/slash_projectile/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/belly.json",
+    "size": 5431,
+    "hash": "f511c9ddb69376bd8cc62693a0392e649fb51488",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/belly.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/body.json",
+    "size": 18396,
+    "hash": "20cb4a16f93b2e8e2e1afef8551d9a58863ef490",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/cape.json",
+    "size": 1468,
+    "hash": "ec56362079b5d9e2cb6f47390026862a6df65964",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/cape.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/cape2.json",
+    "size": 347,
+    "hash": "4d50795a7deca7bfdac066db6f057a93c40a30e7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/cape2.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/cape3.json",
+    "size": 343,
+    "hash": "0ccc47768039d2a4fa990c0f01e4ba20e997353e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/cape3.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/head.json",
+    "size": 18171,
+    "hash": "ccd0ba1f8f0baec83ac1370f5dd4733deb4c1227",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/hip.json",
+    "size": 9415,
+    "hash": "74b05e2e9f4af254ba35710a1ac6069d1804e62f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/hip.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/leftarm.json",
+    "size": 6305,
+    "hash": "e9b8a6fa764474abcdfb481903dc2a2f4962d177",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/leftarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/leftfoot.json",
+    "size": 5549,
+    "hash": "d2b4a7361c012a3c425a977adcfbdab41f2037a6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/leftfoot.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/leftfrontarm.json",
+    "size": 6229,
+    "hash": "9e8fb9849cde5b27ba0ef0d96858a99584005851",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/leftfrontarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/leftfrontleg.json",
+    "size": 5962,
+    "hash": "529dfecab6cf61868fe0206a2688f3c02e83a599",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/leftfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/lefthand.json",
+    "size": 5266,
+    "hash": "52b6effb9174024eb35a552c5764df1c7a903c3c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/lefthand.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/leftleg.json",
+    "size": 3046,
+    "hash": "c373245dca4d190435905734da89968045992aeb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/leftleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/rightarm.json",
+    "size": 6273,
+    "hash": "1d36d976a67bab1b9238d119345c0f29833609df",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/rightarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/rightfoot.json",
+    "size": 5578,
+    "hash": "ae63e349df42ee093f7be9e7baa27c42692dbd52",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/rightfoot.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/rightfrontarm.json",
+    "size": 6233,
+    "hash": "8d0ab8cc6afd6cde0a531ca79229ce6120a4f8cb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/rightfrontarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/rightfrontleg.json",
+    "size": 5985,
+    "hash": "f42138897f10fe559d190123d85e4aae9abc3fd5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/rightfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/righthand.json",
+    "size": 5203,
+    "hash": "380c745a1796ac6dbfbc6ab581882b1094a7b815",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/righthand.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/rightleg.json",
+    "size": 3022,
+    "hash": "0ed0505c91869b9d6c15a08e15025d671ea719be",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/rightleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/spear.json",
+    "size": 8359,
+    "hash": "c38457c37656727f4a2c4250efe4e3128cbf0809",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/spear.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight/sword.json",
+    "size": 6484,
+    "hash": "0e73fa3419ad4691c5836b09040af19f6201e77e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight/sword.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/belly.json",
+    "size": 5433,
+    "hash": "b0e7e280e39175b0734cf47bd39b3d2ab123b7b4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/belly.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/body.json",
+    "size": 18439,
+    "hash": "d13f772d021613ee7c435ae435b7344669162f97",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/body.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/cape.json",
+    "size": 1468,
+    "hash": "ec56362079b5d9e2cb6f47390026862a6df65964",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/cape.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/cape2.json",
+    "size": 347,
+    "hash": "bc60c384148112e75a9a172a9516ad1681640f18",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/cape2.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/cape3.json",
+    "size": 343,
+    "hash": "35a7e51ba155d66df17499b98239a1dec4ce349c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/cape3.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/head.json",
+    "size": 18211,
+    "hash": "7376d5b6cc9d9d76bda6bcd8530879c26967be67",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/hip.json",
+    "size": 9411,
+    "hash": "88767c7774836ee31aca963984eaeae646c6b213",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/hip.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horsebody.json",
+    "size": 12852,
+    "hash": "62ef6ad7a5bf41a07e925fbd86cfde3bcbcf2ecf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horsebody.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horsehead.json",
+    "size": 16406,
+    "hash": "460438c24d59deb88fc925fc4272b7bc5bb80110",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horsehead.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horsehip.json",
+    "size": 4442,
+    "hash": "48ed801fc9237e4ebd2e56472e3467d25a8c3d23",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horsehip.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_leftbackfoot.json",
+    "size": 3666,
+    "hash": "06ba44e4d6a925f7026005d32a27a740229ca235",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_leftbackfoot.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_leftbackfrontleg.json",
+    "size": 1309,
+    "hash": "82e0f089c6e84e63edda0d74f8d3f45f06ffcf77",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_leftbackfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_leftbackleg.json",
+    "size": 2723,
+    "hash": "8f253b4ade3002868d5aacb8a5c51f136458aeeb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_leftbackleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_leftfoot.json",
+    "size": 3681,
+    "hash": "83a29243118eed99f8f46309ec016a202bd09501",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_leftfoot.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_leftfrontleg.json",
+    "size": 1337,
+    "hash": "280e08825be13c4dacd11d2e93dcba73801fe4c7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_leftfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_leftleg.json",
+    "size": 1936,
+    "hash": "af5b240bc6c7d0d697b3eaa4bdd83efa3cfd1185",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_leftleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_rightbackfoot.json",
+    "size": 3676,
+    "hash": "a14b8c723a594e421c554e78c210454f10cb4e94",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_rightbackfoot.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_rightbackfrontleg.json",
+    "size": 1341,
+    "hash": "e3bb0d61214fdd602da4edea521d2eca973e568a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_rightbackfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_rightbackleg.json",
+    "size": 2760,
+    "hash": "3b1604d9444c5d552f8764a771e63a157903799d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_rightbackleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_rightfoot.json",
+    "size": 3674,
+    "hash": "58bb3fe79ff24a6edbfd48a003d4f9cbafd58e07",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_rightfoot.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_rightfrontleg.json",
+    "size": 1321,
+    "hash": "128f23b669f368a026303f8cf5b50b1ed24af8c2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_rightfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/horse_rightleg.json",
+    "size": 1905,
+    "hash": "a3297a18e4e63f012a3ca28224ffd83129512185",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/horse_rightleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/jaw.json",
+    "size": 772,
+    "hash": "f7c19f680cdbab19a82500f3e3bcfb07fd57ff92",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/jaw.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/leftarm.json",
+    "size": 6303,
+    "hash": "2c9d626d9a0d2c7043c8c883acd8ebf04ecf6329",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/leftarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/leftfrontarm.json",
+    "size": 6213,
+    "hash": "51c9932dda2613e6ffe1c6038ce016230900480c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/leftfrontarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/leftfrontleg.json",
+    "size": 11463,
+    "hash": "4788e8f99afcd4b3f4a466b729b04ea5cb84a413",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/leftfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/lefthand.json",
+    "size": 5271,
+    "hash": "4b483b336114f99b9394ecf95a859c7704ea01a5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/lefthand.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/leftleg.json",
+    "size": 3046,
+    "hash": "ef4d24c503a049ed4df9eb2eeba99833667c271b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/leftleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/neck1.json",
+    "size": 5210,
+    "hash": "be837cbdb2431692afd9f4cbc4bd2ccbf7713953",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/neck1.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/neck2.json",
+    "size": 5258,
+    "hash": "10204104b429794780bdc027fab12406bb297053",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/neck2.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/rightarm.json",
+    "size": 6271,
+    "hash": "78f8abed8f1682c0fe03a032a2c1490cc9b2a20d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/rightarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/rightfrontarm.json",
+    "size": 6217,
+    "hash": "0074db4cc0bbf027b7c7dbe1fa21b82a6398667a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/rightfrontarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/rightfrontleg.json",
+    "size": 11515,
+    "hash": "cef8edd583fdacb8eb25c2980fecabf7f5ba1696",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/rightfrontleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/righthand.json",
+    "size": 5208,
+    "hash": "97c02b0adcd56d89ca849609c91067d93be800f0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/righthand.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/rightleg.json",
+    "size": 3022,
+    "hash": "20e656de59a5c434ec1c8edcb4eb09ff0a18bf24",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/rightleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/spear.json",
+    "size": 8370,
+    "hash": "f65201b344b02e42b3a948dda20ea02ae611bd7b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/spear.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/tail.json",
+    "size": 607,
+    "hash": "4a7cd03cfc1377e4455dc1626a8a6d4265903cff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/tail.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/tail2.json",
+    "size": 607,
+    "hash": "eb32b5dccef304beaca3d4eb3e41a4a3005210ca",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/tail2.json"
+  },
+  {
+    "path": "resources/modelengine/models/soulknight_withhorse/tail3.json",
+    "size": 602,
+    "hash": "737545ed31dd5d0e96544518ec66040251669ea6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/soulknight_withhorse/tail3.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/debris1.json",
+    "size": 1241,
+    "hash": "132eaece90fa7e628de8b0d67eb419164c395c18",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/debris1.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/debris2.json",
+    "size": 1251,
+    "hash": "474366fec6158bc2ace63d9b26f4ae20befc978c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/debris2.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/debris3.json",
+    "size": 1264,
+    "hash": "99d464bcc726b70f94de42be827c50a6d34e852c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/debris3.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/debris4.json",
+    "size": 1267,
+    "hash": "0b4ccefb653bedf06ba1e590d44762d1175e6bc0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/debris4.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/debris5.json",
+    "size": 1197,
+    "hash": "83e41d1c136f9fb5bea2081ba7ba1147756ff675",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/debris5.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/debris6.json",
+    "size": 1194,
+    "hash": "b49d97c06e20c7cb34454dd48bafccae8febfb36",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/debris6.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/lightbeam_close.json",
+    "size": 574,
+    "hash": "aaf53bbc13beb421d08cfe234135a6ea5fbec1c1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/lightbeam_close.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/lightbeam_far.json",
+    "size": 1040,
+    "hash": "f5ea6dd3fc6054491349c3656ea248acacd58090",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/lightbeam_far.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/lightbeam_med.json",
+    "size": 1483,
+    "hash": "ea8840e17ad329f93240d78a5d29c0be45f906e6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/lightbeam_med.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/spike1.json",
+    "size": 3530,
+    "hash": "9d182f1490cd7d86363810d07208a3a10255acae",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/spike1.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/spike2.json",
+    "size": 6371,
+    "hash": "90f28a336e86f6640e87f716be17e1972d9d80eb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/spike2.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/spike3.json",
+    "size": 3198,
+    "hash": "ed477dcd97f17ee465064d45977a2df41e0c9576",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/spike3.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/spike4.json",
+    "size": 3787,
+    "hash": "d359719e0ddd7cf18b08fd70bb38f7db59d9f40b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/spike4.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/spike5.json",
+    "size": 4946,
+    "hash": "0e3c8e29951ff9e96d9d347b252f8ce07dc5fa11",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/spike5.json"
+  },
+  {
+    "path": "resources/modelengine/models/stomp_shockwave/spike6.json",
+    "size": 3831,
+    "hash": "efaa8eeb853fc4c63988614543dd02cc17eb1253",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/stomp_shockwave/spike6.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/body1.json",
+    "size": 752,
+    "hash": "fe3b9b04dfe57eb3d90cfde1c68a8fc94d46c358",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/body1.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/body2.json",
+    "size": 1984,
+    "hash": "8ba6daaeee991a22ca4d73cd7e214c3064a904e2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/body2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/chest.json",
+    "size": 2751,
+    "hash": "322a0063561c9dfb4a0ba15e5da1dd8d0e6934d2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/chest.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/crown.json",
+    "size": 11494,
+    "hash": "a265e8edf6f56a1613d429a787674d3b9703b21a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/crown.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/hair.json",
+    "size": 2050,
+    "hash": "3a2cfbbbe33dbf7c596a3f16a56b19f3d55d4565",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/hair.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/hair2.json",
+    "size": 1007,
+    "hash": "d60bf446d3b826295d81db056b069c613cfd74d7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/hair2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/head.json",
+    "size": 22384,
+    "hash": "7d81d3fec958a2861eb0865d7e2f4c721a2bd1bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/head.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/larm.json",
+    "size": 1405,
+    "hash": "353d32f8de6bba3b730b30bcc3b96ea48f806337",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/larm.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/larm2.json",
+    "size": 5652,
+    "hash": "51f1654ff725d1e27b0bf958257c2bb8aa7649a3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/larm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/light_dagger.json",
+    "size": 3047,
+    "hash": "82ccdccc2046ca61e60398d815a1ea039058dbbc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/light_dagger.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/light_hammer.json",
+    "size": 6256,
+    "hash": "27e647fbc0968844121dd7269c37d651f8e1e48c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/light_hammer.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/light_spear.json",
+    "size": 5227,
+    "hash": "119f59bc1ef42337924d3e5d571730f0f8ab4453",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/light_spear.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/light_sword.json",
+    "size": 5768,
+    "hash": "1ae3e44e91eab8df5164eee287b8ca7fde66949c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/light_sword.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/lleg.json",
+    "size": 2935,
+    "hash": "9ad43eedff52dec47acaea062f5268dfe9d26f4a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/lleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/lleg2.json",
+    "size": 762,
+    "hash": "7b7e79433121d6c7deef02102f3a11b06d09d215",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/lleg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/lleg3.json",
+    "size": 5012,
+    "hash": "9941a46001a5ce82eaf3ebc1eefa84016fbde5d4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/lleg3.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/rarm.json",
+    "size": 1399,
+    "hash": "26064bcb0c551d6ff31265f1d727c02224ad62a4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/rarm.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/rarm2.json",
+    "size": 5685,
+    "hash": "125c9440afe0e725a44be8cd25ac3c2c189bef17",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/rarm2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/rleg.json",
+    "size": 3600,
+    "hash": "b01c0d1b5c0a6a92fa3a83c0145501c6659490f2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/rleg.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/rleg2.json",
+    "size": 753,
+    "hash": "e51cb97b93ddaeb0c9434e40eb377be767cfa7d2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/rleg2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/rleg3.json",
+    "size": 4987,
+    "hash": "fbcc6c83fb721f02718027df3bd044c0b2168a2f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/rleg3.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/tail.json",
+    "size": 9702,
+    "hash": "4e28b0854266e639bcc5acefd26f8d87f6e903f6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/tail.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/tail2.json",
+    "size": 12821,
+    "hash": "5d64d2735bbe8a6e253a035b747795613b9d9042",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/tail2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/tail3.json",
+    "size": 12734,
+    "hash": "681b3298e1a73a5efb3e111d365d126cbc5311b8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/tail3.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/tail4.json",
+    "size": 6918,
+    "hash": "cb46ec1451a87b1ee214a23bf8bb60ab3d4d7af8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/tail4.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/tail5.json",
+    "size": 5390,
+    "hash": "dc37c36e3e6dcdd149ed312d74a383b1e218a720",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/tail5.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41/weapon.json",
+    "size": 11168,
+    "hash": "7b3bc2b43bffbeac8a0497cb6713d06cea5e6311",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41/weapon.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41dagger/light_dagger.json",
+    "size": 2530,
+    "hash": "c139475af7e598b0f5e2223b981ac31de1aa4059",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41dagger/light_dagger.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41spear/light_spear.json",
+    "size": 5135,
+    "hash": "9f02195389b7716209be6436c1758233a1c58011",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41spear/light_spear.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41spearvfx/light_spear.json",
+    "size": 5152,
+    "hash": "269a8b80e45c17a432d91cf1cdc5ca9c55879e0b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41spearvfx/light_spear.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfall/bone.json",
+    "size": 315,
+    "hash": "ecb88ff47393ae8a37e789fa14f612b06db5ffff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfall/bone.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfall/light_sword.json",
+    "size": 5780,
+    "hash": "e1d00b9232bf67fb225c8f068088483de4ddcba1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfall/light_sword.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfallvfx/bone.json",
+    "size": 317,
+    "hash": "5c09b53750bc4d1f1f532ae23ff939e43893a041",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfallvfx/bone.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfallvfx/bone2.json",
+    "size": 319,
+    "hash": "19c61bfa091477bc41298812a7c308126aff2a1b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfallvfx/bone2.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfallvfx/bone3.json",
+    "size": 319,
+    "hash": "a59daa1bb69b58debf5c5fd09137de1980432b0d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfallvfx/bone3.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfallvfx/bone4.json",
+    "size": 321,
+    "hash": "62089adc9d8d67bce82fc419e8523dda4026e4df",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfallvfx/bone4.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41swordfallvfx/bone5.json",
+    "size": 317,
+    "hash": "f145c569b3dfab0b310bc4403cadd34444870eed",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41swordfallvfx/bone5.json"
+  },
+  {
+    "path": "resources/modelengine/models/wolfmob41_surround/bone.json",
+    "size": 2612,
+    "hash": "5b740b5b462cfab4450c2f4f2d189c9bc4d32361",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/models/wolfmob41_surround/bone.json"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/3.png",
+    "size": 1208,
+    "hash": "8488b6ee83792ba2daf0590a6810dce300223b3a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/3.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/backhead.png",
+    "size": 388,
+    "hash": "85831e7f2c3cd9aa33283071123ddbccf917d62f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/backhead.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/beard.png",
+    "size": 1542,
+    "hash": "b748226ea408f1728f353d23b6a41f7033278008",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/beard.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/bootttop.png",
+    "size": 776,
+    "hash": "090e0fba3e99f2076dad108c81cde596efa108dc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/bootttop.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/capanorrea.png",
+    "size": 1071,
+    "hash": "4576dd6a84d1d6b78b692bfd7bbd5fc31f4aaf91",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/capanorrea.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/cyber_ninja.png",
+    "size": 11443,
+    "hash": "396a0d72caca807a5c98a48a3eb6a6b84da327ae",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/cyber_ninja.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/endpant.png",
+    "size": 525,
+    "hash": "c51f967b11880d4ff95eee741c07eaf187d8f934",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/endpant.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/erlenmeyer.png",
+    "size": 1355,
+    "hash": "5835a354bea2fcd2fd29739b9a631fadad10c823",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/erlenmeyer.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva.png",
+    "size": 21936,
+    "hash": "7909cff35efe714db37c9ce47b1a710cdddb5b38",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_fire_vfx.png",
+    "size": 61448,
+    "hash": "5a441e9cc3f9e5eebe10fb15719203236dc24e03",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_fire_vfx.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_fire_vfx_e.png",
+    "size": 61448,
+    "hash": "5a441e9cc3f9e5eebe10fb15719203236dc24e03",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_fire_vfx_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_hand.png",
+    "size": 1088,
+    "hash": "51b354d7465b4dba4146249d82693ffc3b7aea5d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_hand.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_hand_e.png",
+    "size": 1088,
+    "hash": "51b354d7465b4dba4146249d82693ffc3b7aea5d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_hand_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_light.png",
+    "size": 5498,
+    "hash": "c386a01404cd5a6408954dcadd9f3654b87d71c9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_light.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_light_e.png",
+    "size": 5498,
+    "hash": "c386a01404cd5a6408954dcadd9f3654b87d71c9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_light_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_missile.png",
+    "size": 851,
+    "hash": "89526993d00cf2837abcf77d4ca7228576af0bca",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_missile.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_ph2.png",
+    "size": 5488,
+    "hash": "d6dc7d60775e4676a0dc02e85552bd3e6b0a809f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_ph2.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_raser.png",
+    "size": 1780,
+    "hash": "8e8878691e05f69d36233df9bddb5487c8015f42",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_raser.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/gatling_bodhisattva_raser_e.png",
+    "size": 1780,
+    "hash": "8e8878691e05f69d36233df9bddb5487c8015f42",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/gatling_bodhisattva_raser_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/ghoul1.png",
+    "size": 58743,
+    "hash": "b03b28993fa4ab1b92393ba970fb25aeb20f3a62",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/ghoul1.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/jarres.png",
+    "size": 1269,
+    "hash": "596f70af90e338e95fb127b81973649832042355",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/jarres.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/kindletron2.png",
+    "size": 84210,
+    "hash": "88d0f158bbae89f5ec5a6622133aa43d55723c57",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/kindletron2.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/kindletron2_damaged.png",
+    "size": 45005,
+    "hash": "9025b3034374471bf5525b0ee0ff29c4e840a586",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/kindletron2_damaged.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/kindletron2_damaged_e.png",
+    "size": 5574,
+    "hash": "d4222a374ab0550fd0626855afd33026295a19f2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/kindletron2_damaged_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/kindletron2_e.png",
+    "size": 919,
+    "hash": "33c7f0f2785ec0a00934bf27dea68136190dc6ed",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/kindletron2_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/magononea.png",
+    "size": 2844,
+    "hash": "96cfff659e3b1369a4af6d2f4befa58452b189ff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/magononea.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/manche.png",
+    "size": 195,
+    "hash": "d212e53600163aea6f877d7b2595df91fba43555",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/manche.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/maskerer.png",
+    "size": 2203,
+    "hash": "87fc81eeee7ae8ccb2d140d25fe3335e38eb3ef2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/maskerer.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/moss_golem.png",
+    "size": 3197,
+    "hash": "6fafdd33fb4c4a8f582037781bb986b874c10b36",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/moss_golem.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_homonculus.png",
+    "size": 1074,
+    "hash": "6a4acf588744a67018787b3c90be5ac2e645a2e7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_homonculus.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_homonculus_eyes.png",
+    "size": 103,
+    "hash": "d2e85b3567e92783e13afa930bcac8211c41fe58",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_homonculus_eyes.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_homonculus_nose.png",
+    "size": 92,
+    "hash": "78ee1442ec29a9c8b8f74a7626ae8a3dbf7efbdf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_homonculus_nose.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_jarre.png",
+    "size": 6695,
+    "hash": "e514abb72b61813813e99d003909089940c89c2d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_jarre.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_potion.png",
+    "size": 732,
+    "hash": "15e93f7e3637570655419c16553a2095631102b7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_potion.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_shoe.png",
+    "size": 7497,
+    "hash": "21a7ace7806de050869a74e219f56dc8c9b17951",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_shoe.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere.png",
+    "size": 29768,
+    "hash": "dba1f097b690545cb3326f1529e5c2ee78e98bd2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_barbe.png",
+    "size": 180,
+    "hash": "44a8af6cb6e055ea53e9816d4cff2084cace29ad",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_barbe.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_bras.png",
+    "size": 1117,
+    "hash": "521be69dba5348779777ac842ed5114643a0aa6b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_bras.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_closed_eyes.png",
+    "size": 148,
+    "hash": "34a4b689a097bfe35dffaa68a659c42295b8c0f6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_closed_eyes.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_hat.png",
+    "size": 12227,
+    "hash": "cc93673a148fbe7e83e08f943ee31b69f8da2300",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_hat.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_moustache.png",
+    "size": 137,
+    "hash": "472ccc9ce4be472cae06d91fb4d962d8db0421e1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_moustache.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_teeth.png",
+    "size": 138,
+    "hash": "df736b5af4f5285a81efc89a6de29bdf8e37e39e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_teeth.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/nocsy_zvarikia_chimere_tongue.png",
+    "size": 301,
+    "hash": "1c07c2ff670960e08ff02cb0d397667c407aa55e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/nocsy_zvarikia_chimere_tongue.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/open_eyes.png",
+    "size": 182,
+    "hash": "ed6d2fb140dbd2f8cb9e8c1ce00a85396d720895",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/open_eyes.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/possesed_mask.png",
+    "size": 1910,
+    "hash": "5022453c8e7b992076e21c913285b108a2492951",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/possesed_mask.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/possesed_mask_e.png",
+    "size": 838,
+    "hash": "36e7050a12a550e0a7eb868e38e8d44f72158123",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/possesed_mask_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/pursued.png",
+    "size": 1792,
+    "hash": "96bfef9ecd5edec3e2c93e7ea6cf05ad9718df9e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/pursued.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/pursued_e.png",
+    "size": 102,
+    "hash": "a16c7513ff9987bf3076e62fbec577fcdb91da26",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/pursued_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/pursued_shadow.png",
+    "size": 147,
+    "hash": "fba26226404feba68c5bd8eb662f837ce4943f30",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/pursued_shadow.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/pursued_shadow_e.png",
+    "size": 147,
+    "hash": "fba26226404feba68c5bd8eb662f837ce4943f30",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/pursued_shadow_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/rocky.png",
+    "size": 10349,
+    "hash": "f795e4bd1c5ee3ef674f8fc7aa18394c8d8c514a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/rocky.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/shadow_golem.png",
+    "size": 3356,
+    "hash": "3796f9f4834c096403802143b61a9ee68798ac48",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/shadow_golem.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/shadow_golem_e.png",
+    "size": 311,
+    "hash": "60d912016304d1d763bddd250a2ac3c6d21b7d50",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/shadow_golem_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/slash_projectile.png",
+    "size": 207,
+    "hash": "7d2c9451eb0dd15b451dc78e89f82aa06e369055",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/slash_projectile.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/soul_knight.png",
+    "size": 25789,
+    "hash": "cfdce3c1ac3fdfee8e508955b7584f13c080d65a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/soul_knight.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/soul_knight_horse.png",
+    "size": 25174,
+    "hash": "d3ea97a3750080660e30dea528f79ccf42a0d385",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/soul_knight_horse.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/stomp_shockwave.png",
+    "size": 7728,
+    "hash": "90419996ed09535bb1d0ca2db30e8f9250693784",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/stomp_shockwave.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41.png",
+    "size": 23652,
+    "hash": "ed53c9386782529e1532f5c941bd88b10e985d2d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41dagger.png",
+    "size": 418,
+    "hash": "3dacd44ee9c4929b4df6bf86d107c1c5016c824a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41dagger.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41dagger_e.png",
+    "size": 418,
+    "hash": "3dacd44ee9c4929b4df6bf86d107c1c5016c824a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41dagger_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41face.png",
+    "size": 1556,
+    "hash": "f3185465f721592d64aab0bc8bb379c003e2e2cd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41face.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41weapon.png",
+    "size": 8425,
+    "hash": "541ffebcd83bdd0b08b89bb19896dc920b820c37",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41weapon.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41weapon_e.png",
+    "size": 8422,
+    "hash": "bb547b17357f2f08ac6791abf60fcaaf51706900",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41weapon_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41_lightring.png",
+    "size": 116,
+    "hash": "321da3acffeaa717b086b0f11701fc4eb1ba7303",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41_lightring.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41_lightringvfx.png",
+    "size": 2819,
+    "hash": "2178a70b7393cd137937d9e5b12fbca46dfe58a4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41_lightringvfx.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41_lightringvfx_e.png",
+    "size": 2819,
+    "hash": "2178a70b7393cd137937d9e5b12fbca46dfe58a4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41_lightringvfx_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41_lightring_e.png",
+    "size": 116,
+    "hash": "321da3acffeaa717b086b0f11701fc4eb1ba7303",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41_lightring_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41_surround.png",
+    "size": 555,
+    "hash": "de042121a7c6b8c185d8f83d5a1f1d4516c32633",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41_surround.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/wolfmob41_surround_e.png",
+    "size": 555,
+    "hash": "de042121a7c6b8c185d8f83d5a1f1d4516c32633",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/wolfmob41_surround_e.png"
+  },
+  {
+    "path": "resources/modelengine/textures/entity/zvarikia_alchemist.png",
+    "size": 31301,
+    "hash": "364045c323a06283cd3ccd6c1104c2eea2c726b0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/zvarikia_alchemist.png"
   }
 ]
