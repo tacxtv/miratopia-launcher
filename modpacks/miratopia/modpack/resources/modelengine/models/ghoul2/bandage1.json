@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/ghoul1"},"elements":[{"from":[7.95,5.8199997,7.95],"to":[7.95,10.72,12.15],"faces":{"east":{"uv":[2.875,7.125,3.625,8.0],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[3.625,7.125,4.375,8.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

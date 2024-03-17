@@ -1,0 +1,1 @@
+{"textures":{"2":"modelengine:entity/gatling_bodhisattva_light"},"elements":[{"from":[-4.0,-2.25,8.0],"to":[20.0,21.75,8.0],"faces":{"south":{"uv":[8.533334,0.0,11.733334,3.2000003],"tintindex":0,"rotation":0,"texture":"#2"},"north":{"uv":[0.0,8.533334,3.2000003,11.733334],"tintindex":0,"rotation":0,"texture":"#2"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

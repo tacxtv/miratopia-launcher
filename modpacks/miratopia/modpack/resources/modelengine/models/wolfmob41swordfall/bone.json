@@ -1,0 +1,1 @@
+{"textures":{"2":"modelengine:entity/wolfmob41_lightring"},"elements":[{"from":[3.5,7.5,3.5],"to":[27.5,7.5,27.5],"faces":{"up":{"uv":[8.0,8.0,0.0,0.0],"tintindex":0,"rotation":0,"texture":"#2"},"down":{"uv":[8.0,8.0,0.0,16.0],"tintindex":0,"rotation":0,"texture":"#2"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
