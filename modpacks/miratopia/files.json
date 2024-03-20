@@ -312,6 +312,66 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_aleatoire_2.ogg",
+    "size": 308953,
+    "hash": "ea87ca6491ec0580468495afc8e63fc35303d67d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_aleatoire_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_aleatoire_3.ogg",
+    "size": 507479,
+    "hash": "9a2b8b8629c53e86d1cd83092e179378f77e91a1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_aleatoire_3.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_attaque_bouledefeu.ogg",
+    "size": 263808,
+    "hash": "71a7265d26ff1b24bdcdee652ccca367b216df9e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_attaque_bouledefeu.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_attaque_meteorite.ogg",
+    "size": 159457,
+    "hash": "96383aebdab5a2f3f3c921580ccdc4442e6a8e69",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_attaque_meteorite.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_attaque_repoussoir.ogg",
+    "size": 405465,
+    "hash": "0e1a45853e8d9d7ce24aea99e5e5bf2f10266077",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_attaque_repoussoir.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_attaque_trou_noir.ogg",
+    "size": 434952,
+    "hash": "3809bbfdda75e3e6bc65d680ce295d57b89357c6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_attaque_trou_noir.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_début_combat.ogg",
+    "size": 681176,
+    "hash": "c509bddb202878ddf66f2412bdbffb9fe6d15819",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_début_combat.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_joueur_mort.ogg",
+    "size": 396437,
+    "hash": "c1a61a2e414bb2c13187f33b265ec4a8cda8ff89",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_joueur_mort.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_mort.ogg",
+    "size": 360363,
+    "hash": "6e4b286356cdc27c1ea8a985627692c1655402bd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_mort.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_son_aleatoire_1.ogg",
+    "size": 203277,
+    "hash": "01dffb815693892fbb722352e85af7bfb3be87e1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_son_aleatoire_1.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_soleil.ogg",
     "size": 1060676,
     "hash": "861465c7a5ff50a5740abd2c39959c785f0a16bf",
@@ -499,8 +559,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 5041,
-    "hash": "b473314878c0e64cd7f01951e32565bb89b048d3",
+    "size": 6461,
+    "hash": "bd7e7a8dedc6c55aed9d5afb2b5631a3a2ea2058",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {

@@ -226,5 +226,65 @@
     "sounds": [
       "custom/pnj_macgo_lagalle_replique_1"
     ]
+  },
+  "custom.boss_manoir_aleatoire_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_aleatoire_2"
+    ]
+  },
+  "custom.boss_manoir_aleatoire_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_aleatoire_3"
+    ]
+  },
+  "custom.boss_manoir_son_aleatoire_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_son_aleatoire_1"
+    ]
+  },
+  "custom.boss_manoir_attaque_bouledefeu": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_attaque_bouledefeu"
+    ]
+  },
+  "custom.boss_manoir_attaque_meteorite": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_attaque_meteorite"
+    ]
+  },
+  "custom.boss_manoir_attaque_repoussoir": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_attaque_repoussoir"
+    ]
+  },
+  "custom.boss_manoir_attaque_trou_noir": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_attaque_trou_noir"
+    ]
+  },
+  "custom.boss_manoir_début_combat": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_début_combat"
+    ]
+  },
+  "custom.boss_manoir_joueur_mort": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_joueur_mort"
+    ]
+  },
+  "custom.boss_manoir_mort": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_mort"
+    ]
   }
 }
