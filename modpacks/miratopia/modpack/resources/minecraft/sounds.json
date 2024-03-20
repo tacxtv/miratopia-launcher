@@ -269,10 +269,10 @@
       "custom/boss_manoir_attaque_trou_noir"
     ]
   },
-  "custom.boss_manoir_début_combat": {
+  "custom.boss_manoir_debut_combat": {
     "category": "neutral",
     "sounds": [
-      "custom/boss_manoir_début_combat"
+      "custom/boss_manoir_debut_combat"
     ]
   },
   "custom.boss_manoir_joueur_mort": {

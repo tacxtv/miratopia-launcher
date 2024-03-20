@@ -348,10 +348,10 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_attaque_trou_noir.ogg"
   },
   {
-    "path": "resources/minecraft/sounds/custom/boss_manoir_début_combat.ogg",
+    "path": "resources/minecraft/sounds/custom/boss_manoir_debut_combat.ogg",
     "size": 681176,
     "hash": "c509bddb202878ddf66f2412bdbffb9fe6d15819",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_début_combat.ogg"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_debut_combat.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/boss_manoir_joueur_mort.ogg",
@@ -559,8 +559,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 6461,
-    "hash": "bd7e7a8dedc6c55aed9d5afb2b5631a3a2ea2058",
+    "size": 6459,
+    "hash": "1ca5542549a134e42cd6a7ee3654e318fae76d54",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {
