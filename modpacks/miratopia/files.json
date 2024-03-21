@@ -468,6 +468,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_temple_death_end.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_temple_debut_phase_1.ogg",
+    "size": 59441,
+    "hash": "05a97875a5112a608170f99881d22cd1a69e1e39",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_temple_debut_phase_1.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_temple_hand.ogg",
     "size": 42326,
     "hash": "22b273bf46398e90e2447a86c7754e07ba793fcb",
@@ -538,6 +544,12 @@
     "size": 363679,
     "hash": "76c454f39ae548be7ffde9ee0ee633ae8b427b36",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/donjon_forteresse_entry.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/donjon_temple_entry.ogg",
+    "size": 386472,
+    "hash": "263ea943886e9487e67c4027a665738b77fb042d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/donjon_temple_entry.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/golem_aleatoire_1.ogg",
@@ -859,8 +871,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 12592,
-    "hash": "6acfa0f5a309d465eeab1fc4e2b059d4c1150f9f",
+    "size": 12850,
+    "hash": "e2234fe5ee89e9811b9d2bde35a04874076a81fb",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {

@@ -203,6 +203,12 @@
       "custom/boss_temple_death_end"
     ]
   },
+  "custom.boss_temple_debut_phase_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_temple_debut_phase_1"
+    ]
+  },
   "custom.boss_temple_hand": {
     "category": "neutral",
     "sounds": [
@@ -273,6 +279,12 @@
     "category": "neutral",
     "sounds": [
       "custom/donjon_forteresse_entry"
+    ]
+  },
+  "custom.donjon_temple_entry": {
+    "category": "neutral",
+    "sounds": [
+      "custom/donjon_temple_entry"
     ]
   },
   "custom.golem_aleatoire_1": {
