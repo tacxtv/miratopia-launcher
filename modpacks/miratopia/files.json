@@ -294,6 +294,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_chevalier_hand.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_chevalier_invocation.ogg",
+    "size": 22415,
+    "hash": "779002926ac40ca8d00f2a2313c1e709f29ee988",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_chevalier_invocation.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_chevalier_jump.ogg",
     "size": 53347,
     "hash": "4a29adb4b6e4ad1cc7908125f427f664604c39aa",
@@ -340,6 +346,12 @@
     "size": 21421,
     "hash": "407309611fc1f22513e1f84d78865d5ddd57da76",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_chevalier_random_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_chevalier_shockwave.ogg",
+    "size": 66493,
+    "hash": "bdca1c57a8ae45a25151eb21bfb2fac9de974648",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_chevalier_shockwave.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/boss_elythria_phase_1.ogg",
@@ -522,6 +534,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_yasufeu.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/donjon_forteresse_entry.ogg",
+    "size": 363679,
+    "hash": "76c454f39ae548be7ffde9ee0ee633ae8b427b36",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/donjon_forteresse_entry.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/golem_aleatoire_1.ogg",
     "size": 261059,
     "hash": "0ca9827be97662f62ba9d8fa448c224f6b7e73a0",
@@ -660,6 +678,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_celine_replique_1.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_enigmatik_replique_1.ogg",
+    "size": 514946,
+    "hash": "55f000d1a0641b62903cdc3c3d191be1ecceaba6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_enigmatik_replique_1.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_1.ogg",
     "size": 140012,
     "hash": "cfef726741e01f4ec95f7cc8ea2c42030122f4fe",
@@ -706,6 +730,42 @@
     "size": 754388,
     "hash": "d5526e375714f1fe147246f949feb265ddb55249",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_gouverneur_replique_5.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_guidhibou_academy_boss_door.ogg",
+    "size": 202272,
+    "hash": "711370667385d9c02a2ce64445e23db681ce9eda",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_guidhibou_academy_boss_door.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_guidhibou_academy_entry.ogg",
+    "size": 457712,
+    "hash": "8b9d6161148841a8bbcecb92d2f8cf5b412abaee",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_guidhibou_academy_entry.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_guidhibou_forteress_end.ogg",
+    "size": 366775,
+    "hash": "14163b8ea996ce85689ec6998ca251f8db79145a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_guidhibou_forteress_end.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_guidhibou_forteress_entry.ogg",
+    "size": 230654,
+    "hash": "85264eb3f2a9b7c187946103624b4bb613d933f4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_guidhibou_forteress_entry.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_guidhibou_notes_passage_sacre.ogg",
+    "size": 241109,
+    "hash": "ddb2e9236ad372d32083fbefd9b942280efe5101",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_guidhibou_notes_passage_sacre.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_guidhibou_temple_entry.ogg",
+    "size": 347156,
+    "hash": "5934b80e96d48b05d70c1d8ce65ed3fc954f697d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_guidhibou_temple_entry.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_harchie_proxim_1.ogg",
@@ -799,8 +859,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 11204,
-    "hash": "a380593e7dae27fbf02d1ad78848904a706ca3b3",
+    "size": 12592,
+    "hash": "6acfa0f5a309d465eeab1fc4e2b059d4c1150f9f",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {

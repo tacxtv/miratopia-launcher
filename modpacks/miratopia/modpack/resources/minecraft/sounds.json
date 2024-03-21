@@ -29,6 +29,12 @@
       "custom/boss_chevalier_hand"
     ]
   },
+  "custom.boss_chevalier_invocation": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_chevalier_invocation"
+    ]
+  },
   "custom.boss_chevalier_jump": {
     "category": "neutral",
     "sounds": [
@@ -75,6 +81,12 @@
     "category": "neutral",
     "sounds": [
       "custom/boss_chevalier_random_2"
+    ]
+  },
+  "custom.boss_chevalier_shockwave": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_chevalier_shockwave"
     ]
   },
   "custom.boss_elythria_phase_1": {
@@ -257,6 +269,12 @@
       "custom/boss_yasufeu"
     ]
   },
+  "custom.donjon_forteresse_entry": {
+    "category": "neutral",
+    "sounds": [
+      "custom/donjon_forteresse_entry"
+    ]
+  },
   "custom.golem_aleatoire_1": {
     "category": "neutral",
     "sounds": [
@@ -395,6 +413,12 @@
       "custom/pnj_celine_replique_1"
     ]
   },
+  "custom.pnj_enigmatik_replique_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_enigmatik_replique_1"
+    ]
+  },
   "custom.pnj_gouverneur_proxim_1": {
     "category": "neutral",
     "sounds": [
@@ -441,6 +465,42 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_gouverneur_replique_5"
+    ]
+  },
+  "custom.pnj_guidhibou_academy_boss_door": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_academy_boss_door"
+    ]
+  },
+  "custom.pnj_guidhibou_academy_entry": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_academy_entry"
+    ]
+  },
+  "custom.pnj_guidhibou_forteress_end": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_forteress_end"
+    ]
+  },
+  "custom.pnj_guidhibou_forteress_entry": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_forteress_entry"
+    ]
+  },
+  "custom.pnj_guidhibou_notes_passage_sacre": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_notes_passage_sacre"
+    ]
+  },
+  "custom.pnj_guidhibou_temple_entry": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_temple_entry"
     ]
   },
   "custom.pnj_harchie_proxim_1": {
