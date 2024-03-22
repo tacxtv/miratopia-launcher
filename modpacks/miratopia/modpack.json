@@ -642,6 +642,21 @@
     {
       "path": "mods/ExtraQuests-Forge-1.1.0-1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/rMvP0ujv/versions/PyrhnW6s/ExtraQuests-Forge-1.1.0-1.20.1.jar"
+    },
+    {
+      "path": "mods/missions-forge-0.3.1.jar",
+      "url": "https://cdn.modrinth.com/data/KN33kvHF/versions/eulCBf76/missions-forge-0.3.1.jar",
+      "optional": true
+    },
+    {
+      "path": "mods/create_connected-0.7.4-mc1.20.1-all.jar",
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/AZBGh6f2/create_connected-0.7.4-mc1.20.1-all.jar",
+      "optional": true
+    },
+    {
+      "path": "mods/Copycats-forge.1.20.1-1.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/L3l4jW7j/Copycats-forge.1.20.1-1.2.0.jar",
+      "optional": true
     }
   ]
 }
