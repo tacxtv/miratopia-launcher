@@ -1,5 +1,323 @@
 [
   {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-1.mca",
+    "size": 3010560,
+    "hash": "8ada1e3657a0c6b175e07886d7da903212980d37",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-1.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-10.mca",
+    "size": 1912832,
+    "hash": "61e3bf0ed460e48d62129aa0a8601a99353c4e14",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-10.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-12.mca",
+    "size": 2326528,
+    "hash": "020ab1603d4934dd3804d31fdca146c2b940e3a6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-12.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-13.mca",
+    "size": 483328,
+    "hash": "84de8c83f6e50813efa8067850a7a1f13b3f2149",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-13.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-15.mca",
+    "size": 2457600,
+    "hash": "2f2331ff3117a92ea0699d087fb7191a0719dd72",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-15.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-16.mca",
+    "size": 204800,
+    "hash": "4c4a1eea1cb58959d5552434d022b40885b4512d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-16.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-2.mca",
+    "size": 32768,
+    "hash": "2df421f1b7d6a8f235d130b75277ed77d4335dd5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-2.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-4.mca",
+    "size": 2330624,
+    "hash": "9b1fe960d40fd1118052999a4cd6211e315bf6b2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-4.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-9.mca",
+    "size": 786432,
+    "hash": "cc76245eaa788cdf00483780d63bb362d9ff25e2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.-9.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-1.0.mca",
+    "size": 2486272,
+    "hash": "10227209cbbda7a8995438d91537848eab8c0180",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-1.0.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-10.-1.mca",
+    "size": 1363968,
+    "hash": "d5de724bd46157daabef431f0efd505a2f713f3e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-10.-1.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-10.-2.mca",
+    "size": 2654208,
+    "hash": "14e91fb0e383fc17a7af3495e887ab9ea4e005fa",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-10.-2.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-11.-1.mca",
+    "size": 3198976,
+    "hash": "3863ac1cccf3646e37403e6667a4a911551af823",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-11.-1.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-11.-2.mca",
+    "size": 2142208,
+    "hash": "5b79f0f3f2b4811d4e8535c8a3c68971e60cefdc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-11.-2.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-5.6.mca",
+    "size": 0,
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-5.6.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-5.7.mca",
+    "size": 2330624,
+    "hash": "a95d50664557d61b15b83d9187a2c54d12a29ffb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-5.7.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-5.8.mca",
+    "size": 552960,
+    "hash": "d97ed765dbc3be7c8d87c031e17b2804d2900810",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-5.8.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-6.6.mca",
+    "size": 1208320,
+    "hash": "4787b6f482884bd43640929a8795d303b8301d13",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-6.6.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-6.7.mca",
+    "size": 4534272,
+    "hash": "8f18d52867bd352bc2b56128c0858d6f135cbf65",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-6.7.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-6.8.mca",
+    "size": 192512,
+    "hash": "437c5a981ec26f8984ff4cd74e46d2d32558807f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-6.8.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-7.-10.mca",
+    "size": 0,
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-7.-10.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-7.-9.mca",
+    "size": 0,
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-7.-9.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-7.6.mca",
+    "size": 118784,
+    "hash": "3be829e6e7709c01a26d279e9a57abf8ed33b063",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-7.6.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-7.7.mca",
+    "size": 311296,
+    "hash": "7994fb3c279105c90ede7ed167c4e91315e5f2eb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-7.7.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-8.-10.mca",
+    "size": 0,
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-8.-10.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-8.-8.mca",
+    "size": 1658880,
+    "hash": "79cdeb1f2ebe62f35734a762323513fbc896a92d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-8.-8.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-8.-9.mca",
+    "size": 5038080,
+    "hash": "77317901e4d68c730d3e489bddbf7b7b388b2567",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-8.-9.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-9.-8.mca",
+    "size": 2904064,
+    "hash": "6e445f83b907551ec6ed54d7e591ac569d387827",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-9.-8.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.-9.-9.mca",
+    "size": 1224704,
+    "hash": "cbdaf7504de14efa0ead1a11f09f394a239cf58d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.-9.-9.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-1.mca",
+    "size": 2519040,
+    "hash": "a5d5509bf3ac9ff9f8785e5a0fd101f608eb9cb0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-1.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-10.mca",
+    "size": 172032,
+    "hash": "21b54d4ed4df3d5d24324a6150d503e24fed905a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-10.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-12.mca",
+    "size": 245760,
+    "hash": "2911270130e11156881b04277508c9dc6cb58bfa",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-12.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-13.mca",
+    "size": 28672,
+    "hash": "5114c521b94407b5174347d676ed2841a59388ee",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-13.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-15.mca",
+    "size": 225280,
+    "hash": "df1bfe28ce113098d70e53d3c1a72bc4781c01bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-15.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-16.mca",
+    "size": 0,
+    "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-16.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-2.mca",
+    "size": 32768,
+    "hash": "3c9627245972ddd4dadad00fb149d7e90cff53c5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-2.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-4.mca",
+    "size": 1138688,
+    "hash": "74c9e184e95f6969bcb2380a9d71244bb62aca35",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-4.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.-9.mca",
+    "size": 53248,
+    "hash": "188408a040f2dd999bb33f4718f7a73cc9573679",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.-9.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.0.0.mca",
+    "size": 2772992,
+    "hash": "d204a92e9a7e96cf33acf9fde404f700d77c2a05",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.0.0.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.13.13.mca",
+    "size": 2125824,
+    "hash": "8fc63ee1056fc4e93413f0ba288c582d6a98ba5e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.13.13.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.13.14.mca",
+    "size": 1826816,
+    "hash": "14f29479be2b19981c0d0b0a73f05333965d35bc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.13.14.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.14.13.mca",
+    "size": 2142208,
+    "hash": "b04d5ca3bf34f04d0d4695f11ab9c40c9264ecec",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.14.13.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.14.14.mca",
+    "size": 1552384,
+    "hash": "18f275bb065768c62514565ab7f92ad0309d0d63",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.14.14.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.5.-6.mca",
+    "size": 602112,
+    "hash": "876ba4089c24b2a701e63f45332000c64ddd2959",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.5.-6.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.5.-7.mca",
+    "size": 536576,
+    "hash": "a51489df451e89080a5d84335c86a322a7a8d98b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.5.-7.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.5.4.mca",
+    "size": 114688,
+    "hash": "0a9ea68e71467e99520456727ed741e8bba37fe3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.5.4.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.5.5.mca",
+    "size": 1646592,
+    "hash": "9e9f64f54356e8805d16c2bc4f9969d0ca683685",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.5.5.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.5.6.mca",
+    "size": 110592,
+    "hash": "5a3c34692d20fe0c99a4a46a5af5b835d1209074",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.5.6.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.6.-6.mca",
+    "size": 3485696,
+    "hash": "a78be10ed3a348c7804f6d0782343bcaa9894fd6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.6.-6.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.6.-7.mca",
+    "size": 2387968,
+    "hash": "5e87394531adb6b2c2a43065d2e5a8c39293e80d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.6.-7.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.6.4.mca",
+    "size": 139264,
+    "hash": "1f8ca6ac9e2ce3506df8246951fb3646af9d479d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.6.4.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.6.5.mca",
+    "size": 2510848,
+    "hash": "fe37355573b62840f9aa0ff8571428ea21f76ab9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.6.5.mca"
+  },
+  {
+    "path": ".bobby/gm37-dc02.ouiheberg.com_25182/r.6.6.mca",
+    "size": 880640,
+    "hash": "ea64508c9e8b14410129d5c2ec5d1af7b6b3763b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/.bobby/gm37-dc02.ouiheberg.com_25182/r.6.6.mca"
+  },
+  {
     "path": "config/fancymenu/assets/background_texture.png",
     "size": 12153,
     "hash": "5a1f82a3cbc2b73f863bbc1b84f469a69f9777fe",
@@ -864,16 +1182,52 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pdv_tour_ensorcelleur.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_brifie.ogg",
+    "size": 24618,
+    "hash": "a1b5db268d3353dc47aaa79e331c24e3c1ff2cbd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_brifie.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_celine_replique_1.ogg",
     "size": 703294,
     "hash": "56dadac27a9dcaba3c461688e7a1dc86a32906c8",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_celine_replique_1.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_demon_salvatore.ogg",
+    "size": 550141,
+    "hash": "1f1ad450858cdcef4aa9ce0c7371b0858842d7d3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_demon_salvatore.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_diana.ogg",
+    "size": 185399,
+    "hash": "a1db6f9cffb312b93c8447eeb3a120a54c6a6a50",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_diana.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_emy.ogg",
+    "size": 157172,
+    "hash": "b8504305afddd3b40f4e553648732e695c264a22",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_emy.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_enigmatik_replique_1.ogg",
     "size": 514946,
     "hash": "55f000d1a0641b62903cdc3c3d191be1ecceaba6",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_enigmatik_replique_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_enora.ogg",
+    "size": 186576,
+    "hash": "67220aa76dc8780bb5508cd33e98914ab216c3a0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_enora.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_fossoyeur.ogg",
+    "size": 896812,
+    "hash": "7772b8ec7b55aab0e554bf803a71e72da107bc1f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_fossoyeur.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_gouverneur_proxim_1.ogg",
@@ -996,10 +1350,28 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_harchie_replique_4.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_ilan_fareway.ogg",
+    "size": 872101,
+    "hash": "5f940c8c8e81907f5729bb12d0bb837cad20c5ec",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_ilan_fareway.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_lady_paurtaille.ogg",
+    "size": 286663,
+    "hash": "4ce735133e30d51b71ca4f4af6b90ef9e61d1d57",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_lady_paurtaille.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_macgo_lagalle_replique_1.ogg",
     "size": 274912,
     "hash": "3147e940be20ab86356716b7bc222c20a491cf91",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_macgo_lagalle_replique_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_marie_curriz.ogg",
+    "size": 184551,
+    "hash": "a3db96c3fee0bf6f8a7852717d181bb2d6a314e7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_marie_curriz.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_mark_page_proxim_1.ogg",
@@ -1018,6 +1390,12 @@
     "size": 467858,
     "hash": "450c43cba7753f0d78213e601265a4808633c35e",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_mark_page_replique_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_nac_umbra.ogg",
+    "size": 814794,
+    "hash": "a6c32d91335b6ea54a05ce8ece767dda55916cb1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_nac_umbra.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_1.ogg",
@@ -1044,6 +1422,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_rosalia_replique_4.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_selena.ogg",
+    "size": 194937,
+    "hash": "d63386a0923acb4fbc3f005ffc66cfe25118ec19",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_selena.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds copy.json",
     "size": 7509,
     "hash": "de6d9d593a7b6a92525b7c793a4e730f788fafeb",
@@ -1051,8 +1435,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 12850,
-    "hash": "e2234fe5ee89e9811b9d2bde35a04874076a81fb",
+    "size": 14067,
+    "hash": "331ce4ea66175de4bd03dafd35e1b3bf179857b4",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {
