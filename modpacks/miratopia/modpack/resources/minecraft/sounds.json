@@ -419,16 +419,52 @@
       "custom/pdv_tour_ensorcelleur"
     ]
   },
+  "custom.pnj_brifie": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_brifie"
+    ]
+  },
   "custom.pnj_celine_replique_1": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_celine_replique_1"
     ]
   },
+  "custom.pnj_demon_salvatore": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_demon_salvatore"
+    ]
+  },
+  "custom.pnj_diana": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_diana"
+    ]
+  },
+  "custom.pnj_emy": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_emy"
+    ]
+  },
   "custom.pnj_enigmatik_replique_1": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_enigmatik_replique_1"
+    ]
+  },
+  "custom.pnj_enora": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_enora"
+    ]
+  },
+  "custom.pnj_fossoyeur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fossoyeur"
     ]
   },
   "custom.pnj_gouverneur_proxim_1": {
@@ -551,10 +587,28 @@
       "custom/pnj_harchie_replique_4"
     ]
   },
+  "custom.pnj_ilan_fareway": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ilan_fareway"
+    ]
+  },
+  "custom.pnj_lady_paurtaille": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lady_paurtaille"
+    ]
+  },
   "custom.pnj_macgo_lagalle_replique_1": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_macgo_lagalle_replique_1"
+    ]
+  },
+  "custom.pnj_marie_curriz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_marie_curriz"
     ]
   },
   "custom.pnj_mark_page_proxim_1": {
@@ -573,6 +627,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_mark_page_replique_2"
+    ]
+  },
+  "custom.pnj_nac_umbra": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_nac_umbra"
     ]
   },
   "custom.pnj_rosalia_replique_1": {
@@ -597,6 +657,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_rosalia_replique_4"
+    ]
+  },
+  "custom.pnj_selena": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_selena"
     ]
   }
 }
