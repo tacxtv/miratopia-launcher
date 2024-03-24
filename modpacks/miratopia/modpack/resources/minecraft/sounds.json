@@ -311,6 +311,66 @@
       "custom/boss_yasufeu"
     ]
   },
+  "custom.boss_yasufeu_aleatoire_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_1"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_2"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_3"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_4"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_5": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_5"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_6": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_6"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_7": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_7"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_death": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_death"
+    ]
+  },
+  "custom.boss_yasufeu_aleatoire_death_player": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_aleatoire_death_player"
+    ]
+  },
+  "custom.boss_yasufeu_debut": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_yasufeu_debut"
+    ]
+  },
   "custom.donjon_forteresse_entry": {
     "category": "neutral",
     "sounds": [
