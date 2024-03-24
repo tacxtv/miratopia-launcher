@@ -107,6 +107,42 @@
       "custom/boss_gandoulf"
     ]
   },
+  "custom.boss_gandoulf_aleatoire_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf_aleatoire_1"
+    ]
+  },
+  "custom.boss_gandoulf_aleatoire_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf_aleatoire_2"
+    ]
+  },
+  "custom.boss_gandoulf_aleatoire_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf_aleatoire_3"
+    ]
+  },
+  "custom.boss_gandoulf_aleatoire_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf_aleatoire_4"
+    ]
+  },
+  "custom.boss_gandoulf_aleatoire_5": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf_aleatoire_5"
+    ]
+  },
+  "custom.boss_gandoulf_death": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_gandoulf_death"
+    ]
+  },
   "custom.boss_lune": {
     "category": "neutral",
     "sounds": [
@@ -419,6 +455,24 @@
       "custom/pdv_tour_ensorcelleur"
     ]
   },
+  "custom.pnj_ahaine_peeuh": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ahaine_peeuh"
+    ]
+  },
+  "custom.pnj_air_heure": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_air_heure"
+    ]
+  },
+  "custom.pnj_ayen_hoube": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ayen_hoube"
+    ]
+  },
   "custom.pnj_brifie": {
     "category": "neutral",
     "sounds": [
@@ -429,6 +483,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_celine_replique_1"
+    ]
+  },
+  "custom.pnj_charles_mirex": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_charles_mirex"
     ]
   },
   "custom.pnj_demon_salvatore": {
@@ -593,6 +653,18 @@
       "custom/pnj_ilan_fareway"
     ]
   },
+  "custom.pnj_jeanklemann": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jeanklemann"
+    ]
+  },
+  "custom.pnj_kronik_euse": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_kronik_euse"
+    ]
+  },
   "custom.pnj_lady_paurtaille": {
     "category": "neutral",
     "sounds": [
@@ -633,6 +705,42 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_nac_umbra"
+    ]
+  },
+  "custom.pnj_nac_unekouille": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_nac_unekouille"
+    ]
+  },
+  "custom.pnj_random_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_1"
+    ]
+  },
+  "custom.pnj_random_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_2"
+    ]
+  },
+  "custom.pnj_random_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_3"
+    ]
+  },
+  "custom.pnj_random_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_4"
+    ]
+  },
+  "custom.pnj_random_5": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_5"
     ]
   },
   "custom.pnj_rosalia_replique_1": {
