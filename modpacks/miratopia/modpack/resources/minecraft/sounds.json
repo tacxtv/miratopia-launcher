@@ -539,6 +539,12 @@
       "custom/guidhibou_spawn"
     ]
   },
+  "custom.npc_jean_ramen": {
+    "category": "neutral",
+    "sounds": [
+      "custom/npc_jean_ramen"
+    ]
+  },
   "custom.pdv_arbre_pleureur": {
     "category": "neutral",
     "sounds": [
@@ -845,6 +851,30 @@
       "custom/pnj_lady_paurtaille"
     ]
   },
+  "custom.pnj_lassy_stan_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lassy_stan_1"
+    ]
+  },
+  "custom.pnj_lassy_stan_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lassy_stan_2"
+    ]
+  },
+  "custom.pnj_lassy_stan_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lassy_stan_3"
+    ]
+  },
+  "custom.pnj_lassy_stan_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lassy_stan_4"
+    ]
+  },
   "custom.pnj_macgo_lagalle_replique_1": {
     "category": "neutral",
     "sounds": [
@@ -885,6 +915,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_nac_unekouille"
+    ]
+  },
+  "custom.pnj_questa": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_questa"
     ]
   },
   "custom.pnj_random_1": {
@@ -969,6 +1005,30 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_streamer_noctisia"
+    ]
+  },
+  "custom.pnj_tactic_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_1"
+    ]
+  },
+  "custom.pnj_tactic_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_2"
+    ]
+  },
+  "custom.pnj_timote_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_timote_1"
+    ]
+  },
+  "custom.pnj_timote_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_timote_2"
     ]
   },
   "custom.pnj_vernes": {
