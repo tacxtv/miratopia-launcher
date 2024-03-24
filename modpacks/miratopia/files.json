@@ -1272,12 +1272,6 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_emy.ogg"
   },
   {
-    "path": "resources/minecraft/sounds/custom/pnj_demon_salvatore.ogg",
-    "size": 550141,
-    "hash": "1f1ad450858cdcef4aa9ce0c7371b0858842d7d3",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_demon_salvatore.ogg"
-  },
-  {
     "path": "resources/minecraft/sounds/custom/pnj_enigmatik_replique_1.ogg",
     "size": 514946,
     "hash": "55f000d1a0641b62903cdc3c3d191be1ecceaba6",
@@ -1470,6 +1464,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_mark_page_replique_2.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_nac_umbra.ogg",
+    "size": 814794,
+    "hash": "a6c32d91335b6ea54a05ce8ece767dda55916cb1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_nac_umbra.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_nac_unekouille.ogg",
     "size": 564578,
     "hash": "48f91ce163ca5413c2e0ad6b1c0cefe9dfe72606",
@@ -1504,12 +1504,6 @@
     "size": 38671,
     "hash": "d08adbb3982a4edf8ef1b53cb8eb794a3cecdcb9",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_random_5.ogg"
-  },
-  {
-    "path": "resources/minecraft/sounds/custom/pnj_nac_umbra.ogg",
-    "size": 814794,
-    "hash": "a6c32d91335b6ea54a05ce8ece767dda55916cb1",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_nac_umbra.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_rosalia_replique_1.ogg",
@@ -1549,8 +1543,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 14067,
-    "hash": "331ce4ea66175de4bd03dafd35e1b3bf179857b4",
+    "size": 16221,
+    "hash": "536a15fc497d0d63b5841b9f6986543d8708ad6c",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {
