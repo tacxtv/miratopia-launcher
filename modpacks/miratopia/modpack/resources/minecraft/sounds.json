@@ -953,6 +953,78 @@
       "custom/pnj_random_5"
     ]
   },
+  "custom.pnj_random_fontaine_frelheim": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_fontaine_frelheim"
+    ]
+  },
+  "custom.pnj_random_fraktalis": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_fraktalis"
+    ]
+  },
+  "custom.pnj_random_les_arbres": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_les_arbres"
+    ]
+  },
+  "custom.pnj_random_les_etoiles": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_les_etoiles"
+    ]
+  },
+  "custom.pnj_random_les_moulins": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_les_moulins"
+    ]
+  },
+  "custom.pnj_random_le_colisee": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_le_colisee"
+    ]
+  },
+  "custom.pnj_random_le_marchand": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_le_marchand"
+    ]
+  },
+  "custom.pnj_random_magie": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_magie"
+    ]
+  },
+  "custom.pnj_random_racine": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_racine"
+    ]
+  },
+  "custom.pnj_random_under_sekeris": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_under_sekeris"
+    ]
+  },
+  "custom.pnj_random_un_dragon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_un_dragon"
+    ]
+  },
+  "custom.pnj_random_viridiana": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_viridiana"
+    ]
+  },
   "custom.pnj_ron_chon": {
     "category": "neutral",
     "sounds": [
