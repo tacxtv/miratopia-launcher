@@ -641,12 +641,6 @@
       "custom/pnj_cha_mouil"
     ]
   },
-  "custom.pnj_cha_mouil_portail_ferme": {
-    "category": "neutral",
-    "sounds": [
-      "custom/pnj_cha_mouil_portail_ferme"
-    ]
-  },
   "custom.pnj_demon_salvatore": {
     "category": "neutral",
     "sounds": [
