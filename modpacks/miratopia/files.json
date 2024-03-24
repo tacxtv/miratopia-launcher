@@ -912,6 +912,84 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_lune_attaque_1.ogg",
+    "size": 22405,
+    "hash": "975af379cb173ced31548c78bef331fccd009809",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_attaque_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_attaque_2.ogg",
+    "size": 28846,
+    "hash": "a8ef36787da96c75a36b09a0897524c1d822bc0b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_attaque_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_bouclier.ogg",
+    "size": 26676,
+    "hash": "a804ed3b8db5434bdff1d7b297fe199c3d65e370",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_bouclier.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_death.ogg",
+    "size": 36184,
+    "hash": "610b0ddaf0ff2b36a6fffdafb60da56636e2084a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_death.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_mort_joueur.ogg",
+    "size": 44325,
+    "hash": "c5b61cc7d5cf316c3a61937be08fa86b9ca5d676",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_mort_joueur.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_mort_joueur_2.ogg",
+    "size": 22174,
+    "hash": "380b12a08d1365fa0d93395e52b4147ea343aefd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_mort_joueur_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_mort_joueur_3.ogg",
+    "size": 22826,
+    "hash": "2976ca9064e4d1ae9d137e9056df492dabf88ef2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_mort_joueur_3.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_random_1.ogg",
+    "size": 22919,
+    "hash": "26ac977f4286e1ac275380c3f45d407724eeb806",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_random_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_random_2.ogg",
+    "size": 30536,
+    "hash": "ad1c03a09739e46af1133d0e8107dc7b9ca5cfad",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_random_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_random_3.ogg",
+    "size": 28326,
+    "hash": "09a3c384d571f1fcc7955fa44767f3e9f20e0468",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_random_3.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_random_4.ogg",
+    "size": 27814,
+    "hash": "b6493ddaeaf601ca728fd44fde0d5c34e29ca7c0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_random_4.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_random_5.ogg",
+    "size": 24393,
+    "hash": "d47e9b1bbd8b6eac92c4b5eb6343a0dba9fbebf7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_random_5.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_lune_spawn.ogg",
+    "size": 50494,
+    "hash": "53342717039a02791c36657c5d8beacf44c3f2a5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_lune_spawn.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_manoir_aleatoire_2.ogg",
     "size": 308953,
     "hash": "ea87ca6491ec0580468495afc8e63fc35303d67d",
@@ -952,6 +1030,12 @@
     "size": 681176,
     "hash": "c509bddb202878ddf66f2412bdbffb9fe6d15819",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_debut_combat.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_manoir_entree_donjon.ogg",
+    "size": 566165,
+    "hash": "65113530cff975d15be0f93f7deeb785b5424dc4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_entree_donjon.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/boss_manoir_joueur_mort.ogg",
@@ -1314,6 +1398,18 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_charles_mirex.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_cha_mouil.ogg",
+    "size": 297921,
+    "hash": "fd725416c365d384aebcf9871362b8584ab26b93",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_cha_mouil.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_cha_mouil_portail_ferme.ogg",
+    "size": 132033,
+    "hash": "f758ca0e54b7feb230b5eab846e60c4def29a33f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_cha_mouil_portail_ferme.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_demon_salvatore.ogg",
     "size": 550141,
     "hash": "1f1ad450858cdcef4aa9ce0c7371b0858842d7d3",
@@ -1596,9 +1692,27 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_selena.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_streamer_epoxidd.ogg",
+    "size": 89820,
+    "hash": "2dc3efc79db186c74795342bfe1ba1716f499bbf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_streamer_epoxidd.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_streamer_nikoballz.ogg",
+    "size": 95610,
+    "hash": "6e2ddcdbf8a2b9e113968fdc6b3acd164639a2c1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_streamer_nikoballz.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_streamer_noctisia.ogg",
+    "size": 69730,
+    "hash": "b90695fe4c651a2db3bfaaf5adfdef7001912517",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_streamer_noctisia.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds.json",
-    "size": 17569,
-    "hash": "16f35aea1778c510b4085da9687add5fdefdddde",
+    "size": 17704,
+    "hash": "121b09de99e4255773c5494bd576493878b22f80",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {

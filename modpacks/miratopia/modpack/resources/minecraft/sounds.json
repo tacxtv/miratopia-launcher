@@ -149,6 +149,84 @@
       "custom/boss_lune"
     ]
   },
+  "custom.boss_lune_attaque_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_attaque_1"
+    ]
+  },
+  "custom.boss_lune_attaque_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_attaque_2"
+    ]
+  },
+  "custom.boss_lune_bouclier": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_bouclier"
+    ]
+  },
+  "custom.boss_lune_death": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_death"
+    ]
+  },
+  "custom.boss_lune_mort_joueur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_mort_joueur"
+    ]
+  },
+  "custom.boss_lune_mort_joueur_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_mort_joueur_2"
+    ]
+  },
+  "custom.boss_lune_mort_joueur_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_mort_joueur_3"
+    ]
+  },
+  "custom.boss_lune_random_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_random_1"
+    ]
+  },
+  "custom.boss_lune_random_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_random_2"
+    ]
+  },
+  "custom.boss_lune_random_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_random_3"
+    ]
+  },
+  "custom.boss_lune_random_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_random_4"
+    ]
+  },
+  "custom.boss_lune_random_5": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_random_5"
+    ]
+  },
+  "custom.boss_lune_spawn": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_lune_spawn"
+    ]
+  },
   "custom.boss_manoir_aleatoire_2": {
     "category": "neutral",
     "sounds": [
@@ -189,6 +267,12 @@
     "category": "neutral",
     "sounds": [
       "custom/boss_manoir_debut_combat"
+    ]
+  },
+  "custom.boss_manoir_entree_donjon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_manoir_entree_donjon"
     ]
   },
   "custom.boss_manoir_joueur_mort": {
@@ -551,6 +635,18 @@
       "custom/pnj_charles_mirex"
     ]
   },
+  "custom.pnj_cha_mouil": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_cha_mouil"
+    ]
+  },
+  "custom.pnj_cha_mouil_portail_ferme": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_cha_mouil_portail_ferme"
+    ]
+  },
   "custom.pnj_demon_salvatore": {
     "category": "neutral",
     "sounds": [
@@ -831,6 +927,24 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_selena"
+    ]
+  },
+  "custom.pnj_streamer_epoxidd": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_streamer_epoxidd"
+    ]
+  },
+  "custom.pnj_streamer_nikoballz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_streamer_nikoballz"
+    ]
+  },
+  "custom.pnj_streamer_noctisia": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_streamer_noctisia"
     ]
   }
 }
