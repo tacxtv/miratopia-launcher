@@ -533,6 +533,12 @@
       "custom/golem_onomatopee_2"
     ]
   },
+  "custom.guidhibou_spawn": {
+    "category": "neutral",
+    "sounds": [
+      "custom/guidhibou_spawn"
+    ]
+  },
   "custom.pdv_arbre_pleureur": {
     "category": "neutral",
     "sounds": [
@@ -671,10 +677,22 @@
       "custom/pnj_enora"
     ]
   },
+  "custom.pnj_foincheux": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_foincheux"
+    ]
+  },
   "custom.pnj_fossoyeur": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_fossoyeur"
+    ]
+  },
+  "custom.pnj_gorou": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_gorou"
     ]
   },
   "custom.pnj_gouverneur_proxim_1": {
@@ -809,6 +827,12 @@
       "custom/pnj_jeanklemann"
     ]
   },
+  "custom.pnj_jules": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jules"
+    ]
+  },
   "custom.pnj_kronik_euse": {
     "category": "neutral",
     "sounds": [
@@ -893,6 +917,12 @@
       "custom/pnj_random_5"
     ]
   },
+  "custom.pnj_ron_chon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ron_chon"
+    ]
+  },
   "custom.pnj_rosalia_replique_1": {
     "category": "neutral",
     "sounds": [
@@ -939,6 +969,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_streamer_noctisia"
+    ]
+  },
+  "custom.pnj_vernes": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_vernes"
+    ]
+  },
+  "custom.pnj_viktor": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_viktor"
     ]
   }
 }
