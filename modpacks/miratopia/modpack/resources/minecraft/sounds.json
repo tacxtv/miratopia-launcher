@@ -1091,6 +1091,66 @@
       "custom/pnj_tactic_2"
     ]
   },
+  "custom.pnj_tactic_djf": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_djf"
+    ]
+  },
+  "custom.pnj_tactic_djp": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_djp"
+    ]
+  },
+  "custom.pnj_tactic_djv": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_djv"
+    ]
+  },
+  "custom.pnj_tactic_fvf": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_fvf"
+    ]
+  },
+  "custom.pnj_tactic_fvx": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_fvx"
+    ]
+  },
+  "custom.pnj_tactic_gorou": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_gorou"
+    ]
+  },
+  "custom.pnj_tactic_passe": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_passe"
+    ]
+  },
+  "custom.pnj_tactic_pvf": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_pvf"
+    ]
+  },
+  "custom.pnj_tactic_svf": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_svf"
+    ]
+  },
+  "custom.pnj_tactic_vvf": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_vvf"
+    ]
+  },
   "custom.pnj_timote_1": {
     "category": "neutral",
     "sounds": [
