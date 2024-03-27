@@ -498,6 +498,1536 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/config/fancymenu/user_variables.db"
   },
   {
+    "path": "easy_npc/texture_cache/player/CHICKEN/3be59022-a400-3409-a314-c9304e9ceb83.png",
+    "size": 1517,
+    "hash": "405833a8c7bd6425a02545e0bcdc210a04aa4174",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/CHICKEN/3be59022-a400-3409-a314-c9304e9ceb83.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/014e6604-3b89-3fda-ae13-828a3a25c79c.png",
+    "size": 1216,
+    "hash": "a0d6855ac9ea82a2fb41ffbc49eeedab03a302f4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/014e6604-3b89-3fda-ae13-828a3a25c79c.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/01520a8a-3913-40d2-ab45-39e10226eef2.png",
+    "size": 1533,
+    "hash": "c8a22ea75644dcfacbe7e05416486c1489ce0774",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/01520a8a-3913-40d2-ab45-39e10226eef2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/0580a77c-c63f-3440-bc90-7cd9dcb0c4d4.png",
+    "size": 1808,
+    "hash": "641c34cdb15da99771ade24c034551bdfb1c6d77",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/0580a77c-c63f-3440-bc90-7cd9dcb0c4d4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/06314d34-9554-370b-80f6-07fe9eb4b844.png",
+    "size": 1819,
+    "hash": "955f3016081f51d462b3848c746b040c8a2cd940",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/06314d34-9554-370b-80f6-07fe9eb4b844.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/08c8349f-fb0b-32af-8e64-4f62fedc9dc0.png",
+    "size": 1828,
+    "hash": "049e9178a2671e40821d7d6dbf6a5679272c407d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/08c8349f-fb0b-32af-8e64-4f62fedc9dc0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/0a647c8b-371e-3193-b0d3-23c2584d4016.png",
+    "size": 1778,
+    "hash": "0e5e6117d6c12a6eb3779d95b763dbced7fc4931",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/0a647c8b-371e-3193-b0d3-23c2584d4016.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/0beee998-89c1-3c20-aa77-d2771e03ad91.png",
+    "size": 2112,
+    "hash": "54e3bd913cb03440d17d2ac3df268a4824551f9a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/0beee998-89c1-3c20-aa77-d2771e03ad91.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/0f55e359-0537-4572-8016-3a2554d14803.png",
+    "size": 1128,
+    "hash": "7bd076105c147d4720f1faeea64e9b78480a6fd9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/0f55e359-0537-4572-8016-3a2554d14803.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/0f8fcdae-a9f5-4095-8112-23c939cd4dbe.png",
+    "size": 646,
+    "hash": "496eb64735d974bef61688f49e65c29624ec3cc6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/0f8fcdae-a9f5-4095-8112-23c939cd4dbe.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/0fc7a7c7-7340-47a2-b3e8-4714ee1dabb6.png",
+    "size": 2544,
+    "hash": "d91098b5f51949250aeb48dd1eedbf33a85dd92a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/0fc7a7c7-7340-47a2-b3e8-4714ee1dabb6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/14958b49-3265-3d95-b9c6-582d86bd4e57.png",
+    "size": 1609,
+    "hash": "a6343093eb6e487152a62828547259cd7420bcb4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/14958b49-3265-3d95-b9c6-582d86bd4e57.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/1705dda4-6b9b-343c-8eaa-f49e20177697.png",
+    "size": 2456,
+    "hash": "4e2bf2a732b0cedef46e25a60908c022d13eb8bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/1705dda4-6b9b-343c-8eaa-f49e20177697.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/172e9fef-d135-36b1-b76d-c3faa199421d.png",
+    "size": 2617,
+    "hash": "de427763f3b0e86d53df235f65ed1237bd740224",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/172e9fef-d135-36b1-b76d-c3faa199421d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/176bb475-d8f0-3559-b3f4-0b3c988fe6d2.png",
+    "size": 1651,
+    "hash": "34ac1c7d282357055d894eb4c521ef23f498f1e0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/176bb475-d8f0-3559-b3f4-0b3c988fe6d2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/1fbd5ffd-89e2-3a7c-8f36-0f384be2d4a8.png",
+    "size": 1844,
+    "hash": "90889279a8d6db81700bf5cd895036acc59a6d55",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/1fbd5ffd-89e2-3a7c-8f36-0f384be2d4a8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/213ae9c2-f9af-4207-9099-cdb2ba1a81ee.png",
+    "size": 2914,
+    "hash": "88ac9530c895e86e7300f4823e21c962a05cb33c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/213ae9c2-f9af-4207-9099-cdb2ba1a81ee.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/2154d031-113b-3e40-be4f-c57b05afc8a0.png",
+    "size": 509,
+    "hash": "0adff4a6e8b385084fd76c237d105dfa2557d107",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/2154d031-113b-3e40-be4f-c57b05afc8a0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/21e10d02-8fcc-4a26-8f77-867f956b7c0c.png",
+    "size": 2992,
+    "hash": "9f48940d55195f8f99e5cd4cd7a1e58149ee3872",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/21e10d02-8fcc-4a26-8f77-867f956b7c0c.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/22cded83-7b46-3e50-af1e-00bb9ce504eb.png",
+    "size": 2260,
+    "hash": "ae73cafcd215df5c8f897e863f456146c80eae90",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/22cded83-7b46-3e50-af1e-00bb9ce504eb.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/254507bc-adae-3f0f-85a8-4e04911dde71.png",
+    "size": 2261,
+    "hash": "8f050768e9699b34364d129e21d76b782ebc4f26",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/254507bc-adae-3f0f-85a8-4e04911dde71.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/2563365f-aeb8-3807-915f-335c1ff0d310.png",
+    "size": 4546,
+    "hash": "fdb41ca11037e62b72ae9f1641de8ef15364ca0b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/2563365f-aeb8-3807-915f-335c1ff0d310.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/25ef0e73-1d2f-3364-b2e2-82f62ae27a13.png",
+    "size": 1414,
+    "hash": "e8a2970bcc38b91ba4ca81568d17413d71c0c0c4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/25ef0e73-1d2f-3364-b2e2-82f62ae27a13.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/28ec3c7b-dab3-3c6a-b6b8-5b841c5416a6.png",
+    "size": 1526,
+    "hash": "3a1793b626de1bc5d7304604d87c59d801fccf23",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/28ec3c7b-dab3-3c6a-b6b8-5b841c5416a6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/29510fd2-4d1a-3b58-97cf-f9cd7e1895be.png",
+    "size": 1998,
+    "hash": "9d0f28df6477c43e2f47a1787f21853401d77168",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/29510fd2-4d1a-3b58-97cf-f9cd7e1895be.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/2c2af734-a69a-4922-a01f-f96e9656a946.png",
+    "size": 1681,
+    "hash": "3a91be3607b96b5972ef43a67a9fa61cdc14d5f7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/2c2af734-a69a-4922-a01f-f96e9656a946.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/2dbb7a01-7ea0-3646-bf66-a641d066eb14.png",
+    "size": 950,
+    "hash": "7f9140be1e35716b2073d4ee2371fe0315da31b5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/2dbb7a01-7ea0-3646-bf66-a641d066eb14.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/2fd5a882-8a98-4df7-8c17-a212a4aab19d.png",
+    "size": 1319,
+    "hash": "be9a88e40d324153db843b67a5446fc2995ca0ec",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/2fd5a882-8a98-4df7-8c17-a212a4aab19d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/302d784a-4202-3e3c-84bb-30c042faa0a4.png",
+    "size": 1389,
+    "hash": "ec5ce6bbe3de41dc7a3a1a0e0735220807cef831",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/302d784a-4202-3e3c-84bb-30c042faa0a4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/32c59cd3-e79a-30bf-b457-67dde55e4355.png",
+    "size": 3180,
+    "hash": "a438c023941397fabda410e7bb54fe0fe065787f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/32c59cd3-e79a-30bf-b457-67dde55e4355.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/338731f0-66c5-3180-8422-33243ada147c.png",
+    "size": 2090,
+    "hash": "87005e02527a063ab449fc8dd2fac34530aa8946",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/338731f0-66c5-3180-8422-33243ada147c.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/350375c4-3d30-40ef-bace-de80539d35b1.png",
+    "size": 3223,
+    "hash": "df0e58129f868326fc9e3bcfcaa37869f9fac7c2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/350375c4-3d30-40ef-bace-de80539d35b1.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/350e3c7c-4813-3687-b3cb-8b826944f61d.png",
+    "size": 2068,
+    "hash": "6978f3d561f4c95aa0032954d2a14dcdbe001091",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/350e3c7c-4813-3687-b3cb-8b826944f61d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/36061dad-8dbd-31be-a3e2-fbd10684d611.png",
+    "size": 3284,
+    "hash": "3aaf9b4de0d925ff6da343188eb95f75c603d753",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/36061dad-8dbd-31be-a3e2-fbd10684d611.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/374084a4-8498-372e-8ebc-e89e5c7d236a.png",
+    "size": 1596,
+    "hash": "0c28c43a7366dccb1d1de67e779e24bac005a22a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/374084a4-8498-372e-8ebc-e89e5c7d236a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/376978b2-a2f6-3d80-9a27-59acf7c4146b.png",
+    "size": 2319,
+    "hash": "a21b73de952f5b23a217f59ac629435cddd658fc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/376978b2-a2f6-3d80-9a27-59acf7c4146b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/37dda1b0-397e-3449-9337-a2b953e0d5e4.png",
+    "size": 2171,
+    "hash": "a6d27f0cf1cc32e686b98045271033a734af2a4f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/37dda1b0-397e-3449-9337-a2b953e0d5e4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/39125e4b-8550-3071-bdb7-4aa8e296d95f.png",
+    "size": 2374,
+    "hash": "5964e92174623abf8a9695b1ecfc8e22f44215e2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/39125e4b-8550-3071-bdb7-4aa8e296d95f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/3aeed1e7-5924-3434-b276-c987f3d68dba.png",
+    "size": 1854,
+    "hash": "dbec315f17c55f7a020d38491f93e020cafa7555",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/3aeed1e7-5924-3434-b276-c987f3d68dba.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/3c0fe8dd-a629-4e6d-8131-cfdadaad814e.png",
+    "size": 2431,
+    "hash": "a5ac2ee4105961c6700b90e0b2c9d9e3848592de",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/3c0fe8dd-a629-4e6d-8131-cfdadaad814e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/3c8fd237-3b0a-39bd-b9cc-4ddee6c78b83.png",
+    "size": 4821,
+    "hash": "64d0fdfc3b571830605383f038b0e07f55077da0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/3c8fd237-3b0a-39bd-b9cc-4ddee6c78b83.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/3f7daad7-ec58-3e68-806b-3ef68fe0cfa5.png",
+    "size": 3327,
+    "hash": "29896beeaa4446937faabb87ca5bbfa7956d6be0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/3f7daad7-ec58-3e68-806b-3ef68fe0cfa5.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/43274400-4567-319d-ad9e-aa2b71b70566.png",
+    "size": 1697,
+    "hash": "ec3c49171725fbffbc211586eb4972225b19c124",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/43274400-4567-319d-ad9e-aa2b71b70566.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/432c9ef7-8f0f-3a61-aeb5-4c22c721e75b.png",
+    "size": 2075,
+    "hash": "8901d4b9355714f9a5bd49a49d784c5b5ecca04a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/432c9ef7-8f0f-3a61-aeb5-4c22c721e75b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/43d6bdbd-e588-365e-ab46-06a5a5a94e1a.png",
+    "size": 1790,
+    "hash": "64d047bb812789bbe224c1322e2b28a9d368a90d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/43d6bdbd-e588-365e-ab46-06a5a5a94e1a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/44bbfc18-ff1e-36c0-9d8e-522b3bb44cbc.png",
+    "size": 1985,
+    "hash": "69b00bc0d208752778aefcf09ef87532fce34774",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/44bbfc18-ff1e-36c0-9d8e-522b3bb44cbc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/45dca8f7-d63b-3b01-a7af-8151dc3d67ed.png",
+    "size": 2136,
+    "hash": "7aa0aa452c719628f66d8c5069da3bcee0d4ce23",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/45dca8f7-d63b-3b01-a7af-8151dc3d67ed.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/477743f1-328b-3500-8134-827851aeb86a.png",
+    "size": 5788,
+    "hash": "a2951a0e802661d2af3f2a71692dc20706c3ce11",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/477743f1-328b-3500-8134-827851aeb86a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/47d5fc1e-badb-3ec1-8ba0-5e56d7f6b85b.png",
+    "size": 6016,
+    "hash": "95e318acdd101185e02465ae8494bb10041cfde7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/47d5fc1e-badb-3ec1-8ba0-5e56d7f6b85b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/48a52753-dd10-3056-806c-a0ed6d4efbd8.png",
+    "size": 1903,
+    "hash": "4b33e721851eb6257f148a20499a69b2cd08dc0a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/48a52753-dd10-3056-806c-a0ed6d4efbd8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/48cea293-0341-4aba-9681-e9d020fa24c2.png",
+    "size": 1870,
+    "hash": "92186c57e8c0c0e5af912217e961dbdafa3178eb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/48cea293-0341-4aba-9681-e9d020fa24c2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/4e9a8cd6-11ea-3e8a-b088-7bd471c5aea0.png",
+    "size": 2296,
+    "hash": "2ed36c847249db155930ec25137996602bbc78b5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/4e9a8cd6-11ea-3e8a-b088-7bd471c5aea0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/4e9d16c9-da17-3683-a2b9-95fdc3a00c3f.png",
+    "size": 2210,
+    "hash": "24f6df193d78b5d31684c5a53a788a79f979ef72",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/4e9d16c9-da17-3683-a2b9-95fdc3a00c3f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/4f422581-056d-4339-835e-dc712ee5b71d.png",
+    "size": 1816,
+    "hash": "bee741aae7719cff16ea3f7ec3528ec65a459929",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/4f422581-056d-4339-835e-dc712ee5b71d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/53efe356-1edb-3bdc-86a4-20379e1875b0.png",
+    "size": 2313,
+    "hash": "a2d65535f114ffa6f42f08a0668406aae76f9bef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/53efe356-1edb-3bdc-86a4-20379e1875b0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/53f62242-2aad-35b7-9663-83496494b0c6.png",
+    "size": 2752,
+    "hash": "3f34e0473cb22e67b9600243cc21d082c4ccfba2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/53f62242-2aad-35b7-9663-83496494b0c6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/5468ba08-576f-3668-92bd-fbb4b2bde7aa.png",
+    "size": 1768,
+    "hash": "d59fecdd7896e6ed1f4652c34ad4bade7f091f6e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/5468ba08-576f-3668-92bd-fbb4b2bde7aa.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/5652818a-ea3b-3288-afe7-dcf55842f924.png",
+    "size": 2196,
+    "hash": "aebabbc5bed36e8879d70b32b8349efbcdde198b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/5652818a-ea3b-3288-afe7-dcf55842f924.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/59314991-8f45-3c2b-bed4-765821a791e8.png",
+    "size": 3257,
+    "hash": "912cee53efea755ca724e7e1988f08344e280bc0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/59314991-8f45-3c2b-bed4-765821a791e8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/59a642e8-e15b-3102-96f5-54ed8b7f7801.png",
+    "size": 677,
+    "hash": "0e7e2f8856f95861dd203fda0ec341099baa1bc8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/59a642e8-e15b-3102-96f5-54ed8b7f7801.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/59b59535-2c3e-3b86-b349-e02a95325d59.png",
+    "size": 1765,
+    "hash": "fed54d355a468f5a119303f3887faec5b3479183",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/59b59535-2c3e-3b86-b349-e02a95325d59.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/59d420bd-7736-35f0-a4dc-750698f7705b.png",
+    "size": 1665,
+    "hash": "f32e8bf324c1f5f04d6a436d90166c5f8f2f4543",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/59d420bd-7736-35f0-a4dc-750698f7705b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/5dad2e8b-2623-37e7-8bcb-85101338d172.png",
+    "size": 3364,
+    "hash": "2f778a962c31889aaba9bf770934af7968dd4fe3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/5dad2e8b-2623-37e7-8bcb-85101338d172.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/61135738-f6d3-32f9-9558-dc5f4eb1c2de.png",
+    "size": 1585,
+    "hash": "12ba12671cca57bd7cf699d3015325de0ade9abe",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/61135738-f6d3-32f9-9558-dc5f4eb1c2de.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/62f7d090-79d6-48e8-9f97-484ec040a5d4.png",
+    "size": 2663,
+    "hash": "09e17ac0d487ed60e08f63dc854185727543d14f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/62f7d090-79d6-48e8-9f97-484ec040a5d4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/664762a9-ad70-481e-a111-3b33e3c7714a.png",
+    "size": 926,
+    "hash": "4162dcd9cc712f886487cef41d383d7e8f7ed00e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/664762a9-ad70-481e-a111-3b33e3c7714a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/680e3371-91fe-39de-b00c-f4d82d0b6357.png",
+    "size": 1781,
+    "hash": "6589952bbbc94d37fbb24a76f7ab71d28bab4d0e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/680e3371-91fe-39de-b00c-f4d82d0b6357.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/6e13a165-7ee4-30dd-8437-7820b000de86.png",
+    "size": 1947,
+    "hash": "99e22c005c3727ded21381a4e3858f5524b30fc2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/6e13a165-7ee4-30dd-8437-7820b000de86.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/6e98d005-0220-3cdc-92be-1546be3607f8.png",
+    "size": 2766,
+    "hash": "59bbde58732560be75dc3a04bd03b9d896bb63a8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/6e98d005-0220-3cdc-92be-1546be3607f8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/72a8c95f-5790-3c07-a7a6-23c33a6e46c6.png",
+    "size": 1963,
+    "hash": "ec517f337c51e7e8b643b9b88056d4cd813e022d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/72a8c95f-5790-3c07-a7a6-23c33a6e46c6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/76672643-c9c7-3d42-8c64-c7bc121d5a8d.png",
+    "size": 198096,
+    "hash": "ab69dde4e445a98b1a3db70d1e43060ee13c9cf4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/76672643-c9c7-3d42-8c64-c7bc121d5a8d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/767aa70c-b6a7-4376-861f-50dc38ac944f.png",
+    "size": 1224,
+    "hash": "5a263c15a1fc6755ce164edf7355a8f781e92779",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/767aa70c-b6a7-4376-861f-50dc38ac944f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/76b2e16f-7c7a-3f6f-883b-b298230fd6b2.png",
+    "size": 1939,
+    "hash": "45707c8420c03a5c4057b7df59e59ac5d379f272",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/76b2e16f-7c7a-3f6f-883b-b298230fd6b2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/785088ab-f1de-3546-a884-7807bdd2d42a.png",
+    "size": 1901,
+    "hash": "c6847adb9febcafeac86889440223132c115c10d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/785088ab-f1de-3546-a884-7807bdd2d42a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/7980cc20-532b-3f3d-9328-2462571c57d3.png",
+    "size": 3800,
+    "hash": "8e0a10bd95f2640dc63903549190b7730f5ad681",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/7980cc20-532b-3f3d-9328-2462571c57d3.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/7e00e06c-37fa-39dc-8cb5-81ff88355566.png",
+    "size": 1622,
+    "hash": "008773cc6663e10f1c6e3dd12c94831b035674cc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/7e00e06c-37fa-39dc-8cb5-81ff88355566.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/7e4b4fd0-50c7-3c57-8e9f-9276a7aee9c9.png",
+    "size": 1649,
+    "hash": "591d9ba7c73fe4bee8f6221f2404cf7772205bb5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/7e4b4fd0-50c7-3c57-8e9f-9276a7aee9c9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/7ecd285c-a269-3dfd-ba75-6105a6d76d80.png",
+    "size": 2230,
+    "hash": "674cfef4891a98f6456fc74615c9cb038dc2ce49",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/7ecd285c-a269-3dfd-ba75-6105a6d76d80.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8052f4d6-4213-309a-a71e-791a2e3fc787.png",
+    "size": 2189,
+    "hash": "3126c8148c1170943505a06997eef7c1685555ac",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8052f4d6-4213-309a-a71e-791a2e3fc787.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/81084fe9-8afd-3b73-bdbc-e3194b8d11ac.png",
+    "size": 1234,
+    "hash": "a660f6e033075347a65020e35fd6d54689c881ed",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/81084fe9-8afd-3b73-bdbc-e3194b8d11ac.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/817940f4-b0d8-445e-97c1-58e6c24b10a4.png",
+    "size": 2075,
+    "hash": "c0ccd0df37cf11f40fb8ae2f4fc94d476281b420",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/817940f4-b0d8-445e-97c1-58e6c24b10a4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/81be44c0-f41c-3800-98c9-59525d7f3dc6.png",
+    "size": 1405,
+    "hash": "37019ffc9897a0b3210f8690193810b40de66912",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/81be44c0-f41c-3800-98c9-59525d7f3dc6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8434f3e0-496a-31d6-8242-f6580cd3184b.png",
+    "size": 1444,
+    "hash": "cc9b997fbff9e0035ee1d677607433f567dffe04",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8434f3e0-496a-31d6-8242-f6580cd3184b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/843f9f01-f46d-4dba-af08-ef55c02175c9.png",
+    "size": 1781,
+    "hash": "8d765dd27c6d8522afd1208d90391381e803974b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/843f9f01-f46d-4dba-af08-ef55c02175c9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8887070b-c24a-408d-ac84-2491d63325c4.png",
+    "size": 1138,
+    "hash": "620b412830e82449b8b9ec331f3b5c5c0b482b54",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8887070b-c24a-408d-ac84-2491d63325c4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/89286f57-d715-3425-8a39-032e584218a8.png",
+    "size": 2126,
+    "hash": "1e30b7f69ba2a28eaf8eab5b99a38bd846db5571",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/89286f57-d715-3425-8a39-032e584218a8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8d1e147e-81b5-3306-ba5f-cdc8bd82a571.png",
+    "size": 2121,
+    "hash": "35dd4422b2fb96f4a878a515518fa4985bf36978",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8d1e147e-81b5-3306-ba5f-cdc8bd82a571.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8d446e07-dc79-3e76-a752-101220b76bed.png",
+    "size": 3352,
+    "hash": "5e9831f72dbacad0f6d52eed6cfaed5e873740a9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8d446e07-dc79-3e76-a752-101220b76bed.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8e4efa10-5aeb-3359-8f04-898381829cbc.png",
+    "size": 1817,
+    "hash": "f3db3169e25fedac9671a8346619bb44fe39539e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8e4efa10-5aeb-3359-8f04-898381829cbc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/8f0bfdf9-2b2e-4ca6-9a0e-1386f829d0f0.png",
+    "size": 3132,
+    "hash": "9a4ef85adf03d5d19686df2a7a423fac71287bb8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/8f0bfdf9-2b2e-4ca6-9a0e-1386f829d0f0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/904d6640-d9f4-31db-b538-cec04d47088d.png",
+    "size": 5810,
+    "hash": "43313cc994bf8029a93a7d9f5def04a5fea6c060",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/904d6640-d9f4-31db-b538-cec04d47088d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/90da7ec6-435a-3bee-8a79-74362e06b57f.png",
+    "size": 3013,
+    "hash": "dde91dd023ce96e308be34dc3f9721eff195f725",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/90da7ec6-435a-3bee-8a79-74362e06b57f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/91b28bb1-2626-45d7-9406-ee9746768f15.png",
+    "size": 924,
+    "hash": "f302590c2e682a6bde04a517abc0a953e5365c3b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/91b28bb1-2626-45d7-9406-ee9746768f15.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/943565b8-8b93-3767-b46b-00f534f94e28.png",
+    "size": 2801,
+    "hash": "780895a84c60dc41ee5d35c67f5fe6e35244afd5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/943565b8-8b93-3767-b46b-00f534f94e28.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/96520f6c-1acd-3bda-a224-fd595814c9d6.png",
+    "size": 1607,
+    "hash": "ea9c3ec1fadbe72d1073d94084c5a1451b1fc46b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/96520f6c-1acd-3bda-a224-fd595814c9d6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/966d0043-1340-3414-b972-1689678f85fe.png",
+    "size": 1957,
+    "hash": "2120bdd79d77b305705bc0a678e6f57634c40b40",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/966d0043-1340-3414-b972-1689678f85fe.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/9b038c54-c4d7-347f-90ea-da140bd4a659.png",
+    "size": 2053,
+    "hash": "2b648df1dd88a26ffea572e1950c70165b110d44",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/9b038c54-c4d7-347f-90ea-da140bd4a659.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/9ceb7c7d-e57f-398f-a97a-ee35f140c5b8.png",
+    "size": 2094,
+    "hash": "5fbaad34893018174d23958a3e45101a657bd986",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/9ceb7c7d-e57f-398f-a97a-ee35f140c5b8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/9e422dec-490c-3bde-b549-0e8f60ea72d4.png",
+    "size": 1630,
+    "hash": "c0b090e8a03246c97b940b1a34cf9447f68cd8a1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/9e422dec-490c-3bde-b549-0e8f60ea72d4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/9e8dfa85-2b37-366b-afd4-9a68843fe4c4.png",
+    "size": 2976,
+    "hash": "db9d3101ebf099fe1b985155d09ef6756044a2f8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/9e8dfa85-2b37-366b-afd4-9a68843fe4c4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/9edc4e69-aeeb-3891-9030-1d1761985115.png",
+    "size": 1844,
+    "hash": "99de37e1e4ef7adeb0af6ef17cba81400a29c821",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/9edc4e69-aeeb-3891-9030-1d1761985115.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/a1683efd-b9f6-3e39-a48b-6cd312fb2613.png",
+    "size": 2417,
+    "hash": "7990c9d00e00493b892b9e4433bd342848b54c05",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/a1683efd-b9f6-3e39-a48b-6cd312fb2613.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/a3163050-1dfd-3799-935f-1b6916d8ced7.png",
+    "size": 3854,
+    "hash": "ed67a4ec84df696ca6cd52a0687c1de0b27d2ba2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/a3163050-1dfd-3799-935f-1b6916d8ced7.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/aeccf924-e657-4226-a68b-301d6599699a.png",
+    "size": 319,
+    "hash": "8732c633d3135d02f2c7ee16ddb017b1203da184",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/aeccf924-e657-4226-a68b-301d6599699a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/b1803fd2-ba92-342d-9fdf-6746d6f6a4d4.png",
+    "size": 1786,
+    "hash": "c241821e20328bb141f5f0f71cdb6d35f8cb0f6d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/b1803fd2-ba92-342d-9fdf-6746d6f6a4d4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/b33bc8ff-fa95-3987-b67d-6ef972c4e60f.png",
+    "size": 1740,
+    "hash": "362945b4dd853232e255361fcad3e5221fdf2ff0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/b33bc8ff-fa95-3987-b67d-6ef972c4e60f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/b8a1e6a8-8417-3c62-a1cf-fc61101485fb.png",
+    "size": 2589,
+    "hash": "a498e00b997d24265c30f05415fc682fe4190c4c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/b8a1e6a8-8417-3c62-a1cf-fc61101485fb.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/ba0b0737-4245-38c8-bcbb-2bcd23bbb2c9.png",
+    "size": 1740,
+    "hash": "2079ea4980d7f776b1d67a8c2adbbac7cedc869c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/ba0b0737-4245-38c8-bcbb-2bcd23bbb2c9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bad34cd4-5b01-36ba-9853-575a9db059ae.png",
+    "size": 1583,
+    "hash": "aca08952ff1b99209cb47bbf25f8c79cfec9aeb9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bad34cd4-5b01-36ba-9853-575a9db059ae.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bb21a0d1-6ba7-3460-b90d-ea9e90cf8100.png",
+    "size": 1712,
+    "hash": "e673ed1c9609c00a79e24c339459982d600d0e04",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bb21a0d1-6ba7-3460-b90d-ea9e90cf8100.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bb802b04-02a4-3996-8040-957c9ae7c2ef.png",
+    "size": 2458,
+    "hash": "6037e422757a59dc9ae44a31ea54abdf4bd71e0a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bb802b04-02a4-3996-8040-957c9ae7c2ef.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bbddf6e5-fc1d-3762-b19a-9f23a73da4ed.png",
+    "size": 2390,
+    "hash": "fe69da78a8c6d760cc71fe447d88568f2ce55f4a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bbddf6e5-fc1d-3762-b19a-9f23a73da4ed.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bfac4e5a-83b6-3870-a22f-edc027276a46.png",
+    "size": 2496,
+    "hash": "0996e6b942e04d13dbbf990e09a4898137fdc481",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bfac4e5a-83b6-3870-a22f-edc027276a46.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bfb6d271-7450-4346-bd36-d47e8a38a1e5.png",
+    "size": 1194,
+    "hash": "0b50c41b0ced39e59a92040ea3a56ee5729393d5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bfb6d271-7450-4346-bd36-d47e8a38a1e5.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/bff15816-b20b-3882-adc7-b2f38fff0f40.png",
+    "size": 3037,
+    "hash": "37cb92f7123b2ce923d66a288560220f1bd77f3e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/bff15816-b20b-3882-adc7-b2f38fff0f40.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/c0efc560-b826-496c-b05d-9e06efeae28d.png",
+    "size": 1523,
+    "hash": "a877d4596d70c317a92c84e05f98f2b430908798",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/c0efc560-b826-496c-b05d-9e06efeae28d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/c4a76e71-b04a-3b85-87f6-50cce842f537.png",
+    "size": 1842,
+    "hash": "499d459d6941e4964a6018b78901d7b1576c08c6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/c4a76e71-b04a-3b85-87f6-50cce842f537.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/c4b5e8a2-ac01-31a9-96e0-8e07ba748b21.png",
+    "size": 1984,
+    "hash": "1234b638ac9a02a7c4bee2a45ad1c1edadb16a87",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/c4b5e8a2-ac01-31a9-96e0-8e07ba748b21.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/c6b226d8-a24d-316f-a403-3bcd88869f94.png",
+    "size": 2153,
+    "hash": "8d0c5a3e26f02cc4c8f447798d188f9ea062de41",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/c6b226d8-a24d-316f-a403-3bcd88869f94.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/c9aee3d6-8b47-3334-85d8-21f9cfe7cfaf.png",
+    "size": 1918,
+    "hash": "0ecfae4b06782c9e6813ff24066424039a2b4836",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/c9aee3d6-8b47-3334-85d8-21f9cfe7cfaf.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/cc96e75e-e872-3d59-8f55-1a2916d03b9e.png",
+    "size": 1770,
+    "hash": "609d57509db4a6d2f945480ed91af4075dac8a33",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/cc96e75e-e872-3d59-8f55-1a2916d03b9e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/cd113624-bb15-3cfb-a9c8-e4f52c8ab39c.png",
+    "size": 1763,
+    "hash": "09e3e890a726ff01f1dfc42e932e18010709e063",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/cd113624-bb15-3cfb-a9c8-e4f52c8ab39c.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/cd54bca8-1526-323c-820b-b931a575990b.png",
+    "size": 1472,
+    "hash": "ffc228fe806ada62259746a8a69f2bb2845d761d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/cd54bca8-1526-323c-820b-b931a575990b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/cfa2dc44-80e0-3904-90eb-2122ea3a4734.png",
+    "size": 1593,
+    "hash": "fb04b0bbb9384cfe3365fd8056c3ab94ba166a43",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/cfa2dc44-80e0-3904-90eb-2122ea3a4734.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/cff6b1fb-8a22-4043-8d6f-6d7b9175f7dd.png",
+    "size": 1676,
+    "hash": "1c700dbc1fec13155d8799e8932b8e35154754c8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/cff6b1fb-8a22-4043-8d6f-6d7b9175f7dd.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/d2313691-c8e3-3dcd-86f0-f1e6e7e92648.png",
+    "size": 1666,
+    "hash": "3b5646e106b6f0bd0c53f6aa38645f18e7852475",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/d2313691-c8e3-3dcd-86f0-f1e6e7e92648.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/d2db34a7-6544-3541-addb-ca7cf0af134e.png",
+    "size": 1825,
+    "hash": "fd52502f1d9406167b902a6e437875cf70d14ca9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/d2db34a7-6544-3541-addb-ca7cf0af134e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/d981c010-b595-376b-99d9-b2481da0ab9c.png",
+    "size": 1350,
+    "hash": "a4edecb4262bdb8e3491ed2865f4c4e9f4ce6cef",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/d981c010-b595-376b-99d9-b2481da0ab9c.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/da4ecdfe-6c9f-43ed-b52e-cbed1c270361.png",
+    "size": 1745,
+    "hash": "909012e79a63b54cec95eeffa99910a559a34fdf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/da4ecdfe-6c9f-43ed-b52e-cbed1c270361.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/db93b155-5053-343f-bc90-ab6a5b8b211e.png",
+    "size": 1444,
+    "hash": "7f08f3d8200f0432b00b984fe9b14853f99e8520",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/db93b155-5053-343f-bc90-ab6a5b8b211e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/dbd795f2-16a6-38a5-817e-44b6b4bde599.png",
+    "size": 2613,
+    "hash": "d9748bfaafd7c6285d7c01ea76c49672c54add09",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/dbd795f2-16a6-38a5-817e-44b6b4bde599.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/dc48324e-3259-3dd0-bd47-968fda0ad36f.png",
+    "size": 1698,
+    "hash": "4055859d57092177db1ed10de70000d4ddb481cc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/dc48324e-3259-3dd0-bd47-968fda0ad36f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/de7c02b1-dbe1-3a3d-b021-380e37d89789.png",
+    "size": 2555,
+    "hash": "f8af58d590792d80882008fc6d7b0ec375f2f1ea",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/de7c02b1-dbe1-3a3d-b021-380e37d89789.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e0372857-e6b8-3b91-9437-6ebd41c58508.png",
+    "size": 1630,
+    "hash": "a546eec20c1e21046ed90a63ff49ab1cbabb012d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e0372857-e6b8-3b91-9437-6ebd41c58508.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e0acb083-fe41-42f8-9ec6-e1eb96e99a01.png",
+    "size": 1031,
+    "hash": "bec565d5cb5ac1c0f9c58527057d319ef1b4d237",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e0acb083-fe41-42f8-9ec6-e1eb96e99a01.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e1f617bb-cd3d-364a-8a0b-df7703a7f5c8.png",
+    "size": 2076,
+    "hash": "6f170552769f24099da6cfe8ad5a55ff6887f804",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e1f617bb-cd3d-364a-8a0b-df7703a7f5c8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e4faf7d2-1d53-4adc-9634-d3c6fb08d83a.png",
+    "size": 1554,
+    "hash": "1baa0bcbda796a67693c3d7d5bd047c63ee136d0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e4faf7d2-1d53-4adc-9634-d3c6fb08d83a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e6c101a1-ba7a-3136-98f5-e6b0420fb426.png",
+    "size": 1497,
+    "hash": "b5d01533292808804282dcf2c7aba89ed675a194",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e6c101a1-ba7a-3136-98f5-e6b0420fb426.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e9a6ca61-533c-3fec-8db9-8392fef00356.png",
+    "size": 2871,
+    "hash": "cbbb4b22b1998860312a37680f89d1a9b3a7c618",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e9a6ca61-533c-3fec-8db9-8392fef00356.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/e9c00360-79b9-452b-8c3a-dde12e7aab60.png",
+    "size": 1335,
+    "hash": "5d5f8a127055c2a14d494b2e46dd3775004e63c1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/e9c00360-79b9-452b-8c3a-dde12e7aab60.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/ea51ffc8-b710-3da4-856c-a387debc22a2.png",
+    "size": 1714,
+    "hash": "a886b6c057ea870d33f69c9f05d05cedbeb11bfc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/ea51ffc8-b710-3da4-856c-a387debc22a2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/ee7e71bc-fb55-3ac8-8c3a-cb8716c43c5e.png",
+    "size": 2178,
+    "hash": "ace13f048f3752ba245e4250e010197cfdb87690",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/ee7e71bc-fb55-3ac8-8c3a-cb8716c43c5e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/ee8b640f-42b6-3893-8cde-d376b9f86a6f.png",
+    "size": 2365,
+    "hash": "82f95b164ee14ea7702e8f42801669366c2f7b43",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/ee8b640f-42b6-3893-8cde-d376b9f86a6f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/f482f0c5-270e-4dc2-9dd6-c8ef76f457b0.png",
+    "size": 1664,
+    "hash": "1297a94fecccd9c42d0c2a773ee3daf60af8f9b8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/f482f0c5-270e-4dc2-9dd6-c8ef76f457b0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/f70f658c-ca5e-3375-9691-6035f22734b7.png",
+    "size": 1976,
+    "hash": "f622bdfb68446982e331a355259f925c22b8efca",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/f70f658c-ca5e-3375-9691-6035f22734b7.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/f7ba1f91-24f4-3a3a-a2f6-b2640bc4651e.png",
+    "size": 2339,
+    "hash": "2974da11a2608fa93641cf125edd04bd8522beda",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/f7ba1f91-24f4-3a3a-a2f6-b2640bc4651e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/f7f657d3-5485-452c-98f0-7925b4ffc2e1.png",
+    "size": 2677,
+    "hash": "b939261e3fafd70a5fa7395408d14e1236450224",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/f7f657d3-5485-452c-98f0-7925b4ffc2e1.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/f94c782d-7360-3a4f-95fe-a53d444dd96f.png",
+    "size": 1903,
+    "hash": "b8b49e4255eb93e69edd0a161ce5478841e7c9b4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/f94c782d-7360-3a4f-95fe-a53d444dd96f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/fa880951-d751-3bd0-8c60-555778f15fc3.png",
+    "size": 1968,
+    "hash": "983c8ed17a68f2f2461ef1e3b82df5f43dee390b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/fa880951-d751-3bd0-8c60-555778f15fc3.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID/fc568f4e-ef8b-4b0a-8618-5d04dc0b52d0.png",
+    "size": 2649,
+    "hash": "67b2eaaf789e83a83914d9ded2193b87e87026ff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID/fc568f4e-ef8b-4b0a-8618-5d04dc0b52d0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/02004a2c-cba9-4f83-9306-ed4434b5918d.png",
+    "size": 1361,
+    "hash": "c5c40b04d003a5393987b48f63d3a1e33581479a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/02004a2c-cba9-4f83-9306-ed4434b5918d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/02bc7360-c029-4c11-a565-e79406c89b91.png",
+    "size": 2142,
+    "hash": "9879639faff57b92185263e3fd70543f52616685",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/02bc7360-c029-4c11-a565-e79406c89b91.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/0351f961-8147-391e-984d-ee8658b19d00.png",
+    "size": 2530,
+    "hash": "bca8909ac17d02029810f2ac6c9d1228d8335684",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/0351f961-8147-391e-984d-ee8658b19d00.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/055eae8b-7fe3-3f97-80c2-a2a3659cf6d6.png",
+    "size": 2039,
+    "hash": "966491d2fcb88f5d2ab5de5c2e72b8ba5b035baf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/055eae8b-7fe3-3f97-80c2-a2a3659cf6d6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/0570a517-d10e-392b-90b9-236fea0f0dea.png",
+    "size": 2141,
+    "hash": "adf60edf229b02db2060df8521ea187e10480081",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/0570a517-d10e-392b-90b9-236fea0f0dea.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/05a3b9f5-f1b1-3f75-8bb7-cda3481e7543.png",
+    "size": 2138,
+    "hash": "c9dcf97db193d5a0b9e78243cb4ca54375fafe9e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/05a3b9f5-f1b1-3f75-8bb7-cda3481e7543.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/08634638-0b07-3ea1-a584-a4645c1a46b3.png",
+    "size": 1790,
+    "hash": "2abdcb9cacfdda14908885ff770a3258969162ff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/08634638-0b07-3ea1-a584-a4645c1a46b3.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/12a2207e-041c-390c-a866-951b6f3000cb.png",
+    "size": 2661,
+    "hash": "cc2640ea70a5193448e170fae97368251c818d34",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/12a2207e-041c-390c-a866-951b6f3000cb.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/1414fcf3-90ee-3ed3-b0f1-79dbdf955002.png",
+    "size": 1572,
+    "hash": "850800f31142a353561c22320515bd1a280e2d92",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/1414fcf3-90ee-3ed3-b0f1-79dbdf955002.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/19b503bb-9d70-38a1-91ab-53e02e3c1dd6.png",
+    "size": 1452,
+    "hash": "2c7b4601f707d06d7ca03b382c85b4c515275ed0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/19b503bb-9d70-38a1-91ab-53e02e3c1dd6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/1c3711fe-10bf-4d42-958a-2bc29c46cbdc.png",
+    "size": 1852,
+    "hash": "e5bb640629270cbb329ab544cd86639574909752",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/1c3711fe-10bf-4d42-958a-2bc29c46cbdc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/1ea28578-9661-36e4-ad73-484baa700afc.png",
+    "size": 1777,
+    "hash": "e2575535951eb0524618cf8d35d148c42b089a1e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/1ea28578-9661-36e4-ad73-484baa700afc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/24921bf7-16dd-3c51-b65e-ad822e5d3870.png",
+    "size": 2138,
+    "hash": "caca1e14f8d57e38a88271793c6f48d0010f363f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/24921bf7-16dd-3c51-b65e-ad822e5d3870.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/25966ebb-da8f-3f0b-b471-4ce0850ef588.png",
+    "size": 1841,
+    "hash": "c43fd6a4c6450a56b07bf9bf94e67b70a5d174db",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/25966ebb-da8f-3f0b-b471-4ce0850ef588.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/27957221-8f01-35a2-83ea-40639755c2b1.png",
+    "size": 4292,
+    "hash": "f49efcc404fa727e7f0172258444d5e48d59fd20",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/27957221-8f01-35a2-83ea-40639755c2b1.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/300a5cc0-acb7-392c-87e2-248999797861.png",
+    "size": 2013,
+    "hash": "8a954e8e3ce593e79ca40bf2b9935bbaf9128f0c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/300a5cc0-acb7-392c-87e2-248999797861.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/32c7d845-8653-3d0e-9a54-23768b4eec88.png",
+    "size": 2019,
+    "hash": "f5967d368691d657ad4be00b6b8344955b240b35",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/32c7d845-8653-3d0e-9a54-23768b4eec88.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/33b5d827-ff7d-3441-8b7e-bba1f3a0c951.png",
+    "size": 2088,
+    "hash": "3e6aa5251cffe9db2b57254d756e61e6ff73149b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/33b5d827-ff7d-3441-8b7e-bba1f3a0c951.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/33d6ecd0-9853-303c-8638-e2cab48c6fa1.png",
+    "size": 1947,
+    "hash": "45187c433111c5b3a4cd571954cca24ddc4cd9ff",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/33d6ecd0-9853-303c-8638-e2cab48c6fa1.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/343a5c36-6d8e-3ae4-a12f-08218460e43a.png",
+    "size": 1761,
+    "hash": "40b7c121f488e3d1962442db2a0ab1ecd02710ea",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/343a5c36-6d8e-3ae4-a12f-08218460e43a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/347be554-801c-3ba9-abd7-a352282f7bbd.png",
+    "size": 1801,
+    "hash": "1f7dea636ddd952abf232b1f9e77c6870fa3ff1e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/347be554-801c-3ba9-abd7-a352282f7bbd.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/3cad1b44-a581-3dc6-b5ce-c34156860dcc.png",
+    "size": 1449,
+    "hash": "c8786a2805613d84b8bd3c3b9c42d12d2e03244d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/3cad1b44-a581-3dc6-b5ce-c34156860dcc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/3e08db36-9cf3-3d2b-93d3-114a95cfc18e.png",
+    "size": 2245,
+    "hash": "e14c95a36cb6d376776252f62f0966ad86234626",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/3e08db36-9cf3-3d2b-93d3-114a95cfc18e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/4162a80b-5b69-3b06-b661-19d6f729c7fa.png",
+    "size": 2301,
+    "hash": "df8bb5d5c761b7c96d7875898b67b5d4f69abd4f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/4162a80b-5b69-3b06-b661-19d6f729c7fa.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/472d9cfd-ce60-3faa-b87e-f960146a9b77.png",
+    "size": 1886,
+    "hash": "381dd9bbc9d771883d0e766f466131543e0adc53",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/472d9cfd-ce60-3faa-b87e-f960146a9b77.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/47d47ff1-43a5-3440-9b34-dae11f858e61.png",
+    "size": 1868,
+    "hash": "b5429835457cb202789a041a675fe8360e137b72",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/47d47ff1-43a5-3440-9b34-dae11f858e61.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/48e418ec-9115-3d4b-b045-54c6054a8ebe.png",
+    "size": 1974,
+    "hash": "e779b038fc346fb7a39f63623699bfdb39d8de42",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/48e418ec-9115-3d4b-b045-54c6054a8ebe.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/4a03714d-d9b9-38bc-9662-e9161b267533.png",
+    "size": 1559,
+    "hash": "57266f5a7a0511ee8fe2ac28a6974eb5b9fb9ad6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/4a03714d-d9b9-38bc-9662-e9161b267533.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/4bd9901d-d1b1-3d26-89ee-ea4e71160569.png",
+    "size": 2047,
+    "hash": "d5d4495bcdaeeaf2cd0d28da62d0ae0700f4b129",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/4bd9901d-d1b1-3d26-89ee-ea4e71160569.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/4bde99a3-4ca6-39a0-a6d0-a25a61991bd7.png",
+    "size": 2389,
+    "hash": "04fc0dc1c6b4d66abc2e467baae93a4dd540de4e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/4bde99a3-4ca6-39a0-a6d0-a25a61991bd7.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/4ca2de1c-0ad7-31eb-bb9e-a06385e9127a.png",
+    "size": 1836,
+    "hash": "dd810e32699a91fd11fade17009947aacc313dd7",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/4ca2de1c-0ad7-31eb-bb9e-a06385e9127a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/4e794883-c9aa-3d7b-b62d-6cbcac61dad9.png",
+    "size": 1827,
+    "hash": "277513755f3e15231fcd880b7ef469587e6bb79a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/4e794883-c9aa-3d7b-b62d-6cbcac61dad9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/51285c1a-afce-3ecd-95e7-9de3a4fccdd3.png",
+    "size": 1554,
+    "hash": "1ccfbcf6b81f85e18537409f5ae75c104ca0f645",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/51285c1a-afce-3ecd-95e7-9de3a4fccdd3.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/542ff27c-561f-31e0-acd2-7ac802ed3f9d.png",
+    "size": 3498,
+    "hash": "794297160366cc777da8722ba9c5dc0e70001e6f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/542ff27c-561f-31e0-acd2-7ac802ed3f9d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/55bbc973-5170-357a-812f-cb9b14ed7342.png",
+    "size": 1579,
+    "hash": "4c38b91f45740bfb5bbb2441747c94f5900ec2d0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/55bbc973-5170-357a-812f-cb9b14ed7342.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/582e7aad-91ef-33ce-b5a2-45f7690416c9.png",
+    "size": 2033,
+    "hash": "de6ce0573eceb764b635529157468a78e2e0123d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/582e7aad-91ef-33ce-b5a2-45f7690416c9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/5aa76977-f908-3b6e-a1da-3883cc7c5bac.png",
+    "size": 2489,
+    "hash": "cc8cb713e55c3a1231b41cd89df2d5634a07ee19",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/5aa76977-f908-3b6e-a1da-3883cc7c5bac.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/5d8ad2cf-5f84-4dbe-b2eb-a18986b947ff.png",
+    "size": 1924,
+    "hash": "88917e22264350dbc4d332a7f84f4b7688b3f453",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/5d8ad2cf-5f84-4dbe-b2eb-a18986b947ff.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/618686f9-fa11-3cf6-ab5d-3adf5877da15.png",
+    "size": 2061,
+    "hash": "b0d3351ea0380e8d1c426c0a9951a29bf0605279",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/618686f9-fa11-3cf6-ab5d-3adf5877da15.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/65ad1735-5f4a-3e22-a28e-49a93520d44a.png",
+    "size": 1934,
+    "hash": "d82dce1ad0729b7a9a818c9435974ed2d2399605",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/65ad1735-5f4a-3e22-a28e-49a93520d44a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/6a29afa3-d983-33ac-bc7d-bbe53458aac4.png",
+    "size": 1910,
+    "hash": "82c70034464815bb66e474bf831213d8b6bd1011",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/6a29afa3-d983-33ac-bc7d-bbe53458aac4.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/6b4d6816-3a5f-3738-a478-d3ec763f50f9.png",
+    "size": 2381,
+    "hash": "2cb0156da95edf27d3c8a8c51b36f8bd549a3eda",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/6b4d6816-3a5f-3738-a478-d3ec763f50f9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/6b81c26c-0a40-3dd4-a779-5442c45da18b.png",
+    "size": 2368,
+    "hash": "cfdaacd01a417d2bbbfe8abe2259ca548282d8cb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/6b81c26c-0a40-3dd4-a779-5442c45da18b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/6ba3a7a6-31cd-35e0-b057-87efb969ca24.png",
+    "size": 2121,
+    "hash": "5410311ee3be26f9a5b98bd876a43deca76bf320",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/6ba3a7a6-31cd-35e0-b057-87efb969ca24.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/7102cf30-762d-372a-af3f-04c34242c048.png",
+    "size": 2440,
+    "hash": "8f6aa7a6e9ec617bc4ef241c08c1cabd91084af9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/7102cf30-762d-372a-af3f-04c34242c048.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/75b41746-4d63-376e-90d9-1733776bff46.png",
+    "size": 2501,
+    "hash": "cd0163e78750480ea35eebe85980096ef4f4f581",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/75b41746-4d63-376e-90d9-1733776bff46.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/7a63010b-942e-30a1-9d1b-df59b4f9c9fb.png",
+    "size": 2056,
+    "hash": "d605243b9680bac06441ee31712abf14e6f03e45",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/7a63010b-942e-30a1-9d1b-df59b4f9c9fb.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/7c87e03c-96a0-3b24-ad40-915fe938191a.png",
+    "size": 1686,
+    "hash": "4591559d8963a26f6703d878e75179d4e52ec930",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/7c87e03c-96a0-3b24-ad40-915fe938191a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/80857a66-d68d-3fa6-a10f-3c1cc3c8586b.png",
+    "size": 2272,
+    "hash": "f5698dce93f43e00c034accf89a2f612994d4677",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/80857a66-d68d-3fa6-a10f-3c1cc3c8586b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/81e4be6b-5e9d-43dd-bebe-03765aa7ac8a.png",
+    "size": 1266,
+    "hash": "d829dbcfbac762a1bd04f2969cad147e17137613",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/81e4be6b-5e9d-43dd-bebe-03765aa7ac8a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/8527b592-9721-342c-a824-b63aae160aad.png",
+    "size": 1838,
+    "hash": "1fa02649b3eec4325bbac88a0592a8459ca3236d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/8527b592-9721-342c-a824-b63aae160aad.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/88d857a8-4af7-3bac-819a-ebe7f2b8a307.png",
+    "size": 2925,
+    "hash": "1f1d024d93876f7f41fed9aa3e54379f5b9f9aaa",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/88d857a8-4af7-3bac-819a-ebe7f2b8a307.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/8b0837bf-8dba-3a98-acd3-24227bdbb19e.png",
+    "size": 1730,
+    "hash": "377eab5d94b54a1443704e06d4a7b35d0051024c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/8b0837bf-8dba-3a98-acd3-24227bdbb19e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/8f61edea-62d0-3cc0-9be1-fe3ff11d5cb5.png",
+    "size": 1941,
+    "hash": "1e9cb7938bee9b508fba95561e351200e45b3739",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/8f61edea-62d0-3cc0-9be1-fe3ff11d5cb5.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/8fd8c041-819d-318b-872f-d23646457b1e.png",
+    "size": 1810,
+    "hash": "66b9a5e4fb329fecd9a678264504c8ef4e2bd75d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/8fd8c041-819d-318b-872f-d23646457b1e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/92229586-4d93-306e-a97c-9ce3ab28c562.png",
+    "size": 1772,
+    "hash": "82e48e8b73ca28c732e3a7b8a9403fe0f50eee9a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/92229586-4d93-306e-a97c-9ce3ab28c562.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/94d8fe7b-2d03-340d-86ab-b51bf52ca2d9.png",
+    "size": 2333,
+    "hash": "3cbd79db2df464365452c16d77f6ea709a7ccf2e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/94d8fe7b-2d03-340d-86ab-b51bf52ca2d9.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/99569ae6-aea7-31ce-84af-d15899dfcc38.png",
+    "size": 2024,
+    "hash": "879675a7e65e81be96f5f5b05e168569be2e2cee",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/99569ae6-aea7-31ce-84af-d15899dfcc38.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/996ada2f-b327-341e-90ab-08b1713cace6.png",
+    "size": 1574,
+    "hash": "4ea04bb95ce6ed370ebcd1a5b0865f45ec1024de",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/996ada2f-b327-341e-90ab-08b1713cace6.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/9a1ef177-3007-3436-b8a5-ba829148639e.png",
+    "size": 4426,
+    "hash": "cd809b0e6c017cb96f9776ea42dd2d3a8c0bb5e9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/9a1ef177-3007-3436-b8a5-ba829148639e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/9a22d365-eac7-345c-95c5-bed829cb0729.png",
+    "size": 2110,
+    "hash": "a459073c5d1437db763d56de667514338cb1b0c5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/9a22d365-eac7-345c-95c5-bed829cb0729.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/9b22dea0-63b6-3ab1-8361-49672f0d8492.png",
+    "size": 1721,
+    "hash": "9122d2c0419d1602e64d61fc477d4a9eea03a8fb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/9b22dea0-63b6-3ab1-8361-49672f0d8492.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/9e843be2-2eb7-3672-ac51-a24c791bf3d2.png",
+    "size": 2347,
+    "hash": "a6f92724c508af742066daf4dfe8398e5a4d3c75",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/9e843be2-2eb7-3672-ac51-a24c791bf3d2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/9fdbffc7-de43-3bc2-b28b-dc17a7c748eb.png",
+    "size": 2376,
+    "hash": "5a2ed244903618ba633521908190d94dc731f65b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/9fdbffc7-de43-3bc2-b28b-dc17a7c748eb.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a113f653-3bba-3cc5-a8a7-3bb44e689ab3.png",
+    "size": 3129,
+    "hash": "4d1b7233cf4817b7e037fdcea863cf9fcc43a41c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a113f653-3bba-3cc5-a8a7-3bb44e689ab3.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a1aca56d-a437-37af-846f-44bfa1f2ba3d.png",
+    "size": 2228,
+    "hash": "60e5d517eb013cd17a5d7372b8e7d8ab4a4cd2c4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a1aca56d-a437-37af-846f-44bfa1f2ba3d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a218f97a-a87e-3375-9c84-88e3ba100812.png",
+    "size": 1661,
+    "hash": "7e631b256b004976820f366b21c3d9d0c686a107",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a218f97a-a87e-3375-9c84-88e3ba100812.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a5790c4d-c218-397e-9148-83b818826096.png",
+    "size": 2149,
+    "hash": "3f416dd97e4bc64cbd0d3278714611b12194cd93",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a5790c4d-c218-397e-9148-83b818826096.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a60aeb08-b977-4ed9-96f2-e6060d4b3d80.png",
+    "size": 2069,
+    "hash": "db13941bec7b7a91a930484655f807fdfcc5fbc8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a60aeb08-b977-4ed9-96f2-e6060d4b3d80.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a6e6f2e0-d981-3ec9-ab01-fcea0f0b2ab0.png",
+    "size": 1844,
+    "hash": "b150294129a8395367238dd8d7350678a72c1e7d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a6e6f2e0-d981-3ec9-ab01-fcea0f0b2ab0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/a9c0cc52-6314-364d-9fa0-053ccbbb8fd2.png",
+    "size": 311,
+    "hash": "82e8d95448ced9788bf41bbda74613375f9e194a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/a9c0cc52-6314-364d-9fa0-053ccbbb8fd2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/ae28bf04-dbc1-3718-af30-67bcd1898a25.png",
+    "size": 1673,
+    "hash": "d4422fdb982972285b82de6b55283868c7a7b84b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/ae28bf04-dbc1-3718-af30-67bcd1898a25.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/af4bb6fa-2c4c-334e-9898-6974e5f66fc1.png",
+    "size": 2384,
+    "hash": "2e2c3cc732a0914c11025a87d195269c92bb3a8a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/af4bb6fa-2c4c-334e-9898-6974e5f66fc1.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/b51539ec-f7b7-336f-b06e-9ed5b595a84b.png",
+    "size": 2261,
+    "hash": "79a62ac76ffc128d966893b5bd4ea8e3a9e2a3cc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/b51539ec-f7b7-336f-b06e-9ed5b595a84b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/b621ec9a-513c-3644-ac51-39a77604500f.png",
+    "size": 2041,
+    "hash": "52478a2299707874a48513b43a29b0ab4d66ef03",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/b621ec9a-513c-3644-ac51-39a77604500f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/b65e3acf-6d80-3015-ad90-eda9e6d244c2.png",
+    "size": 981,
+    "hash": "2af5e1012d243192f924ab1c2c7b238f19a611f9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/b65e3acf-6d80-3015-ad90-eda9e6d244c2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/b74200d8-c1a5-39a6-b319-76beead2ca99.png",
+    "size": 1560,
+    "hash": "3456b98255575848b1691922d14c4897710dc161",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/b74200d8-c1a5-39a6-b319-76beead2ca99.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/bc6dce16-d9fe-34ab-ab91-a4de5c9e8a8b.png",
+    "size": 1899,
+    "hash": "28751ad14029639b5613611967c0cf356d1ff1b6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/bc6dce16-d9fe-34ab-ab91-a4de5c9e8a8b.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/bd59d7e9-b182-324d-8759-074e0b1eeaa0.png",
+    "size": 2098,
+    "hash": "3c2b0bb7c994f4b94dd421d60afe8bc5afa94c2b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/bd59d7e9-b182-324d-8759-074e0b1eeaa0.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/be0b6b2f-b662-33ac-aa42-f3c11ebd7cda.png",
+    "size": 2190,
+    "hash": "68be17cb51d3ad27e00d6a80d42cb3f8e4bd7c16",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/be0b6b2f-b662-33ac-aa42-f3c11ebd7cda.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/bef08b48-67ac-3f61-b292-2eb3c3963c00.png",
+    "size": 1896,
+    "hash": "d520704c5e9c2448d099bc785464e53b4f7e82ed",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/bef08b48-67ac-3f61-b292-2eb3c3963c00.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/c099e691-db44-3a43-99b1-4752add2b5a8.png",
+    "size": 1614,
+    "hash": "3f3644ff4e0fc896a9f8121e44c11fa23cb86996",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/c099e691-db44-3a43-99b1-4752add2b5a8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/c3305454-70c9-3837-a96e-34ebebe4a761.png",
+    "size": 2235,
+    "hash": "06c8ff4908e83d6d74fd1d7bb710fc6880ddcdc1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/c3305454-70c9-3837-a96e-34ebebe4a761.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/c84d8e01-7792-32f0-a6ff-b300b6688ccc.png",
+    "size": 2231,
+    "hash": "04085283a9b2b4f206a279ca92aa18f7956d1b61",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/c84d8e01-7792-32f0-a6ff-b300b6688ccc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/cd1067c9-ed22-3f24-bc60-fbb90e91c94d.png",
+    "size": 1759,
+    "hash": "1249f17da0422aa3615e8c9af2198e5cb3587bae",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/cd1067c9-ed22-3f24-bc60-fbb90e91c94d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d080fc9a-61f8-4216-bd58-1deee28d5973.png",
+    "size": 5028,
+    "hash": "ed0d9805319f5b0971554e2b86c2788f6811325d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d080fc9a-61f8-4216-bd58-1deee28d5973.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d1649b23-1cb7-4f52-a44c-ebeea0628698.png",
+    "size": 2483,
+    "hash": "11acfc230237ce012574108ca81ed7c15ce57dd4",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d1649b23-1cb7-4f52-a44c-ebeea0628698.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d2273323-f004-344d-b9d6-f604893c0307.png",
+    "size": 2428,
+    "hash": "95ac06f151696a4b6a9a24556ce3a654b6ecfadc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d2273323-f004-344d-b9d6-f604893c0307.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d359088a-da57-3736-acec-600b5d1d544a.png",
+    "size": 1893,
+    "hash": "1223b1751d5e2a9ebe1bad09edaef0935b357b00",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d359088a-da57-3736-acec-600b5d1d544a.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d3d0a872-6fda-3bb3-a296-bd7d7c422c5e.png",
+    "size": 2336,
+    "hash": "0c462bbc3a93e276df6502e27d1716486f9a4df5",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d3d0a872-6fda-3bb3-a296-bd7d7c422c5e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d3de071d-912f-4700-96b1-3605f636adf2.png",
+    "size": 1742,
+    "hash": "8376b086520b71792497a024856b6224ec1a2f55",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d3de071d-912f-4700-96b1-3605f636adf2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d4144ee4-c63a-3f76-b349-98ceb6a26cc8.png",
+    "size": 1945,
+    "hash": "febc7b5b9f0c0c00a3fbf3d6a6df772b28030b17",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d4144ee4-c63a-3f76-b349-98ceb6a26cc8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d5045486-ad4e-3b50-a930-c1fbc9e639c7.png",
+    "size": 1628,
+    "hash": "a261c0e12553be980141de4aa69ebaa3ad5e56d2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d5045486-ad4e-3b50-a930-c1fbc9e639c7.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/d7024f15-71b4-3e24-84d8-7747fe4784cb.png",
+    "size": 2011,
+    "hash": "da69da7cf4fcead0e3f7f065a11670459b3249ca",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/d7024f15-71b4-3e24-84d8-7747fe4784cb.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/ddc572b8-adcf-3561-8649-c59e1e034bc8.png",
+    "size": 1880,
+    "hash": "04a6df491b7c23fa7728622ba196cf44bcd2ef68",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/ddc572b8-adcf-3561-8649-c59e1e034bc8.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/e15e9406-6a8a-3e8b-b573-46a8fc27fd4d.png",
+    "size": 1748,
+    "hash": "7d462f8dbab78f573146c59e48054004d930e4bd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/e15e9406-6a8a-3e8b-b573-46a8fc27fd4d.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/e9bcb94b-ed96-4c22-ad69-b440ae5c5fe7.png",
+    "size": 1355,
+    "hash": "8d57f0e1b70b14ec6364b4da23761c1810e5ad6b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/e9bcb94b-ed96-4c22-ad69-b440ae5c5fe7.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/ea63d5b2-4cda-421d-afcf-b8dd3bbb2502.png",
+    "size": 836,
+    "hash": "6adbe19e46cbb2093fae911d349490087c21ea9c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/ea63d5b2-4cda-421d-afcf-b8dd3bbb2502.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/eb0f5444-ad8a-3071-ac15-c0e49248496e.png",
+    "size": 1700,
+    "hash": "14dea6a1b8eebfe2deddd749eea1272ae55451d1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/eb0f5444-ad8a-3071-ac15-c0e49248496e.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/ef3c19d9-8dda-4e5c-bb33-336021af95cc.png",
+    "size": 2232,
+    "hash": "7371a9fb7b7b4030c24b42cb020df06c653143ea",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/ef3c19d9-8dda-4e5c-bb33-336021af95cc.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/f3db2a15-e2e2-3746-b7cb-fc734d075daa.png",
+    "size": 1449,
+    "hash": "6bbba754490655e3353f819d307a474dee76017c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/f3db2a15-e2e2-3746-b7cb-fc734d075daa.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/f7f25bf7-38b2-381b-bf8c-a2d3bdc92da2.png",
+    "size": 1529,
+    "hash": "76f3aa553e957d8815cf1172f8a8d955a2a408a2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/f7f25bf7-38b2-381b-bf8c-a2d3bdc92da2.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/fac96302-5be9-3823-90f5-4070b5c39d1f.png",
+    "size": 2054,
+    "hash": "ca154ae746917b3e4cc05ec5c2bfcb031ea04087",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/fac96302-5be9-3823-90f5-4070b5c39d1f.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/fc9f7900-3492-3f21-93c8-da91452d6738.png",
+    "size": 2040,
+    "hash": "85b5f19955bf2aa7d3866c21ec684fd4d32746b6",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/fc9f7900-3492-3f21-93c8-da91452d6738.png"
+  },
+  {
+    "path": "easy_npc/texture_cache/player/HUMANOID_SLIM/ffdb5c6d-1ca2-4364-b5bd-c49927d12a6e.png",
+    "size": 3460,
+    "hash": "dbdb292cc4968545b31de0fd6f42d8f9e9125b42",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/easy_npc/texture_cache/player/HUMANOID_SLIM/ffdb5c6d-1ca2-4364-b5bd-c49927d12a6e.png"
+  },
+  {
     "path": "emotes/Back Flip.emotecraft",
     "size": 1119,
     "hash": "3263aff1c7d706718fc8a05db7f7f9f18590ebca",
