@@ -305,6 +305,60 @@
       "custom/boss_manoir_son_aleatoire_1"
     ]
   },
+  "custom.boss_solar _random_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_random_1"
+    ]
+  },
+  "custom.boss_solar_attaque_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_attaque_1"
+    ]
+  },
+  "custom.boss_solar_attaque_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_attaque_2"
+    ]
+  },
+  "custom.boss_solar_mort": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_mort"
+    ]
+  },
+  "custom.boss_solar_mort_joueur_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_mort_joueur_1"
+    ]
+  },
+  "custom.boss_solar_mort_joueur_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_mort_joueur_2"
+    ]
+  },
+  "custom.boss_solar_random_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_random_2"
+    ]
+  },
+  "custom.boss_solar_spawn": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_spawn"
+    ]
+  },
+  "custom.boss_solar_victoire": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_victoire"
+    ]
+  },
   "custom.boss_soleil": {
     "category": "neutral",
     "sounds": [

@@ -2598,6 +2598,60 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_manoir_son_aleatoire_1.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_solar_random_1.ogg",
+    "size": 25634,
+    "hash": "dc2f105ca4efab745998ed97716833b257910543",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_random_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_attaque_1.ogg",
+    "size": 10173,
+    "hash": "5f115fc682392562d6f5d1ddf33d5e60093a5a13",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_attaque_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_attaque_2.ogg",
+    "size": 10801,
+    "hash": "81cfd0491fc507942e47b1a7501da61df86a223f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_attaque_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_mort.ogg",
+    "size": 40960,
+    "hash": "d0534cb37849ebfd98a5251892a006f9994a179f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_mort.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_mort_joueur_1.ogg",
+    "size": 24272,
+    "hash": "d1e7f3ee04ffd56392ea5a0e42a077a23f879b14",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_mort_joueur_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_mort_joueur_2.ogg",
+    "size": 24604,
+    "hash": "6a9962d0d481052b652c1360e36aef0871677d7c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_mort_joueur_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_random_2.ogg",
+    "size": 26370,
+    "hash": "8b22037403a2979e1a258339ab79f6566ab8e5e9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_random_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_spawn.ogg",
+    "size": 32193,
+    "hash": "97ce6174cf83063e8695fc5732d85dc40cece4d2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_spawn.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/boss_solar_victoire.ogg",
+    "size": 30058,
+    "hash": "4a3732bf02382c3aaaf2503a9972dea60091ed84",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_solar_victoire.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_soleil.ogg",
     "size": 1060676,
     "hash": "861465c7a5ff50a5740abd2c39959c785f0a16bf",
