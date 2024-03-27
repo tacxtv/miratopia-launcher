@@ -803,10 +803,22 @@
       "custom/pnj_foincheux"
     ]
   },
+  "custom.pnj_fontaine_frelheim": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fontaine_frelheim"
+    ]
+  },
   "custom.pnj_fossoyeur": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_fossoyeur"
+    ]
+  },
+  "custom.pnj_fraktalis_paz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fraktalis_paz"
     ]
   },
   "custom.pnj_gorou": {
@@ -1001,6 +1013,36 @@
       "custom/pnj_lassy_stan_4"
     ]
   },
+  "custom.pnj_les_arbres": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_les_arbres"
+    ]
+  },
+  "custom.pnj_les_etoiles": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_les_etoiles"
+    ]
+  },
+  "custom.pnj_les_moulins": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_les_moulins"
+    ]
+  },
+  "custom.pnj_les_sous_sol_sekeris": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_les_sous_sol_sekeris"
+    ]
+  },
+  "custom.pnj_le_marchand": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_le_marchand"
+    ]
+  },
   "custom.pnj_lucien_ferno": {
     "category": "neutral",
     "sounds": [
@@ -1023,6 +1065,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_macgo_lagalle_replique_1"
+    ]
+  },
+  "custom.pnj_magie_paz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_magie_paz"
     ]
   },
   "custom.pnj_marie_curriz": {
@@ -1083,6 +1131,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_questa"
+    ]
+  },
+  "custom.pnj_racine_paz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_racine_paz"
     ]
   },
   "custom.pnj_random_1": {
@@ -1349,6 +1403,12 @@
       "custom/pnj_trojan"
     ]
   },
+  "custom.pnj_un_dragon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_un_dragon"
+    ]
+  },
   "custom.pnj_uroth": {
     "category": "neutral",
     "sounds": [
@@ -1365,6 +1425,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_viktor"
+    ]
+  },
+  "custom.pnj_viridiana_paz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_viridiana_paz"
     ]
   }
 }
