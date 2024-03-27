@@ -305,12 +305,6 @@
       "custom/boss_manoir_son_aleatoire_1"
     ]
   },
-  "custom.boss_solar _random_1": {
-    "category": "neutral",
-    "sounds": [
-      "custom/boss_solar_random_1"
-    ]
-  },
   "custom.boss_solar_attaque_1": {
     "category": "neutral",
     "sounds": [
@@ -339,6 +333,12 @@
     "category": "neutral",
     "sounds": [
       "custom/boss_solar_mort_joueur_2"
+    ]
+  },
+  "custom.boss_solar_random_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_solar_random_1"
     ]
   },
   "custom.boss_solar_random_2": {
@@ -665,6 +665,18 @@
       "custom/pdv_tour_ensorcelleur"
     ]
   },
+  "custom.pnj_abaddon_puth": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_abaddon_puth"
+    ]
+  },
+  "custom.pnj_aelbert_aynechtayne": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aelbert_aynechtayne"
+    ]
+  },
   "custom.pnj_ahaine_peeuh": {
     "category": "neutral",
     "sounds": [
@@ -677,10 +689,28 @@
       "custom/pnj_air_heure"
     ]
   },
+  "custom.pnj_anna_belle": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_anna_belle"
+    ]
+  },
   "custom.pnj_ayen_hoube": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_ayen_hoube"
+    ]
+  },
+  "custom.pnj_aza_zelle": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aza_zelle"
+    ]
+  },
+  "custom.pnj_belzee_puth": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_belzee_puth"
     ]
   },
   "custom.pnj_brifie": {
@@ -707,6 +737,18 @@
       "custom/pnj_cha_mouil"
     ]
   },
+  "custom.pnj_chtu_lulu": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_chtu_lulu"
+    ]
+  },
+  "custom.pnj_dark_sombra": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_dark_sombra"
+    ]
+  },
   "custom.pnj_demon_salvatore": {
     "category": "neutral",
     "sounds": [
@@ -717,6 +759,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_diana"
+    ]
+  },
+  "custom.pnj_dugon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_dugon"
+    ]
+  },
+  "custom.pnj_emaus_morrax": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_emaus_morrax"
     ]
   },
   "custom.pnj_emy": {
@@ -881,6 +935,18 @@
       "custom/pnj_ilan_fareway"
     ]
   },
+  "custom.pnj_jade_orlefi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jade_orlefi"
+    ]
+  },
+  "custom.pnj_jay_padebol": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jay_padebol"
+    ]
+  },
   "custom.pnj_jeanklemann": {
     "category": "neutral",
     "sounds": [
@@ -929,6 +995,24 @@
       "custom/pnj_lassy_stan_4"
     ]
   },
+  "custom.pnj_lucien_ferno": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lucien_ferno"
+    ]
+  },
+  "custom.pnj_lui": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lui"
+    ]
+  },
+  "custom.pnj_lullabulle": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_lullabulle"
+    ]
+  },
   "custom.pnj_macgo_lagalle_replique_1": {
     "category": "neutral",
     "sounds": [
@@ -959,6 +1043,12 @@
       "custom/pnj_mark_page_replique_2"
     ]
   },
+  "custom.pnj_melody_apazon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_melody_apazon"
+    ]
+  },
   "custom.pnj_nac_umbra": {
     "category": "neutral",
     "sounds": [
@@ -969,6 +1059,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_nac_unekouille"
+    ]
+  },
+  "custom.pnj_olgek": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_olgek"
+    ]
+  },
+  "custom.pnj_ongronauz": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ongronauz"
     ]
   },
   "custom.pnj_questa": {
@@ -1109,6 +1211,18 @@
       "custom/pnj_rosalia_replique_4"
     ]
   },
+  "custom.pnj_rurkon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_rurkon"
+    ]
+  },
+  "custom.pnj_sanvie_zage": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sanvie_zage"
+    ]
+  },
   "custom.pnj_selena": {
     "category": "neutral",
     "sounds": [
@@ -1215,6 +1329,24 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_timote_2"
+    ]
+  },
+  "custom.pnj_treruth": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_treruth"
+    ]
+  },
+  "custom.pnj_trojan": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_trojan"
+    ]
+  },
+  "custom.pnj_uroth": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_uroth"
     ]
   },
   "custom.pnj_vernes": {
