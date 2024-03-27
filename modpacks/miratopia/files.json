@@ -2976,6 +2976,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_ahaine_peeuh.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_aiechie_spawn.ogg",
+    "size": 60308,
+    "hash": "39c58483806bb94fccec68e6b559cb8f7d46c7b9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_aiechie_spawn.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_air_heure.ogg",
     "size": 911308,
     "hash": "dd7d03dc94cbbc6be4432d87dde3bc2109675008",

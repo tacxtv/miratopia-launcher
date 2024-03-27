@@ -683,6 +683,12 @@
       "custom/pnj_ahaine_peeuh"
     ]
   },
+  "custom.pnj_aiechie_spawn": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aiechie_spawn"
+    ]
+  },
   "custom.pnj_air_heure": {
     "category": "neutral",
     "sounds": [
