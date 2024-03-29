@@ -286,7 +286,9 @@
       "hash": "196539d0e5dc057b81edbaa8d0e396c6cd8a2db8",
       "path": "mods/oculus-mc1.20.1-1.6.13.jar",
       "size": 2798867,
-      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/yUsIHXQX/oculus-mc1.20.1-1.6.13.jar"
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/yUsIHXQX/oculus-mc1.20.1-1.6.13.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "b6b7267f3669c10c167d5d375d0274d40e3eb756",
@@ -314,7 +316,9 @@
     {
       "path": "mods/rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar",
       "size": 488301,
-      "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/PSRJ0h1d/rubidium-extra-0.5.3.1%2Bmc1.20.1-build.110.jar"
+      "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/PSRJ0h1d/rubidium-extra-0.5.3.1%2Bmc1.20.1-build.110.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "6e0d401e259c2b630a1c48ef120d696ddadbca63",
