@@ -143,6 +143,12 @@
       "custom/boss_gandoulf_death"
     ]
   },
+  "custom.boss_golemcache": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_golemcache"
+    ]
+  },
   "custom.boss_lune": {
     "category": "neutral",
     "sounds": [

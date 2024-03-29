@@ -2436,6 +2436,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_gandoulf_death.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/boss_golemcache.ogg",
+    "size": 1306126,
+    "hash": "56d58d7e3977a5c0af4ed4435ebae705fdd6cb82",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/boss_golemcache.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/boss_lune.ogg",
     "size": 1059118,
     "hash": "8bd515b357dcd83e804f25f74c591b93c3a36875",
@@ -3757,8 +3763,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 29789,
-    "hash": "d7a59ca22bc8c4debae9db104abaa443c51747b8",
+    "size": 30029,
+    "hash": "477349e23af2c5a92bf75cd0dca0325f251b45cf",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {
