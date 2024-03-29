@@ -7336,5 +7336,11 @@
     "size": 31301,
     "hash": "364045c323a06283cd3ccd6c1104c2eea2c726b0",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/modelengine/textures/entity/zvarikia_alchemist.png"
+  },
+  {
+    "path": "servers.dat",
+    "size": 91,
+    "hash": "96ea54fb980bcd5de76aa9e5663611f86e2312d9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/servers.dat"
   }
 ]
