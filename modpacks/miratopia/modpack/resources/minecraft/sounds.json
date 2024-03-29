@@ -311,6 +311,54 @@
       "custom/boss_manoir_son_aleatoire_1"
     ]
   },
+  "custom.boss_secretgolem_death": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_death"
+    ]
+  },
+  "custom.boss_secretgolem_player_death": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_player_death"
+    ]
+  },
+  "custom.boss_secretgolem_random_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_random_1"
+    ]
+  },
+  "custom.boss_secretgolem_random_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_random_2"
+    ]
+  },
+  "custom.boss_secretgolem_random_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_random_3"
+    ]
+  },
+  "custom.boss_secretgolem_random_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_random_4"
+    ]
+  },
+  "custom.boss_secretgolem_random_5": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_random_5"
+    ]
+  },
+  "custom.boss_secretgolem_spawn": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_secretgolem_spawn"
+    ]
+  },
   "custom.boss_solar_attaque_1": {
     "category": "neutral",
     "sounds": [
@@ -671,6 +719,12 @@
       "custom/pdv_tour_ensorcelleur"
     ]
   },
+  "custom.pij_mouala": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pij_mouala"
+    ]
+  },
   "custom.pnj_abaddon_puth": {
     "category": "neutral",
     "sounds": [
@@ -725,10 +779,22 @@
       "custom/pnj_aza_zelle"
     ]
   },
+  "custom.pnj_baltimore_morningstar": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_baltimore_morningstar"
+    ]
+  },
   "custom.pnj_belzee_puth": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_belzee_puth"
+    ]
+  },
+  "custom.pnj_bradlait": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_bradlait"
     ]
   },
   "custom.pnj_brifie": {
@@ -1103,6 +1169,12 @@
       "custom/pnj_marie_curriz"
     ]
   },
+  "custom.pnj_mark_page_poximite_la_haut": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_mark_page_poximite_la_haut"
+    ]
+  },
   "custom.pnj_mark_page_proxim_1": {
     "category": "neutral",
     "sounds": [
@@ -1161,6 +1233,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_racine_paz"
+    ]
+  },
+  "custom.pnj_rain_bow": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_rain_bow"
     ]
   },
   "custom.pnj_random_1": {
@@ -1413,6 +1491,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_tactic_vvf"
+    ]
+  },
+  "custom.pnj_thoman": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_thoman"
     ]
   },
   "custom.pnj_timote_1": {
