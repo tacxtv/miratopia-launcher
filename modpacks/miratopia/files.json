@@ -2982,6 +2982,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_aiechie_spawn.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_aie_chie_by_vava.ogg",
+    "size": 107998,
+    "hash": "8567d95753affc6caf68765f9ed09106c491aafa",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_aie_chie_by_vava.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_air_heure.ogg",
     "size": 911308,
     "hash": "dd7d03dc94cbbc6be4432d87dde3bc2109675008",
@@ -3088,6 +3094,18 @@
     "size": 186576,
     "hash": "67220aa76dc8780bb5508cd33e98914ab216c3a0",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_enora.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_fake_lenon_2.ogg",
+    "size": 189335,
+    "hash": "12daa7ecfc46e5848d650bbead6bfcc970cee121",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_fake_lenon_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_fauxshounet_2.ogg",
+    "size": 306164,
+    "hash": "d90a85a1d03463c23a9bbbf04349ae0eb4bb759d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_fauxshounet_2.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_foincheux.ogg",
@@ -3630,6 +3648,18 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_tactic_djv.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_tactic_final_1.ogg",
+    "size": 91532,
+    "hash": "4582bcc884e0ebc518643ac064b41ac4e4ad5ade",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_tactic_final_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_tactic_final_2.ogg",
+    "size": 54435,
+    "hash": "0e7a5394f0e0d5398c72c5d5a4687bcdc4ab35eb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_tactic_final_2.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_tactic_fvf.ogg",
     "size": 193148,
     "hash": "aa3c3bca4a82d7145770c514b0738f45ef713ca1",
@@ -3727,8 +3757,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 28020,
-    "hash": "8abbdc2644df3de33963007fa8186b07e6dc2435",
+    "size": 29789,
+    "hash": "d7a59ca22bc8c4debae9db104abaa443c51747b8",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds.json"
   },
   {

@@ -689,6 +689,12 @@
       "custom/pnj_aiechie_spawn"
     ]
   },
+  "custom.pnj_aie_chie_by_vava": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aie_chie_by_vava"
+    ]
+  },
   "custom.pnj_air_heure": {
     "category": "neutral",
     "sounds": [
@@ -795,6 +801,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_enora"
+    ]
+  },
+  "custom.pnj_fake_lenon_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fake_lenon_2"
+    ]
+  },
+  "custom.pnj_fauxshounet_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fauxshounet_2"
     ]
   },
   "custom.pnj_foincheux": {
@@ -1335,6 +1353,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_tactic_djv"
+    ]
+  },
+  "custom.pnj_tactic_final_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_final_1"
+    ]
+  },
+  "custom.pnj_tactic_final_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tactic_final_2"
     ]
   },
   "custom.pnj_tactic_fvf": {
