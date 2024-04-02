@@ -71,7 +71,7 @@ export class MinecraftService {
         path: join(root, modpack.id),
         version: modpack.minecraft.version,
         detached: true,
-        downloadFileMultiple: 100,
+        downloadFileMultiple: 65,
         loader,
         verify: true,
         ignored: [
