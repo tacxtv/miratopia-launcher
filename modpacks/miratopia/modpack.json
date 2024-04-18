@@ -793,6 +793,12 @@
       "path": "mods/Cuffed-1.20-1.1.2.jar",
       "size": 270167,
       "url": "https://cdn.modrinth.com/data/KrZm8J8s/versions/LmDLz4Rc/Cuffed-1.20-1.1.2.jar"
+    },
+    {
+      "hash": "8751f9a178b3002e746b2f30af75dd83281821ee",
+      "path": "mods/simpleshops-1.2.2.jar",
+      "size": 135614,
+      "url": "https://mediafilez.forgecdn.net/files/4716/851/simpleshops-1.2.2.jar"
     }
   ]
 }
