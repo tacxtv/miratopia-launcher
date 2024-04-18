@@ -787,6 +787,12 @@
       "path": "mods/FluxNetworks-1.20.1-7.2.1.15.jar",
       "size": 515573,
       "url": "https://mediafilez.forgecdn.net/files/5234/697/FluxNetworks-1.20.1-7.2.1.15.jar"
+    },
+    {
+      "hash": "75929fc22827e3524cf833ad30d47c92f9773236",
+      "path": "mods/Cuffed-1.20-1.1.2.jar",
+      "size": 270167,
+      "url": "https://cdn.modrinth.com/data/KrZm8J8s/versions/LmDLz4Rc/Cuffed-1.20-1.1.2.jar"
     }
   ]
 }
