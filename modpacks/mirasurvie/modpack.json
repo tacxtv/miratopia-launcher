@@ -1,0 +1,32 @@
+{
+    "id": "miratopia",
+    "name": "Miratopia",
+    "default": true,
+    "description": "Modpack for Miratopia Saison 1",
+    "hidden": false,
+    "minecraft": {
+      "version": "1.20.1",
+      "recommendedMemory": 4096
+    },
+    "ignoredFiles": [
+      "loadmyresources",
+      "$onlinedisplays",
+      ".bobby",
+      "armourers_workshop",
+      "easy_npc",
+      "fancymenu_data",
+      "patchouli_books",
+      "schematics",
+      "saves",
+      "local",
+      "servers.dat"
+    ],
+    "loaders": [
+      {
+        "type": "neoforge",
+        "version": "1.20.1-47.1.79"
+      }
+    ],
+    "files": [
+    ]
+  }
