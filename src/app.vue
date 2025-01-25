@@ -11,8 +11,20 @@ import type { Modpack } from '../types/modpack.type'
 // @ts-ignore
 export default defineNuxtComponent({
   async setup() {
-    const launcher: Launcher = (await axios.get('https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher.json')).data
-    const modpack: Modpack = (await axios.get('https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack.json')).data
+    const launcher: Launcher = (
+      await axios.get('https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher.json', {
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      })
+    ).data
+    const modpack: Modpack = (
+      await axios.get('https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack.json', {
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      })
+    ).data
 
     return {
       launcher,
@@ -25,7 +37,6 @@ export default defineNuxtComponent({
       'global-modpacks': [this.modpack],
     }
   },
-  mounted() {
-  }
+  mounted() {},
 })
 </script>

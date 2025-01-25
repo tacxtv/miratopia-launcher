@@ -18,9 +18,11 @@ export class MinecraftService {
   public static name = 'MinecraftService'
 
   public async fetchGithubFiles(modpack: Modpack): Promise<ModpackFile[]> {
-    const list = await fetch(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/files.json`).then((res) =>
-      res.json(),
-    )
+    const list = await fetch(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/files.json`, {
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    }).then((res) => res.json())
     return list
   }
 
@@ -28,8 +30,13 @@ export class MinecraftService {
     ipcMain.handle('launchMinecraft', async (_, modpack: Modpack) => {
       log.info('launchMinecraft', modpack.id)
 
-      modpack = (await axios.get(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/modpack.json`))
-        .data as Modpack
+      modpack = (
+        await axios.get(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${modpack.id}/modpack.json`, {
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        })
+      ).data as Modpack
 
       const launch = new Launch()
       const loader = {} as any
@@ -94,7 +101,7 @@ export class MinecraftService {
         screen: {
           width: store.get('launcher_resolution_width', 854) as number,
           height: store.get('launcher_resolution_height', 480) as number,
-          fullscreen: !!store.get('launcher_resolution_fullscreen', false),
+          fullscreen: false, //!!store.get('launcher_resolution_fullscreen', false),
         },
         memory: {
           max: store.get(modpack.name + '_maxMemory', modpack.minecraft.recommendedMemory || 2048) + 'M',
@@ -115,7 +122,7 @@ export class MinecraftService {
         sendMainWindowWebContent('windowLogEvent', { message: progressMsg })
         log.info(progressMsg)
       }
-      const throttledProgressEvent = throttle({ interval: 100 }, throttleProgressEvent)
+      const throttledProgressEvent = throttle({ interval: 50 }, throttleProgressEvent)
       launch.on('progress', (progress: number, size: number, element: string) => {
         throttledProgressEvent(progress, size, element)
       })
@@ -127,7 +134,7 @@ export class MinecraftService {
         sendMainWindowWebContent('windowLogEvent', { message: progressMsg })
         log.info(progressMsg)
       }
-      const throttledCheckEvent = throttle({ interval: 100 }, throttleCheckEvent)
+      const throttledCheckEvent = throttle({ interval: 50 }, throttleCheckEvent)
       launch.on('check', (progress: number, size: number, element: string) => {
         throttledCheckEvent(progress, size, element)
       })
