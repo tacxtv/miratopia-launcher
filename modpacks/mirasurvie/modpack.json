@@ -1,8 +1,8 @@
 {
-    "id": "miratopia",
-    "name": "Miratopia",
+    "id": "mirasurvie",
+    "name": "Mirasurvie",
     "default": true,
-    "description": "Modpack for Miratopia Saison 1",
+    "description": "Modpack for Mirasurvie 2025",
     "hidden": false,
     "minecraft": {
       "version": "1.20.1",
@@ -24,7 +24,7 @@
     "loaders": [
       {
         "type": "neoforge",
-        "version": "1.20.1-47.1.79"
+        "version": "1.20.1-47.1.106"
       }
     ],
     "files": [
