@@ -849,6 +849,12 @@
         "path": "mods/customportalapi-0.0.1-forge-1.20.jar",
         "size": 0,
         "url": "https://mediafilez.forgecdn.net/files/4704/980/customportalapi-0.0.1-forge-1.20.jar"
+      },
+      {
+        "hash": "",
+        "path": "mods/emi-1.1.19+1.20.1+forge.jar",
+        "size": 0,
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/GSmsesll/emi-1.1.19%2B1.20.1%2Bforge.jar"
       }
     ]
   }
