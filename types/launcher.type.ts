@@ -14,6 +14,10 @@ export type Launcher = {
         background: string
       }
     }
-    modpacks: string[]
+    modpacks: {
+      name: string
+      whitlisted: boolean
+      whitelist: string[]
+    }[]
   }
 }
