@@ -1,0 +1,4 @@
+modpacks/**/modrinth.index.json
+modpacks/**/modpack.json.*.old
+modpacks/**/extra.json
+modpacks/**/extra
