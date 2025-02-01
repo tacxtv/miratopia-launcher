@@ -68,7 +68,8 @@ export default defineNuxtComponent({
       return flow
     },
     defaultModpack(): Modpack {
-      return this.modpacks.find((modpack) => modpack.default) as Modpack
+      const mp = this.modpacks.find((modpack) => modpack.default) as Modpack
+      return mp || this.modpacks[0]
     },
   },
   setup() {
