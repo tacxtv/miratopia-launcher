@@ -15,8 +15,18 @@
             }
         },
         "modpacks": [
-            "miratopia",
-            "mirasurvie"
+            {
+                "name": "miratopia",
+                "whitelisted": false
+            },
+            {
+                "name": "miratopia",
+                "whitelisted": true,
+                "whitelist": [
+                    "tacxounet",
+                    "mrpazuzud"
+                ]
+            }
         ]
     }
 }
