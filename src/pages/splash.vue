@@ -3,7 +3,8 @@ div.fit.flex(:style='{flexFlow: "column", background: "url(" + launcher?.config?
   div.items-center.fit.justify-center.flex.gradient
     q-inner-loading(showing)
       q-spinner-box(color='white' size='120px')
-      h6.text-white.q-mt-md.q-mb-sm Vérification des mises à jour...
+      h6.text-white.q-mt-md.q-mb-sm Tentative de mise à jour...
+      small.text-white.q-mt-md.q-mb-sm Veuillez ne pas fermer le launcher !
   q-bar
     q-space
     small(v-text="'v' + packageVersion")
