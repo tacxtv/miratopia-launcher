@@ -13,6 +13,10 @@
             "splash": {
                 "background": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/splash.png"
             }
-        }
+        },
+        "modpacks": [
+            "miratopia",
+            "mirasurvie"
+        ]
     }
 }
