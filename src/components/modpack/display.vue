@@ -3,8 +3,8 @@ div.fit.flex(:style='{flexFlow: "column"}')
   div.fit.q-px-md.text-center.q-mt-lg
     q-img.q-ma-sm(src="https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/logo.png" height="auto" width="20%")
     q-img.q-ma-sm.q-mt-xl(src="https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/title.png" height="auto" width="70%")
-    //- h1.text-h4.text-center.q-mb-md(v-text='modpack.name')
-    //- small.text-center.q-mb-md(v-text='modpack.description')
+    h1.text-h4.text-center.q-mb-md(v-text='modpack.name')
+    small.text-center.q-mb-md(v-text='modpack.description')
   q-toolbar.q-mb-lg
     q-space
     q-btn.q-mx-sm(icon='mdi-cog' flat dense @click='openSettings')
@@ -46,8 +46,8 @@ export default defineNuxtComponent({
   }),
   methods: {
     openSettings() {
-      (this['settings-dialog'] as { data: boolean }).data = true;
-      (this['settings-tab'] as { data: string }).data = this.modpack.name;
+      ;(this['settings-dialog'] as { data: boolean }).data = true
+      ;(this['settings-tab'] as { data: string }).data = this.modpack.name
     },
     launchMinecraft() {
       this.logsDisplay = true
@@ -67,7 +67,7 @@ export default defineNuxtComponent({
       this.$nextTick(() => {
         const target = (this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.getScrollTarget()
         if (!target) return
-          ; (this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.setScrollPosition('vertical', target.scrollHeight, 0)
+        ;(this.$refs.chatScroll as InstanceType<typeof QScrollArea>)?.setScrollPosition('vertical', target.scrollHeight, 0)
       })
     })
     window.electron.onMinecraftStartup(() => {

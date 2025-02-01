@@ -22,8 +22,15 @@ export class MinecraftService {
       headers: {
         'Content-Type': 'application/json',
       },
-    }).then((res) => res.json())
-    return list
+    }).then(async (res) => {
+      try {
+        return await res.json()
+      } catch (e) {
+        return []
+      }
+    })
+
+    return [...list]
   }
 
   public async registerEvents(): Promise<void> {

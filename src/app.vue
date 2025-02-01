@@ -18,23 +18,29 @@ export default defineNuxtComponent({
         },
       })
     ).data
-    const modpack: Modpack = (
-      await axios.get('https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack.json', {
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      })
-    ).data
+
+    let modpack
+    const modpacks = []
+    for await (const mp of launcher?.config?.modpacks) {
+      const mpk: Modpack = (
+        await axios.get(`https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/${mp}/modpack.json`, {
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        })
+      ).data
+      modpacks.push(mpk)
+    }
 
     return {
       launcher,
-      modpack,
+      modpacks,
     }
   },
   provide() {
     return {
       'global-launcher': this.launcher,
-      'global-modpacks': [this.modpack],
+      'global-modpacks': this.modpacks,
     }
   },
   mounted() {},

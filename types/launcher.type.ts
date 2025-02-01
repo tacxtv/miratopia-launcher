@@ -14,5 +14,6 @@ export type Launcher = {
         background: string
       }
     }
+    modpacks: string[]
   }
 }

@@ -46,7 +46,6 @@ import type { Modpack } from '~~/types/modpack.type'
 export default defineNuxtComponent({
   inject: ['global-launcher', 'global-modpacks'],
   data: () => ({
-    tab: ref(''),
     videoPlayer: ref<HTMLVideoElement | null>(null),
     selectedVideo: '',
     settingsDialog: reactive({
@@ -73,6 +72,7 @@ export default defineNuxtComponent({
     },
   },
   setup() {
+    const tab = ref('')
     const videos = [
       {
         name: '/videos/Bateau_pirate.mp4',
@@ -166,6 +166,7 @@ export default defineNuxtComponent({
     const splitter = ref(25)
 
     return {
+      tab,
       videos,
       splitter,
       packageVersion: runtimeConfig.app.packageVersion,
