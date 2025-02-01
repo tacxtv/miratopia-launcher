@@ -1,7 +1,7 @@
 {
   "id": "miratopia",
   "name": "Miratopia",
-  "default": true,
+  "default": false,
   "description": "Modpack for Miratopia Saison 1",
   "hidden": false,
   "minecraft": {
