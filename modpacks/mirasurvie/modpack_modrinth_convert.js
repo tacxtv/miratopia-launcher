@@ -10,6 +10,41 @@ const crypto = require('crypto');
 
     const files = [];
     for (const file of modrinth.files || []) {
+        const filename = file.path.split('/').pop();
+
+        if (/.disabled$/.test(filename)) {
+            console.log(`Skipping ${filename}...`);
+            continue;
+        }
+
+        if (/.opt$/.test(filename)) {
+            console.log(`Make as optional ${filename}...`);
+            
+            files.push({
+                "hash": file.hashes.sha1,
+                "path": file.path.replace('.opt', ''),
+                "size": file.fileSize,
+                "url": file.downloads[0],
+                "optional": true,
+                "default": false,
+            })
+            continue;
+        }
+
+        if (/.optdef$/.test(filename)) {
+            console.log(`Make as optional ${filename}...`);
+            
+            files.push({
+                "hash": file.hashes.sha1,
+                "path": file.path.replace('.optdef', ''),
+                "size": file.fileSize,
+                "url": file.downloads[0],
+                "optional": true,
+                "default": true,
+            })
+            continue;
+        }
+
         files.push({
             "hash": file.hashes.sha1,
             "path": file.path,
