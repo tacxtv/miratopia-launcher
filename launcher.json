@@ -17,15 +17,15 @@
         "modpacks": [
             {
                 "name": "miratopia",
-                "whitelisted": false
-            },
-            {
-                "name": "mirasurvie",
                 "whitelisted": true,
                 "whitelist": [
                     "tacxouneta",
                     "mrpazuzud"
                 ]
+            },
+            {
+                "name": "mirasurvie",
+                "whitelisted": false
             }
         ]
     }
