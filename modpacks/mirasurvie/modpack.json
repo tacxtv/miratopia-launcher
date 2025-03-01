@@ -417,6 +417,12 @@
       "url": "https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar"
     },
     {
+      "hash": "9679f79b4d1faef392504356146d92fefd7ba108",
+      "path": "mods/ftb-xmod-compat-fabric-2.1.2.jar",
+      "size": 131043,
+      "url": "https://mediafilez.forgecdn.net/files/6046/19/ftb-xmod-compat-fabric-2.1.2.jar"
+    },
+    {
       "hash": "60448304b16d275de184006e792906557048a9e0",
       "path": "mods/geckolib-fabric-1.20.1-4.7.jar",
       "size": 1032026,
