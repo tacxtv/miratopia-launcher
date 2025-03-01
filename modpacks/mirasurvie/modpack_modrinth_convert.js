@@ -9,7 +9,7 @@ const crypto = require('crypto');
     console.log(`Checking modrinth files... (${modrinth.files.length})`);
     const modrinthFiles = (modrinth.files || []).sort((a, b) => `${a.path}`.localeCompare(`${b.path}`));
 
-    const files = [];
+    let files = [];
     for (const file of modrinthFiles) {
         const filename = file.path.split('/').pop();
 
@@ -98,6 +98,7 @@ const crypto = require('crypto');
     const targetFiles = [];
 
     console.log(`Checking ${files.length} files in modrinth index...`);
+    files = files.sort((a, b) => `${a.path}`.localeCompare(`${b.path}`));
     for (const file of files) {
         const modrinthFile = modpack.files.find(f => f.path === file.path);
 
