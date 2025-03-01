@@ -7,9 +7,10 @@ const crypto = require('crypto');
     const modrinth = JSON.parse(data);
 
     console.log(`Checking modrinth files... (${modrinth.files.length})`);
+    const modrinthFiles = (modrinth.files || []).sort((a, b) => `${a.path}`.localeCompare(`${b.path}`));
 
     const files = [];
-    for (const file of modrinth.files || []) {
+    for (const file of modrinthFiles) {
         const filename = file.path.split('/').pop();
 
         if (/.disabled$/.test(filename)) {
