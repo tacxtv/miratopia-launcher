@@ -123,13 +123,13 @@ export default defineNuxtComponent({
   },
   methods: {
     reinstallModpack() {
-      if (window.confirm("Voulez-vous vraiment réinstaller le modpack ?")) {
+      if (window.confirm('Voulez-vous vraiment réinstaller le modpack ?')) {
         //TODO: fix this
         window.electron.reinstallModpack(JSON.parse(JSON.stringify(this.modpack)))
       }
     },
     uninstallModpack() {
-      if (window.confirm("Vous êtes sur le point de supprimer le modpack, êtes-vous sûr ?")) {
+      if (window.confirm('Vous êtes sur le point de supprimer le modpack, êtes-vous sûr ?')) {
         //TODO: fix this
         window.electron.uninstallModpack(JSON.parse(JSON.stringify(this.modpack)))
       }
@@ -142,13 +142,13 @@ export default defineNuxtComponent({
       document.getElementById('file')?.click()
     },
     async clearFolderDialog() {
-      this.modpackJava.javaPath = '';
-      (document.getElementById('file') as HTMLInputElement).value = ''
+      this.modpackJava.javaPath = ''
+      ;(document.getElementById('file') as HTMLInputElement).value = ''
       window.electron.setModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)), '')
       this.$nextTick(async () => {
         //TODO: fix this
-        this.modpackJava.javaPath = await window.electron.getModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)));
-        (document.getElementById('file') as HTMLInputElement).value = this.modpackJava.javaPath
+        this.modpackJava.javaPath = await window.electron.getModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)))
+        ;(document.getElementById('file') as HTMLInputElement).value = this.modpackJava.javaPath
       })
     },
     async selectFolderDialog($event: Event) {
@@ -162,7 +162,7 @@ export default defineNuxtComponent({
         window.electron.setModpackJavaPath(JSON.parse(JSON.stringify(this.modpack)), this.modpackJava.javaPath)
         break
       }
-    }
+    },
   },
   async mounted() {
     //TODO: fix this

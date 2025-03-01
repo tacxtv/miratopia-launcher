@@ -13,7 +13,7 @@ export class SettingsEvent {
   public static name = 'SettingsEvent'
   public async registerEvents(): Promise<void> {
     ipcMain.handle('getModpackJavaPath', (_, modpack: Modpack) => {
-      return store.get(modpack.name + '_javaPath') || join(process.env.JAVA_HOME!, 'bin', 'java')
+      return store.get(modpack.name + '_javaPath') || process.env.JAVA_HOME ? join(`${process.env.JAVA_HOME}`, 'bin', 'java') : ''
     })
     ipcMain.on('setModpackJavaPath', (_, modpack: Modpack, val) => {
       store.set(modpack.name + '_javaPath', val ? join(val, 'java') : null)
