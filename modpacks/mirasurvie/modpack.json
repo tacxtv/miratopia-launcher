@@ -19,6 +19,9 @@
     "schematics",
     "saves",
     "local",
+    "ffmpeg-7.1.1-essentials_build",
+    "ffmpeg-7.1.1",
+    "ffmpeg",
     "servers.dat"
   ],
   "loaders": [
