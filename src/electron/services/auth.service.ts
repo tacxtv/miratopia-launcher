@@ -17,6 +17,7 @@ const store = new Store({
 let authWindowclosedByUser = true
 const CLIENT_ID = '7347d7b7-f14d-40c4-af19-f82204a7851e'
 const REDIRECT_URL = 'https://login.microsoftonline.com/common/oauth2/nativeclient'
+// @see https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
 
 export class AuthService {
   public static name = 'AuthService'
