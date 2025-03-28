@@ -21,6 +21,7 @@
     "local",
     ".replay_cache",
     "replay_recordings",
+    "replay_videos",
     "ffmpeg-7.1.1-essentials_build",
     "ffmpeg-7.1.1",
     "ffmpeg",
