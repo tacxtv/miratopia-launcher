@@ -55,10 +55,10 @@
       "default": false
     },
     {
-      "hash": "3706a67a12862d67f3ca5d14f4352c4c3f1b52b9",
-      "path": "mods/amendments-1.20-1.2.16-fabric.jar",
-      "size": 998413,
-      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/FI3j1cax/amendments-1.20-1.2.16-fabric.jar"
+      "hash": "350a8fb1cd16cbcc2b5d987462a5469a6259326e",
+      "path": "mods/amendments-1.20-1.2.19-fabric.jar",
+      "size": 998850,
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/E9PbJYi2/amendments-1.20-1.2.19-fabric.jar"
     },
     {
       "hash": "d0f11243f79c071416bbcee781ae93eb57a0283c",
@@ -67,16 +67,22 @@
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar"
     },
     {
-      "hash": "4c1e0f32922acf1ccb7458d825591424b6600f76",
-      "path": "mods/appliedenergistics2-fabric-15.3.3.jar",
-      "size": 9870445,
-      "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/Fb70Efd1/appliedenergistics2-fabric-15.3.3.jar"
+      "hash": "4e68d7fae25137d685e795f314d56c02d6a664fa",
+      "path": "mods/appliedenergistics2-fabric-15.3.4.jar",
+      "size": 9870505,
+      "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/a6ykDw4H/appliedenergistics2-fabric-15.3.4.jar"
     },
     {
       "hash": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d",
       "path": "mods/architectury-9.2.14-fabric.jar",
       "size": 585207,
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar"
+    },
+    {
+      "hash": "539bfb0f62404da8a5a9649e97015eb98f1813cb",
+      "path": "mods/argonauts-fabric-1.20.1-1.0.10.jar",
+      "size": 767610,
+      "url": "https://cdn.modrinth.com/data/bb2EpKpx/versions/wLI6JsqG/argonauts-fabric-1.20.1-1.0.10.jar"
     },
     {
       "hash": "53014ceff1e10085609c16adbe246df51113bfe9",
@@ -91,10 +97,10 @@
       "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/B5XgR60E/AttributeFix-Fabric-1.20.1-21.0.4.jar"
     },
     {
-      "hash": "e2152eb4728a64ec0e69b920c8b7ea2348fe2d7d",
-      "path": "mods/balm-fabric-1.20.1-7.3.11.jar",
-      "size": 411523,
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar"
+      "hash": "7a12c015b19a2a4f4a4737abc6529b856008a2d4",
+      "path": "mods/balm-fabric-1.20.1-7.3.27.jar",
+      "size": 503099,
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UqThQVCU/balm-fabric-1.20.1-7.3.27.jar"
     },
     {
       "hash": "6bdf69749295de368fac4ee1822c2517a1f345a8",
@@ -123,6 +129,12 @@
       "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/1yJzEpzh/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
       "optional": true,
       "default": true
+    },
+    {
+      "hash": "69d21c09bc8b3beccca01e017bd84107cd3dd2be",
+      "path": "mods/blabber-1.6.1-mc1.20.1-standalone.jar",
+      "size": 328074,
+      "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/RP6h0A5E/blabber-1.6.1-mc1.20.1-standalone.jar"
     },
     {
       "hash": "bdc0285d4209c529019ae1c5f1f0af0e3a3cffa6",
@@ -155,6 +167,12 @@
       "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.15.jar",
       "size": 1424731,
       "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/jKWjDDXr/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.15.jar"
+    },
+    {
+      "hash": "fb79e31c80030f6d6b1672a33cba48813339d0e8",
+      "path": "mods/cadmus-fabric-1.20.1-1.0.8.jar",
+      "size": 537688,
+      "url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/kzMsPbNB/cadmus-fabric-1.20.1-1.0.8.jar"
     },
     {
       "hash": "8f3858977becfbc26f67f4a5579881e15e07d69d",
@@ -555,10 +573,10 @@
       "url": "https://cdn.modrinth.com/data/cV5LQXKx/versions/bNIWDoVP/letsdo-brewery-fabric-1.1.9.jar"
     },
     {
-      "hash": "d570b10466352e9be4c209245f1e0fdcf8e97cb4",
-      "path": "mods/letsdo-farm_and_charm-fabric-1.0.5.jar",
-      "size": 3121612,
-      "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/CQF9bIlU/letsdo-farm_and_charm-fabric-1.0.5.jar"
+      "hash": "0dd6979fb2100fb8d8d35904dfc37a3e0004159c",
+      "path": "mods/letsdo-farm_and_charm-fabric-1.0.6.jar",
+      "size": 3142006,
+      "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/zgrq8R2H/letsdo-farm_and_charm-fabric-1.0.6.jar"
     },
     {
       "hash": "aad9dff156a6f263986306b4591460c282fb53aa",
@@ -567,10 +585,10 @@
       "url": "https://cdn.modrinth.com/data/3JQDJrYW/versions/oG5DC7IV/letsdo-furniture-fabric-1.0.4.jar"
     },
     {
-      "hash": "deb5ef539c4047980f6c6cb5d06a74f2ad427956",
-      "path": "mods/letsdo-vinery-fabric-1.4.38.jar",
-      "size": 4178208,
-      "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/ZnUrEL2E/letsdo-vinery-fabric-1.4.38.jar"
+      "hash": "3e05d660f893750972661176d90e981f87bf0812",
+      "path": "mods/letsdo-vinery-fabric-1.4.39.jar",
+      "size": 4178439,
+      "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/WdjalkV8/letsdo-vinery-fabric-1.4.39.jar"
     },
     {
       "hash": "68bc88228d567ec0c56dd5d308d51c4cb5eab3ff",
@@ -753,10 +771,10 @@
       "url": "https://cdn.modrinth.com/data/Cw8IlnGM/versions/2LFCQnd1/serversleep-datapack.jar"
     },
     {
-      "hash": "0b56180ca8824f582d989c343960356a239db099",
-      "path": "mods/skinlayers3d-fabric-1.7.4-mc1.20.1.jar",
-      "size": 480015,
-      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/5edNc5ga/skinlayers3d-fabric-1.7.4-mc1.20.1.jar",
+      "hash": "b2c78a888d0ee6f85836970daa65cb242366c56f",
+      "path": "mods/skinlayers3d-fabric-1.7.5-mc1.20.1.jar",
+      "size": 482699,
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/KATG2kI3/skinlayers3d-fabric-1.7.5-mc1.20.1.jar",
       "optional": true,
       "default": true
     },
