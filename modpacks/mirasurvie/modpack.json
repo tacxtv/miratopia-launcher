@@ -175,12 +175,6 @@
       "url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/kzMsPbNB/cadmus-fabric-1.20.1-1.0.8.jar"
     },
     {
-      "hash": "8f3858977becfbc26f67f4a5579881e15e07d69d",
-      "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
-      "size": 443033,
-      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/Mkla4B3q/carryon-fabric-1.20.1-2.1.2.7.jar"
-    },
-    {
       "hash": "a6aa186a3600ae8f1cb019924d3f7079cb8fbee7",
       "path": "mods/chat_heads-0.13.13-fabric-1.20.jar",
       "size": 77137,
@@ -273,34 +267,16 @@
       "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar"
     },
     {
-      "hash": "93ae5c6accda6759720bd50d997de1cbcae033e4",
-      "path": "mods/createdieselgenerators-fabric-restitched-rel4.jar",
-      "size": 1934858,
-      "url": "https://cdn.modrinth.com/data/zMna5NU5/versions/D9kmcPoc/createdieselgenerators-fabric-restitched-rel4.jar"
-    },
-    {
       "hash": "a4a30e15e30e4b3d4f8dbf3f027f96f557811796",
       "path": "mods/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar",
       "size": 1208841,
       "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Ex1iqbF5/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar"
     },
     {
-      "hash": "28f45ffa819e310e0df0e652b7a971db993fa008",
-      "path": "mods/creeperoverhaul-3.0.2-fabric.jar",
-      "size": 1451306,
-      "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Mw0Hq1SZ/creeperoverhaul-3.0.2-fabric.jar"
-    },
-    {
       "hash": "eca64d8dea9d47deb85889b11436ac0d171d1944",
       "path": "mods/datapackportals-1.2.3-1.20.jar",
       "size": 242922,
       "url": "https://cdn.modrinth.com/data/LwFVdT1s/versions/wuqSq1tI/datapackportals-1.2.3-1.20.jar"
-    },
-    {
-      "hash": "192203ebe38c8cb9dc79b581b20e356f43ac82b0",
-      "path": "mods/doaddonfluids-fabric-1.3.0.jar",
-      "size": 88212,
-      "url": "https://cdn.modrinth.com/data/PGVF51co/versions/VyBqXrqd/doaddonfluids-fabric-1.3.0.jar"
     },
     {
       "hash": "ff0cfccfe8bdd2eb94263275e74d569e534d3fe4",
@@ -343,12 +319,6 @@
       "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
       "size": 873611,
       "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/NFPdxMt9/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
-    },
-    {
-      "hash": "27175c6a481d19f27ca2bdfe02a618e4daa0f78d",
-      "path": "mods/EmoteTweaks-4.0.3.37.jar",
-      "size": 36065,
-      "url": "https://cdn.modrinth.com/data/QfXPAsap/versions/iHqS2PKh/EmoteTweaks-4.0.3.37.jar"
     },
     {
       "hash": "2e622aefb07caef0686c0a4c36952521edbd840a",
@@ -495,12 +465,6 @@
       "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/oVk9fOQD/immersive_melodies-0.3.0%2B1.20.1-fabric.jar"
     },
     {
-      "hash": "484556937b1b2dde2682144e7953e79bff717104",
-      "path": "mods/Incendium_1.20.x_v5.3.5.jar",
-      "size": 4638945,
-      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar"
-    },
-    {
       "hash": "a2de9ba15f155b09626995ad58b0e23803b05fe6",
       "path": "mods/indium-1.0.34+mc1.20.1.jar",
       "size": 105359,
@@ -645,12 +609,6 @@
       "path": "mods/moonlight-1.20-2.13.58-fabric.jar",
       "size": 1204179,
       "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Wjdv40t5/moonlight-1.20-2.13.58-fabric.jar"
-    },
-    {
-      "hash": "a924bd79329a2d8dd7e3362f68127cb32b647b3c",
-      "path": "mods/Multiworld-Fabric-bundle.jar",
-      "size": 608378,
-      "url": "https://cdn.modrinth.com/data/fgvoNDL1/versions/bSP1SNPf/Multiworld-Fabric-bundle.jar"
     },
     {
       "hash": "309142b01014a047cf8cbdded96b085ca59fac85",
