@@ -599,6 +599,12 @@
       "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar"
     },
     {
+      "hash": "d0920929c06b0e64bcfe0d313e7090e6a32f6f5d",
+      "path": "mods/miramod-1.0.0-fabric-1.20.1.jar",
+      "size": 236657,
+      "url": "https://github.com/tacxtv/miratopia-launcher/raw/refs/heads/config/modpacks/mirasurvie/internal/miramod-1.0.0-fabric-1.20.1.jar"
+    },
+    {
       "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
       "path": "mods/modmenu-7.2.2.jar",
       "size": 721366,
@@ -662,9 +668,7 @@
       "hash": "8cfcbc17c7ffafb5558f5e78c3b1fd9105d4f847",
       "path": "mods/probejs-6.0.0-fabric.jar",
       "size": 981009,
-      "url": "https://cdn.modrinth.com/data/JJNYRb4B/versions/yzoeAC7L/probejs-6.0.0-fabric.jar",
-      "optional": true,
-      "default": false
+      "url": "https://cdn.modrinth.com/data/JJNYRb4B/versions/yzoeAC7L/probejs-6.0.0-fabric.jar"
     },
     {
       "hash": "d9c8ad40fcf20016d4b4764f8001aacfc02f16b9",
@@ -694,9 +698,7 @@
       "hash": "b94da2b51ad49b3bed931f88e481cfec9aa16c52",
       "path": "mods/replaymod-1.20.1-2.6.21.jar",
       "size": 14074506,
-      "url": "https://minio.replaymod.com/replaymod/replaymod-1.20.1-2.6.21.jar",
-      "optional": true,
-      "default": false
+      "url": "https://minio.replaymod.com/replaymod/replaymod-1.20.1-2.6.21.jar"
     },
     {
       "hash": "d9633701cfd1cb29c1e94655e20a61e29a4021a1",
@@ -732,9 +734,7 @@
       "hash": "b2c78a888d0ee6f85836970daa65cb242366c56f",
       "path": "mods/skinlayers3d-fabric-1.7.5-mc1.20.1.jar",
       "size": 482699,
-      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/KATG2kI3/skinlayers3d-fabric-1.7.5-mc1.20.1.jar",
-      "optional": true,
-      "default": true
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/KATG2kI3/skinlayers3d-fabric-1.7.5-mc1.20.1.jar"
     },
     {
       "hash": "890864a6ab5d77d57d8d757bcc31f5379b5a11b1",
