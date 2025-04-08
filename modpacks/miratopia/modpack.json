@@ -2,7 +2,7 @@
   "id": "miratopia",
   "name": "Miratopia",
   "default": false,
-  "description": "Modpack for Miratopia Saison 1",
+  "description": "<h2>Miratopia - Saison 1 : Les Îles de l'Aube</h2>\n<p>Bienvenue dans <strong>Miratopia</strong>, un monde fracturé par une erreur scientifique, où la terre s'est brisée en une myriade d'îles flottantes. Incarnez un survivant et embarquez pour une aventure steampunk unique à bord de votre navire personnel. Explorez la capitale de <strong>Fraktalis</strong>, établissez des colonies sur les îles inexplorées, collectez des ressources rares et percez les mystères laissés par les anciens.</p>\n<ul>\n<li>💠 Quêtes scénarisées</li>\n<li>⚙️ Univers steampunk immersif</li>\n<li>⚔️ Combats, exploration, et alliances pour survivre</li>\n<li>🚢 Construisez, explorez, dominez les cieux de Miratopia !</li>\n</ul>\n<p>La saison 1 marque le début de votre légende. Frayez-vous un chemin dans les airs, bâtissez votre empire, et écrivez l’histoire de <strong>Miratopia</strong>.</p>\n<p><em>Prêt à embarquer ?</em><br>\n<strong>Bienvenue dans l’aventure.</strong></p>",
   "hidden": false,
   "minecraft": {
     "version": "1.20.1",
