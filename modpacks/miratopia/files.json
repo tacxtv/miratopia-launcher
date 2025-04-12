@@ -2731,8 +2731,8 @@
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_air_heure.ogg",
-    "size": 911308,
-    "hash": "dd7d03dc94cbbc6be4432d87dde3bc2109675008",
+    "size": 806496,
+    "hash": "6acb781799c9d568f3ce2d9c6444dfb66e97675e",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_air_heure.ogg"
   },
   {
@@ -3043,8 +3043,8 @@
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_kronik_euse.ogg",
-    "size": 895056,
-    "hash": "445f93630361f5301fdf1ab2184ea63ae0772cad",
+    "size": 843490,
+    "hash": "40ddd91808f24efe130462baee5ee8362facefc9",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/resources/minecraft/sounds/custom/pnj_kronik_euse.ogg"
   },
   {
@@ -7021,8 +7021,8 @@
   },
   {
     "path": "servers.dat",
-    "size": 91,
-    "hash": "96ea54fb980bcd5de76aa9e5663611f86e2312d9",
+    "size": 89,
+    "hash": "e69e2ec4c178cf3eb71a69dcc01c004c063bc9b2",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/miratopia/modpack/servers.dat"
   }
 ]
