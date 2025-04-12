@@ -629,10 +629,10 @@
       "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar"
     },
     {
-      "hash": "d0920929c06b0e64bcfe0d313e7090e6a32f6f5d",
-      "path": "mods/miramod-1.0.0-fabric-1.20.1.jar",
-      "size": 236657,
-      "url": "https://github.com/tacxtv/miratopia-launcher/raw/refs/heads/config/modpacks/mirasurvie/internal/miramod-1.0.0-fabric-1.20.1.jar"
+      "hash": "33f802a5f5cb95ce66bf8927d4cca2bae56486cf",
+      "path": "mods/miramod-1.0.1-fabric-1.20.1.jar",
+      "size": 274551,
+      "url": "https://github.com/tacxtv/miratopia-launcher/raw/refs/heads/config/modpacks/mirasurvie/internal/miramod-1.0.1-fabric-1.20.1.jar"
     },
     {
       "hash": "20d3ac96877b52e82dc52e42115a51dc3c2d4192",
