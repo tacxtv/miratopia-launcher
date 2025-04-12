@@ -1,0 +1,8 @@
+{
+  "custom.boss_academy_phase_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/boss_academy_phase_1"
+    ]
+  }
+}
