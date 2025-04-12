@@ -163,6 +163,12 @@
       "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar"
     },
     {
+      "hash": "96d1e220f2697a0c2a63fca8eca2b1690d14ca4e",
+      "path": "mods/charmofundying-fabric-6.5.0%2B1.20.1.jar",
+      "size": 402847,
+      "url": "https://cdn.modrinth.com/data/b5GyyYkp/versions/bRynnjen/charmofundying-fabric-6.5.0%2B1.20.1.jar"
+    },
+    {
       "hash": "a6aa186a3600ae8f1cb019924d3f7079cb8fbee7",
       "path": "mods/chat_heads-0.13.13-fabric-1.20.jar",
       "size": 77137,
@@ -417,6 +423,12 @@
       "url": "https://mediafilez.forgecdn.net/files/6046/19/ftb-xmod-compat-fabric-2.1.2.jar"
     },
     {
+      "hash": "d140b498b1a5c13f740af480bd00d46e9651d98d",
+      "path": "mods/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
+      "size": 163628,
+      "url": "https://cdn.modrinth.com/data/6Z1o0Fxu/versions/BZH4ySKM/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar"
+    },
+    {
       "hash": "93f08f388cc2278e301a5efd2423f6751fc522e8",
       "path": "mods/geckolib-fabric-1.20.1-4.7.1.2.jar",
       "size": 1042863,
@@ -599,6 +611,12 @@
       "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/udi9KR9R/lootr-fabric-1.20-0.7.35.85.jar"
     },
     {
+      "hash": "891e2404c0f9790e704e29faa98241178e29fc20",
+      "path": "mods/LuckPerms-Fabric-5.4.102.jar",
+      "size": 1551904,
+      "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/7PNj6nCm/LuckPerms-Fabric-5.4.102.jar"
+    },
+    {
       "hash": "94d4dd8a82e493d956b423019134d8c48ee737be",
       "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
       "size": 545403,
@@ -633,6 +651,14 @@
       "path": "mods/moonlight-1.20-2.13.81-fabric.jar",
       "size": 1231422,
       "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/IECRKQk9/moonlight-1.20-2.13.81-fabric.jar"
+    },
+    {
+      "hash": "75aa4f70fbe717d46cd60083fca0aa869c99304a",
+      "path": "mods/moreoverlays-1.22.4.2-fabric.jar",
+      "size": 70864,
+      "url": "https://cdn.modrinth.com/data/Thy5Pqut/versions/mXJwWCXu/moreoverlays-1.22.4.2-fabric.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "e948581c7b7b0b30b5fb1dc6f3df65c229296c1c",
@@ -802,7 +828,7 @@
       "size": 203161,
       "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/LrmG4rhi/sound-physics-remastered-fabric-1.20.1-1.4.12.jar",
       "optional": true,
-      "default": true
+      "default": false
     },
     {
       "hash": "252de323db10d2b49ef74f8e7a6a5c72929be140",
