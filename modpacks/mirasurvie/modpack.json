@@ -41,12 +41,6 @@
       "url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/N41sUidZ/%5Bfabric%5Dctov-3.4.11.jar"
     },
     {
-      "hash": "de8221f7235a8f529ef031ae019a90f8b7d4f429",
-      "path": "mods/1.20.1-1.20.1-0.3.jar",
-      "size": 58684,
-      "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/Zl9NhRSB/1.20.1-1.20.1-0.3.jar"
-    },
-    {
       "hash": "ae23c5ac1ec0097631f9f4eabfd0c2f8291085f8",
       "path": "mods/AmbientSounds_FABRIC_v6.1.8_mc1.20.1.jar",
       "size": 83889169,
@@ -89,6 +83,12 @@
       "path": "mods/AttributeFix-Fabric-1.20.1-21.0.4.jar",
       "size": 17975,
       "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/B5XgR60E/AttributeFix-Fabric-1.20.1-21.0.4.jar"
+    },
+    {
+      "hash": "87b7ef4e9c9bff0fd8cdcc79156e9c7ac7b26690",
+      "path": "mods/badpackets-fabric-0.4.3.jar",
+      "size": 27655,
+      "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/JjLWLyDz/badpackets-fabric-0.4.3.jar"
     },
     {
       "hash": "7a12c015b19a2a4f4a4737abc6529b856008a2d4",
@@ -161,12 +161,6 @@
       "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
       "size": 1426500,
       "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar"
-    },
-    {
-      "hash": "fb79e31c80030f6d6b1672a33cba48813339d0e8",
-      "path": "mods/cadmus-fabric-1.20.1-1.0.8.jar",
-      "size": 537688,
-      "url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/kzMsPbNB/cadmus-fabric-1.20.1-1.0.8.jar"
     },
     {
       "hash": "a6aa186a3600ae8f1cb019924d3f7079cb8fbee7",
@@ -265,6 +259,12 @@
       "path": "mods/CreativeCore_FABRIC_v2.12.33_mc1.20.1.jar",
       "size": 1211437,
       "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/pcUy2Oig/CreativeCore_FABRIC_v2.12.33_mc1.20.1.jar"
+    },
+    {
+      "hash": "624b66b6e49cf8ffb01e4417a131b4a65998b751",
+      "path": "mods/daily_rewards-1.20.1-5.3.1.jar",
+      "size": 157636,
+      "url": "https://cdn.modrinth.com/data/IsAmLg1d/versions/uABu9yno/daily_rewards-1.20.1-5.3.1.jar"
     },
     {
       "hash": "eca64d8dea9d47deb85889b11436ac0d171d1944",
@@ -423,6 +423,14 @@
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ytGMpRks/geckolib-fabric-1.20.1-4.7.1.2.jar"
     },
     {
+      "hash": "cb8d7212d88eea2848cc1a5175c3bea4d3b8a30f",
+      "path": "mods/GeckoLibIrisCompat-Fabric-1.0.0.jar",
+      "size": 6202,
+      "url": "https://cdn.modrinth.com/data/TbriQCWD/versions/3Q4qBNwT/GeckoLibIrisCompat-Fabric-1.0.0.jar",
+      "optional": true,
+      "default": true
+    },
+    {
       "hash": "0d4c5b1a39746a3f5bec08b876a484ac5a6d248f",
       "path": "mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar",
       "size": 322107,
@@ -459,6 +467,12 @@
       "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/o7JhV7ev/immersive_melodies-0.4.0%2B1.20.1-fabric.jar"
     },
     {
+      "hash": "484556937b1b2dde2682144e7953e79bff717104",
+      "path": "mods/Incendium_1.20.x_v5.3.5.jar",
+      "size": 4638945,
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar"
+    },
+    {
       "hash": "d824614e7a173d273167969f427702f51846aca7",
       "path": "mods/indium-1.0.36+mc1.20.1.jar",
       "size": 105382,
@@ -468,7 +482,17 @@
       "hash": "880c0b9ce38bb4997645793407c1801df83f4233",
       "path": "mods/iris-1.7.6+mc1.20.1.jar",
       "size": 2726899,
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar"
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar",
+      "optional": true,
+      "default": true
+    },
+    {
+      "hash": "3a6a2d277ef215bf6f0b1a81eb2ffce7553d96ce",
+      "path": "mods/iris-flywheel-compat-fabric1.20.1+1.1.4.jar",
+      "size": 91535,
+      "url": "https://cdn.modrinth.com/data/ndHYMY2K/versions/v3unHP1U/iris-flywheel-compat-fabric1.20.1%2B1.1.4.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "511ff9de2b9322089e769433f8613f3ac16bdade",
@@ -593,6 +617,12 @@
       "url": "https://github.com/tacxtv/miratopia-launcher/raw/refs/heads/config/modpacks/mirasurvie/internal/miramod-1.0.0-fabric-1.20.1.jar"
     },
     {
+      "hash": "20d3ac96877b52e82dc52e42115a51dc3c2d4192",
+      "path": "mods/modernfix-fabric-5.21.0+mc1.20.1.jar",
+      "size": 507598,
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/srmUM7tY/modernfix-fabric-5.21.0%2Bmc1.20.1.jar"
+    },
+    {
       "hash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
       "path": "mods/modmenu-7.2.2.jar",
       "size": 721366,
@@ -621,6 +651,12 @@
       "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
       "size": 619812,
       "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/HeZZR2kF/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
+    },
+    {
+      "hash": "de8221f7235a8f529ef031ae019a90f8b7d4f429",
+      "path": "mods/only-hammers-and-excavators-1.20.1-1.20.1-0.3.jar",
+      "size": 58684,
+      "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/Zl9NhRSB/1.20.1-1.20.1-0.3.jar"
     },
     {
       "hash": "be88938ca5df78271e64bc9f85c3575754f33e2a",
