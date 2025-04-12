@@ -1,8 +1,14 @@
 {
-  "custom.boss_academy_phase_1": {
+  "custom.pnj_zoopie_start": {
     "category": "neutral",
     "sounds": [
-      "custom/boss_academy_phase_1"
+      "custom/pnj_zoopie_start"
+    ]
+  },
+  "custom.pnj_zoopie_end": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_zoopie_end"
     ]
   }
 }
