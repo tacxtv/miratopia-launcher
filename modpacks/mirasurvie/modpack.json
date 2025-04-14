@@ -61,12 +61,6 @@
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar"
     },
     {
-      "hash": "4e68d7fae25137d685e795f314d56c02d6a664fa",
-      "path": "mods/appliedenergistics2-fabric-15.3.4.jar",
-      "size": 9870505,
-      "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/a6ykDw4H/appliedenergistics2-fabric-15.3.4.jar"
-    },
-    {
       "hash": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d",
       "path": "mods/architectury-9.2.14-fabric.jar",
       "size": 585207,
@@ -417,12 +411,6 @@
       "url": "https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar"
     },
     {
-      "hash": "9679f79b4d1faef392504356146d92fefd7ba108",
-      "path": "mods/ftb-xmod-compat-fabric-2.1.2.jar",
-      "size": 131043,
-      "url": "https://mediafilez.forgecdn.net/files/6046/19/ftb-xmod-compat-fabric-2.1.2.jar"
-    },
-    {
       "hash": "d140b498b1a5c13f740af480bd00d46e9651d98d",
       "path": "mods/ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
       "size": 163628,
@@ -440,7 +428,7 @@
       "size": 6202,
       "url": "https://cdn.modrinth.com/data/TbriQCWD/versions/3Q4qBNwT/GeckoLibIrisCompat-Fabric-1.0.0.jar",
       "optional": true,
-      "default": true
+      "default": false
     },
     {
       "hash": "0d4c5b1a39746a3f5bec08b876a484ac5a6d248f",
@@ -491,6 +479,14 @@
       "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/nQHYSjxO/indium-1.0.36%2Bmc1.20.1.jar"
     },
     {
+      "hash": "950fb274754fbab3e5ebb369da9544c68a82b37d",
+      "path": "mods/iridium_exporter-fabric-1.20.1-1.0.0.jar",
+      "size": 52964,
+      "url": "https://cdn.modrinth.com/data/mFVlWMwW/versions/18k8NqWS/iridium_exporter-fabric-1.20.1-1.0.0.jar",
+      "optional": true,
+      "default": false
+    },
+    {
       "hash": "880c0b9ce38bb4997645793407c1801df83f4233",
       "path": "mods/iris-1.7.6+mc1.20.1.jar",
       "size": 2726899,
@@ -504,7 +500,7 @@
       "size": 91535,
       "url": "https://cdn.modrinth.com/data/ndHYMY2K/versions/v3unHP1U/iris-flywheel-compat-fabric1.20.1%2B1.1.4.jar",
       "optional": true,
-      "default": true
+      "default": false
     },
     {
       "hash": "511ff9de2b9322089e769433f8613f3ac16bdade",
@@ -677,6 +673,12 @@
       "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
       "size": 619812,
       "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/HeZZR2kF/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
+    },
+    {
+      "hash": "725d6ae05f78b2007a4dfa52c238efa5ea52548b",
+      "path": "mods/observable-4.4.2.jar",
+      "size": 475232,
+      "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/MprPnUls/observable-4.4.2.jar"
     },
     {
       "hash": "de8221f7235a8f529ef031ae019a90f8b7d4f429",
@@ -879,6 +881,12 @@
       "path": "mods/The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
       "size": 10272185,
       "url": "https://cdn.modrinth.com/data/QivVPB8W/versions/Hpn2GMza/The_Graveyard_3.1_%28FABRIC%29_for_1.20.1.jar"
+    },
+    {
+      "hash": "adef379e843b6788f0743b035e4658e043baf2f5",
+      "path": "mods/toms_storage_fabric-1.20-1.7.1.jar",
+      "size": 1537265,
+      "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/nvqkBIsD/toms_storage_fabric-1.20-1.7.1.jar"
     },
     {
       "hash": "2b42e2038ba48be0df0063e1319db0b571d94dd6",
