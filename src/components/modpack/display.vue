@@ -1,10 +1,11 @@
 <template lang="pug">
 div.fit.flex(:style='{flexFlow: "column"}')
-  div.fit.q-px-md.text-center.q-mt-lg
+  div.fit.q-px-md.text-center.q-mt-lg(:style='{position: "relative"}')
     q-img.q-ma-sm(src="https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/logo.png" height="auto" width="20%")
     q-img.q-ma-sm.q-mt-xl(src="https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/launcher/title.png" height="auto" width="70%")
-    h1.text-h4.text-center.q-mb-md(v-text='modpack.name')
-    small.text-center.q-mb-md(v-text='modpack.description')
+    q-img(:src="'https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/' + modpack.id + '/icon.png'" height="auto" width="100px")
+
+  .text-center.q-mb-md.q-px-md(v-html='modpack.description' :style='{minHeight: "125px", overflowY: "auto"}')
   q-toolbar.q-mb-lg
     q-space
     q-btn.q-mx-sm(icon='mdi-cog' flat dense @click='openSettings')

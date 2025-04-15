@@ -37,6 +37,7 @@ export default defineNuxtComponent({
           },
         })
       ).data
+
       if (mpk.whitelist) {
         if (mpk.whitelist.includes((await getAccount(currentAccount))?.username.toLowerCase())) {
           modpacks.push(mpk)

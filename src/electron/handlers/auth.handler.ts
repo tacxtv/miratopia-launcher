@@ -10,7 +10,7 @@ export class AuthHandler {
   public constructor(
     protected clientId: string,
     protected redirectUri: string,
-  ) {}
+  ) { }
 
   public get forwardUrl() {
     return [
@@ -21,6 +21,7 @@ export class AuthHandler {
         `redirect_uri=${this.redirectUri}`,
         'response_mode=fragment',
         'scope=XboxLive.signin%20offline_access',
+        'prompt=select_account',
       ].join('&'),
     ].join('?')
   }
