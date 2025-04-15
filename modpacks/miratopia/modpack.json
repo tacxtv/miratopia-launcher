@@ -9,7 +9,7 @@
     "recommendedMemory": 4096
   },
   "whitelist": [
-    "Tacxounet",
+    "tacxounet"
   ],
   "ignoredFiles": [
     "loadmyresources",
