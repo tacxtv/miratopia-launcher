@@ -351,6 +351,12 @@
       "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar"
     },
     {
+      "hash": "1c095441197baf82fe7589b327178ad752b63afd",
+      "path": "mods/fancymenu_fabric_3.5.0_MC_1.20.1.jar",
+      "size": 3270277,
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ylaDseuQ/fancymenu_fabric_3.5.0_MC_1.20.1.jar"
+    },
+    {
       "hash": "301ac7ad0fb04171d8d2f37c2d92e2c821e3f0f3",
       "path": "mods/FarmersDelight-1.20.1-2.3.0+refabricated.jar",
       "size": 8012818,
