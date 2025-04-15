@@ -8,6 +8,9 @@
     "version": "1.20.1",
     "recommendedMemory": 4096
   },
+  "whitelist": [
+    "Tacxounet",
+  ],
   "ignoredFiles": [
     "loadmyresources",
     "$onlinedisplays",
