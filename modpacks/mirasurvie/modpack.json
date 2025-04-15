@@ -119,12 +119,6 @@
       "default": true
     },
     {
-      "hash": "69d21c09bc8b3beccca01e017bd84107cd3dd2be",
-      "path": "mods/blabber-1.6.1-mc1.20.1-standalone.jar",
-      "size": 328074,
-      "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/RP6h0A5E/blabber-1.6.1-mc1.20.1-standalone.jar"
-    },
-    {
       "hash": "bdc0285d4209c529019ae1c5f1f0af0e3a3cffa6",
       "path": "mods/bobby-5.0.1.jar",
       "size": 799098,
