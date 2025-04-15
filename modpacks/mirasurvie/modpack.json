@@ -479,14 +479,6 @@
       "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/nQHYSjxO/indium-1.0.36%2Bmc1.20.1.jar"
     },
     {
-      "hash": "950fb274754fbab3e5ebb369da9544c68a82b37d",
-      "path": "mods/iridium_exporter-fabric-1.20.1-1.0.0.jar",
-      "size": 52964,
-      "url": "https://cdn.modrinth.com/data/mFVlWMwW/versions/18k8NqWS/iridium_exporter-fabric-1.20.1-1.0.0.jar",
-      "optional": true,
-      "default": false
-    },
-    {
       "hash": "880c0b9ce38bb4997645793407c1801df83f4233",
       "path": "mods/iris-1.7.6+mc1.20.1.jar",
       "size": 2726899,
