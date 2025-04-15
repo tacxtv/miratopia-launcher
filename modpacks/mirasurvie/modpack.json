@@ -513,6 +513,12 @@
       "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/vXiIlQ0y/Kiwi-1.20.1-Fabric-11.8.28.jar"
     },
     {
+      "hash": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d",
+      "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "size": 892067,
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+    },
+    {
       "hash": "4d499819effd8afe811e5d93952fcc46765a00df",
       "path": "mods/krypton-0.2.3.jar",
       "size": 185895,
@@ -609,6 +615,12 @@
       "path": "mods/malilib-fabric-1.20.1-0.16.3.jar",
       "size": 545403,
       "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/V7yLDtJV/malilib-fabric-1.20.1-0.16.3.jar"
+    },
+    {
+      "hash": "15eeff0c0fd8b4734492915c656077592b2d9e67",
+      "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "size": 39696,
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
     },
     {
       "hash": "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e",
