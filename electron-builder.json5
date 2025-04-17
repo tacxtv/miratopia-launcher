@@ -21,7 +21,8 @@
   // },
   "linux": {
     "target": ["AppImage", "snap"],
-    "icon": "public/logo.png"
+    "icon": "public/logo.png",
+    "executableName": "miratopia-launcher"
   },
   win: {
     icon: 'public/logo.ico',
