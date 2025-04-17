@@ -20,7 +20,15 @@
   //   ]
   // },
   "linux": {
-    "target": ["AppImage", "snap"],
+    "target": [
+    {
+      "target": "AppImage"
+    },
+    {
+      "target": "snap",
+      "artifactName": "miratopia-launcher-${version}_${arch}.snap"
+    },
+  ],
     "icon": "public/logo.png",
     "executableName": "miratopia-launcher"
   },
