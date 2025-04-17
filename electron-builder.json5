@@ -21,7 +21,7 @@
   // },
   "linux": {
     "target": ["AppImage", "snap"],
-    "icon": "public/logo.ico"
+    "icon": "public/logo.png"
   },
   win: {
     icon: 'public/logo.ico',
