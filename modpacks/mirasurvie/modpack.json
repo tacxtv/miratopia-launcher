@@ -656,9 +656,13 @@
       "hash": "75aa4f70fbe717d46cd60083fca0aa869c99304a",
       "path": "mods/moreoverlays-1.22.4.2-fabric.jar",
       "size": 70864,
-      "url": "https://cdn.modrinth.com/data/Thy5Pqut/versions/mXJwWCXu/moreoverlays-1.22.4.2-fabric.jar",
-      "optional": true,
-      "default": false
+      "url": "https://cdn.modrinth.com/data/Thy5Pqut/versions/mXJwWCXu/moreoverlays-1.22.4.2-fabric.jar"
+    },
+    {
+      "hash": "dc3261ad10b14badb5f9c5d750b74b1c6f144508",
+      "path": "mods/multiworldborders-1.6.2-fabric-1.20.jar",
+      "size": 30971,
+      "url": "https://cdn.modrinth.com/data/M7MroYMU/versions/rH2c52Rr/multiworldborders-1.6.2-fabric-1.20.jar"
     },
     {
       "hash": "e948581c7b7b0b30b5fb1dc6f3df65c229296c1c",
@@ -840,7 +844,7 @@
       "size": 203161,
       "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/LrmG4rhi/sound-physics-remastered-fabric-1.20.1-1.4.12.jar",
       "optional": true,
-      "default": false
+      "default": true
     },
     {
       "hash": "252de323db10d2b49ef74f8e7a6a5c72929be140",
