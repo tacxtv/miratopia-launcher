@@ -492,16 +492,58 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_enanab.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_esirec_proxi.ogg",
+    "size": 63940,
+    "hash": "9908dca9faa41fd2dc6cb3eb5cd07e116fe903f0",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_esirec_proxi.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_fitz_proxi.ogg",
     "size": 111979,
     "hash": "7df43136972a185f9962cd0227fb093ad7ac501b",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_fitz_proxi.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_fleur.ogg",
+    "size": 328854,
+    "hash": "9df530b8d7ba14229f54d8c9e9ce78c10858b312",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_fleur.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_fleur_fin.ogg",
+    "size": 95515,
+    "hash": "d44e5e569cee378257c0c58589b2819673088c78",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_fleur_fin.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_fleur_proxi.ogg",
+    "size": 54371,
+    "hash": "34227da29771ad88d216a4973f2e53ed600ce1bc",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_fleur_proxi.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_geralt.ogg",
     "size": 468908,
     "hash": "5956ce9c556205215784130a033af02f9f268327",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_geralt.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_indie_anette.ogg",
+    "size": 392084,
+    "hash": "279c7d1a232820d4d242727fd8cd4b4b93d6e70a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_indie_anette.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_indie_anette_fin.ogg",
+    "size": 129415,
+    "hash": "41c69c4d3ac1a33e2d04509a2b7a29c0df801e04",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_indie_anette_fin.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_indie_anette_proxi.ogg",
+    "size": 53176,
+    "hash": "e48a1f20b0b2355abfad100036ae56204658a75a",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_indie_anette_proxi.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_issay_eau.ogg",
@@ -534,10 +576,34 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_louis_paster_proxi.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_mamy_trayette_proxi.ogg",
+    "size": 69138,
+    "hash": "f363c55ff8fc8c185a3ed13f2246dc2ab87fc3ab",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_mamy_trayette_proxi.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_pat_ourage.ogg",
     "size": 274665,
     "hash": "0c24da12d999e07c31323058e98f8b26c4514908",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pat_ourage.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_petunia_pot.ogg",
+    "size": 374685,
+    "hash": "1de46b9f67389f6baa448961e1387af603bd2418",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_petunia_pot.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_petunia_pot_fin.ogg",
+    "size": 150423,
+    "hash": "e8a6bb44ca53c546681046cdfd699bbbab7f9185",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_petunia_pot_fin.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_pet_chapon.ogg",
+    "size": 32919,
+    "hash": "6722f6853a61498833808f8083372396e07bab9e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pet_chapon.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_pet_daisy.ogg",
@@ -550,6 +616,12 @@
     "size": 72438,
     "hash": "6161d25fb16b6fc0346713aadeb1f6f8d97c44f2",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pet_garfield.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_pet_salem.ogg",
+    "size": 114816,
+    "hash": "93943d49209570277bc32e22a52aa35868bd9a3b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pet_salem.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_phil_armonik.ogg",
@@ -691,8 +763,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 5813,
-    "hash": "6bc41813650796bd3435a99ab393ab807eb358a3",
+    "size": 7618,
+    "hash": "0726da7f90b9485f126031574bd71b680224a24f",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {

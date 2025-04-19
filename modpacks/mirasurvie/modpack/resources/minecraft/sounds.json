@@ -65,6 +65,12 @@
       "custom/pnj_bonpote"
     ]
   },
+  "custom.pnj_bonpote_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_bonpote_bateau"
+    ]
+  },
   "custom.pnj_bonpote_fin": {
     "category": "neutral",
     "sounds": [
@@ -107,16 +113,58 @@
       "custom/pnj_enanab"
     ]
   },
+  "custom.pnj_esirec_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_esirec_proxi"
+    ]
+  },
   "custom.pnj_fitz_proxi": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_fitz_proxi"
     ]
   },
+  "custom.pnj_fleur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fleur"
+    ]
+  },
+  "custom.pnj_fleur_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fleur_fin"
+    ]
+  },
+  "custom.pnj_fleur_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fleur_proxi"
+    ]
+  },
   "custom.pnj_geralt": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_geralt"
+    ]
+  },
+  "custom.pnj_indie_anette": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_indie_anette"
+    ]
+  },
+  "custom.pnj_indie_anette_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_indie_anette_fin"
+    ]
+  },
+  "custom.pnj_indie_anette_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_indie_anette_proxi"
     ]
   },
   "custom.pnj_issay_eau": {
@@ -149,10 +197,34 @@
       "custom/pnj_louis_paster_proxi"
     ]
   },
+  "custom.pnj_mamy_trayette_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_mamy_trayette_proxi"
+    ]
+  },
   "custom.pnj_pat_ourage": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_pat_ourage"
+    ]
+  },
+  "custom.pnj_petunia_pot": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_petunia_pot"
+    ]
+  },
+  "custom.pnj_petunia_pot_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_petunia_pot_fin"
+    ]
+  },
+  "custom.pnj_pet_chapon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_chapon"
     ]
   },
   "custom.pnj_pet_daisy": {
@@ -167,10 +239,28 @@
       "custom/pnj_pet_garfield"
     ]
   },
+  "custom.pnj_pet_salem": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_salem"
+    ]
+  },
   "custom.pnj_phil_armonik": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_phil_armonik"
+    ]
+  },
+  "custom.pnj_phil_armonik_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_phil_armonik_bateau"
+    ]
+  },
+  "custom.pnj_phil_armonik_bateau_extra": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_phil_armonik_bateau_extra"
     ]
   },
   "custom.pnj_phil_armonik_fin": {
