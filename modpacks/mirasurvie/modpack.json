@@ -847,6 +847,12 @@
       "default": true
     },
     {
+      "hash": "4a468c59faecbf32939f5c3a7f66ab5407de2c80",
+      "path": "mods/sound-physics-remastered-fabric-1.20.1-1.4.12.jar",
+      "size": 203161,
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/LrmG4rhi/sound-physics-remastered-fabric-1.20.1-1.4.12.jar"
+    },
+    {
       "hash": "252de323db10d2b49ef74f8e7a6a5c72929be140",
       "path": "mods/spark-1.10.53-fabric.jar",
       "size": 3082974,

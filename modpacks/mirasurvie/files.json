@@ -1,5 +1,11 @@
 [
   {
+    "path": "config/daily_rewards/common.json",
+    "size": 3273,
+    "hash": "8e77805a418fa687f5af49247034a1f4030e04b1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/daily_rewards/common.json"
+  },
+  {
     "path": "config/fancymenu/assets/background_texture.png",
     "size": 12153,
     "hash": "5a1f82a3cbc2b73f863bbc1b84f469a69f9777fe",
@@ -43,8 +49,8 @@
   },
   {
     "path": "config/fancymenu/customization/pause_screen_layout.txt",
-    "size": 22884,
-    "hash": "b66fa8cc5cbd9c29a88dbda059ebd7fd56342333",
+    "size": 22889,
+    "hash": "f94087343219bc5020dfba2eb938039b966aed1d",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/customization/pause_screen_layout.txt"
   },
   {
@@ -438,6 +444,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_bonpote.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_bonpote_bateau.ogg",
+    "size": 128160,
+    "hash": "1a9879fa066df4ac6ff4784e1f24939aadec8716",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_bonpote_bateau.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_bonpote_fin.ogg",
     "size": 133998,
     "hash": "a776d4cb6989147ba96331637bfb57fd2364a1fb",
@@ -544,6 +556,18 @@
     "size": 414841,
     "hash": "4a9c9caffdd536dc45ecb59e41c7b24a175750cb",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_phil_armonik.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_phil_armonik_bateau.ogg",
+    "size": 171767,
+    "hash": "71bb6fe9edfce75fd138cfbf9eb86d79f818ae24",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_phil_armonik_bateau.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_phil_armonik_bateau_extra.ogg",
+    "size": 434365,
+    "hash": "a2d398ed3bff73c5b1d5b370a5c793173fc9fba3",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_phil_armonik_bateau_extra.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_phil_armonik_fin.ogg",
