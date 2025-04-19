@@ -1,14 +1,296 @@
 {
-  "custom.pnj_zoopie_start": {
+  "custom.pnj_aielamain": {
     "category": "neutral",
     "sounds": [
-      "custom/pnj_zoopie_start"
+      "custom/pnj_aielamain"
     ]
   },
-  "custom.pnj_zoopie_end": {
+  "custom.pnj_aielamain_bateau": {
     "category": "neutral",
     "sounds": [
-      "custom/pnj_zoopie_end"
+      "custom/pnj_aielamain_bateau"
+    ]
+  },
+  "custom.pnj_alice_sterile_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_alice_sterile_proxi"
+    ]
+  },
+  "custom.pnj_anna_chete": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_anna_chete"
+    ]
+  },
+  "custom.pnj_anna_chete_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_anna_chete_bateau"
+    ]
+  },
+  "custom.pnj_anna_chete_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_anna_chete_fin"
+    ]
+  },
+  "custom.pnj_anna_chete_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_anna_chete_proxi"
+    ]
+  },
+  "custom.pnj_aquarelle": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aquarelle"
+    ]
+  },
+  "custom.pnj_aquarelle_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aquarelle_fin"
+    ]
+  },
+  "custom.pnj_aquarelle_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_aquarelle_proxi"
+    ]
+  },
+  "custom.pnj_bonpote": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_bonpote"
+    ]
+  },
+  "custom.pnj_bonpote_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_bonpote_fin"
+    ]
+  },
+  "custom.pnj_charonne_stone": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_charonne_stone"
+    ]
+  },
+  "custom.pnj_charonne_stone_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_charonne_stone_bateau"
+    ]
+  },
+  "custom.pnj_eddy_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_eddy_proxi"
+    ]
+  },
+  "custom.pnj_elmet_foudebeat": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_elmet_foudebeat"
+    ]
+  },
+  "custom.pnj_elvis_nesslait": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_elvis_nesslait"
+    ]
+  },
+  "custom.pnj_enanab": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_enanab"
+    ]
+  },
+  "custom.pnj_fitz_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fitz_proxi"
+    ]
+  },
+  "custom.pnj_geralt": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_geralt"
+    ]
+  },
+  "custom.pnj_issay_eau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_issay_eau"
+    ]
+  },
+  "custom.pnj_jenny_arehivepa": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jenny_arehivepa"
+    ]
+  },
+  "custom.pnj_jenny_arehivepa_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jenny_arehivepa_bateau"
+    ]
+  },
+  "custom.pnj_ken_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ken_proxi"
+    ]
+  },
+  "custom.pnj_louis_paster_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_louis_paster_proxi"
+    ]
+  },
+  "custom.pnj_pat_ourage": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pat_ourage"
+    ]
+  },
+  "custom.pnj_pet_daisy": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_daisy"
+    ]
+  },
+  "custom.pnj_pet_garfield": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_garfield"
+    ]
+  },
+  "custom.pnj_phil_armonik": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_phil_armonik"
+    ]
+  },
+  "custom.pnj_phil_armonik_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_phil_armonik_fin"
+    ]
+  },
+  "custom.pnj_picassiette": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_picassiette"
+    ]
+  },
+  "custom.pnj_picassiette_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_picassiette_fin"
+    ]
+  },
+  "custom.pnj_random_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_3"
+    ]
+  },
+  "custom.pnj_random_4": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_4"
+    ]
+  },
+  "custom.pnj_sabri_anal": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sabri_anal"
+    ]
+  },
+  "custom.pnj_sabri_anal_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sabri_anal_bateau"
+    ]
+  },
+  "custom.pnj_sabri_anal_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sabri_anal_fin"
+    ]
+  },
+  "custom.pnj_sabri_anal_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sabri_anal_proxi"
+    ]
+  },
+  "custom.pnj_sacre_rieur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sacre_rieur"
+    ]
+  },
+  "custom.pnj_sacre_rieur_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_sacre_rieur_fin"
+    ]
+  },
+  "custom.pnj_taggy_atelle": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_taggy_atelle"
+    ]
+  },
+  "custom.pnj_taggy_atelle_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_taggy_atelle_bateau"
+    ]
+  },
+  "custom.pnj_taggy_atelle_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_taggy_atelle_fin"
+    ]
+  },
+  "custom.pnj_tibo_instair": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tibo_instair"
+    ]
+  },
+  "custom.pnj_vil_turner": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_vil_turner"
+    ]
+  },
+  "custom.pnj_vil_turner_beteau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_vil_turner_beteau"
+    ]
+  },
+  "custom.pnj_vil_turner_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_vil_turner_proxi"
+    ]
+  },
+  "custom.pnj_zoopie": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_zoopie"
+    ]
+  },
+  "custom.pnj_zoopie_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_zoopie_fin"
     ]
   }
 }

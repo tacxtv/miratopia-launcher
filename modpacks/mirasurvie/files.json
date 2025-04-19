@@ -1,183 +1,195 @@
 [
   {
-    "path": "config/fancymenu2/assets/background_texture.png",
+    "path": "config/fancymenu/assets/background_texture.png",
     "size": 12153,
     "hash": "5a1f82a3cbc2b73f863bbc1b84f469a69f9777fe",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/assets/background_texture.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/assets/background_texture.png"
   },
   {
-    "path": "config/fancymenu2/assets/disabled_button.png",
+    "path": "config/fancymenu/assets/disabled_button.png",
     "size": 6406,
     "hash": "d1796cf0d44dbcb471ccd7e34c40d86db0823f95",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/assets/disabled_button.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/assets/disabled_button.png"
   },
   {
-    "path": "config/fancymenu2/assets/main_button.png",
+    "path": "config/fancymenu/assets/main_button.png",
     "size": 4493,
     "hash": "a1eda0c305f5b885c4f3857c03ccdaabc0186d0e",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/assets/main_button.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/assets/main_button.png"
   },
   {
-    "path": "config/fancymenu2/assets/main_menu_papyrus.png",
-    "size": 279551,
-    "hash": "0bcff73f55b930161175c325c5dea459344b6b46",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/assets/main_menu_papyrus.png"
+    "path": "config/fancymenu/assets/main_menu_papyrus.png",
+    "size": 190363,
+    "hash": "6a6a4262204d099b309154f0b72c592c596f0b7d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/assets/main_menu_papyrus.png"
   },
   {
-    "path": "config/fancymenu2/assets/secondary_button.png",
+    "path": "config/fancymenu/assets/secondary_button.png",
     "size": 5775,
     "hash": "87707f5d138499a197dc03e564af2c4ed30a91d1",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/assets/secondary_button.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/assets/secondary_button.png"
   },
   {
-    "path": "config/fancymenu2/customizablemenus.txt",
-    "size": 219,
-    "hash": "9e892c8d94dc10e110caef713f83ab325d42a3af",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/customizablemenus.txt"
+    "path": "config/fancymenu/customizablemenus.txt",
+    "size": 142,
+    "hash": "58536a70b43ec7dc30d9eeff036474ce4063078d",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/customizablemenus.txt"
   },
   {
-    "path": "config/fancymenu2/customization/join_multiplayer_screen_layout.txt",
-    "size": 10416,
-    "hash": "05c86e69dc9f9afe4b1134aa8e04b7fcefebcded",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/customization/join_multiplayer_screen_layout.txt"
+    "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+    "size": 22820,
+    "hash": "75c1c42a47afd78a43a21e7f3851d74c5cfe462c",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/customization/join_multiplayer_screen_layout.txt"
   },
   {
-    "path": "config/fancymenu2/customization/select_world_screen_layout.txt",
+    "path": "config/fancymenu/customization/pause_screen_layout.txt",
+    "size": 22884,
+    "hash": "b66fa8cc5cbd9c29a88dbda059ebd7fd56342333",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/customization/pause_screen_layout.txt"
+  },
+  {
+    "path": "config/fancymenu/customization/select_world_screen_layout.txt",
     "size": 9073,
     "hash": "70694e0a92f4cccc3204b6ad045589f9068ab666",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/customization/select_world_screen_layout.txt"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/customization/select_world_screen_layout.txt"
   },
   {
-    "path": "config/fancymenu2/customization/title_screen_layout.txt",
-    "size": 18702,
-    "hash": "4f82ca1d61406204768a3a6e094d0ed3f19bbcfe",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/customization/title_screen_layout.txt"
+    "path": "config/fancymenu/customization/title_screen_layout.txt",
+    "size": 30853,
+    "hash": "81d802bef0d2900f1e226768f994955c708736eb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/customization/title_screen_layout.txt"
   },
   {
-    "path": "config/fancymenu2/custom_gui_screens.txt",
+    "path": "config/fancymenu/custom_gui_screens.txt",
     "size": 51,
     "hash": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/custom_gui_screens.txt"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/custom_gui_screens.txt"
   },
   {
-    "path": "config/fancymenu2/layout_editor/widgets/element_layer_control.lewidget",
+    "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
     "size": 197,
     "hash": "adc605cf794120522f34a402a4301baf4e59350d",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/layout_editor/widgets/element_layer_control.lewidget"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
   },
   {
-    "path": "config/fancymenu2/legacy_checklist.txt",
+    "path": "config/fancymenu/legacy_checklist.txt",
     "size": 42,
     "hash": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/legacy_checklist.txt"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/legacy_checklist.txt"
   },
   {
-    "path": "config/fancymenu2/options.txt",
-    "size": 1723,
-    "hash": "91ea3f91d06a1abdfce378707cfd12406d5c4c73",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/options.txt"
+    "path": "config/fancymenu/options.txt",
+    "size": 1946,
+    "hash": "bd1b91d749618a256e664f5e9e57eb2f3063590b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/options.txt"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_0.png",
+    "path": "config/fancymenu/panoramas/fraktalis_day/panorama/panorama_0.png",
     "size": 5047888,
     "hash": "66ed49e582c4b9673214962dce09384d185de252",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_0.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/panorama/panorama_0.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_1.png",
+    "path": "config/fancymenu/panoramas/fraktalis_day/panorama/panorama_1.png",
     "size": 5190790,
     "hash": "26c0a9267e36a3b25b90ec54ee8e6932a88c4d9b",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_1.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/panorama/panorama_1.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_2.png",
+    "path": "config/fancymenu/panoramas/fraktalis_day/panorama/panorama_2.png",
     "size": 4832842,
     "hash": "523c56c62a410fa9cf73b2c7ca36792e017b6c45",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_2.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/panorama/panorama_2.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_3.png",
+    "path": "config/fancymenu/panoramas/fraktalis_day/panorama/panorama_3.png",
     "size": 4771767,
     "hash": "a5dc70ff5d0597884f5d9ceace1d0931aabeb78f",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_3.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/panorama/panorama_3.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_4.png",
+    "path": "config/fancymenu/panoramas/fraktalis_day/panorama/panorama_4.png",
     "size": 3155248,
     "hash": "eddce7317bccef6d8ba9b554d7b0b952023de6af",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_4.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/panorama/panorama_4.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_5.png",
+    "path": "config/fancymenu/panoramas/fraktalis_day/panorama/panorama_5.png",
     "size": 3930372,
     "hash": "11eeef714e9c7e27a8e5c4f2a497725b08cfa4f8",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/panorama/panorama_5.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/panorama/panorama_5.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_day/properties.txt",
-    "size": 128,
-    "hash": "21681f56f1399647e3335fdcfb1a9199fc6831e4",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_day/properties.txt"
+    "path": "config/fancymenu/panoramas/fraktalis_day/properties.txt",
+    "size": 120,
+    "hash": "c3beb7a0d7266ba481e062231b913ce43c5218d8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_day/properties.txt"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_0.png",
+    "path": "config/fancymenu/panoramas/fraktalis_night/panorama/panorama_0.png",
     "size": 4341449,
     "hash": "bbd4f33543d591fc4d917f1e89345051e25965fe",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_0.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/panorama/panorama_0.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_1.png",
+    "path": "config/fancymenu/panoramas/fraktalis_night/panorama/panorama_1.png",
     "size": 4496783,
     "hash": "48e14a8efaf2dcaed726222e3616efc196b96e52",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_1.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/panorama/panorama_1.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_2.png",
+    "path": "config/fancymenu/panoramas/fraktalis_night/panorama/panorama_2.png",
     "size": 4339069,
     "hash": "0135809f45a13ba3949576154ccd21979c0ec4d2",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_2.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/panorama/panorama_2.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_3.png",
+    "path": "config/fancymenu/panoramas/fraktalis_night/panorama/panorama_3.png",
     "size": 4246977,
     "hash": "e5ca4230505c4825fdeeba8e1449d03c4cae5b34",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_3.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/panorama/panorama_3.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_4.png",
+    "path": "config/fancymenu/panoramas/fraktalis_night/panorama/panorama_4.png",
     "size": 2593876,
     "hash": "225135860f2c08ca24d410516d56e1a012dc9d27",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_4.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/panorama/panorama_4.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_5.png",
+    "path": "config/fancymenu/panoramas/fraktalis_night/panorama/panorama_5.png",
     "size": 2952372,
     "hash": "72b7b9a0d20953f5af8c52ea648afa6cb275e9fe",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/panorama/panorama_5.png"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/panorama/panorama_5.png"
   },
   {
-    "path": "config/fancymenu2/panoramas/fraktalis_night/properties.txt",
-    "size": 130,
-    "hash": "9b07b5c3220851bb9d677ee18b5873980fc4c4a8",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/panoramas/fraktalis_night/properties.txt"
+    "path": "config/fancymenu/panoramas/fraktalis_night/properties.txt",
+    "size": 122,
+    "hash": "2aeab747df67fe6a2583cea2319dc67229625f37",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/panoramas/fraktalis_night/properties.txt"
   },
   {
-    "path": "config/fancymenu2/ui_themes/dark.json",
+    "path": "config/fancymenu/ui_themes/dark.json",
     "size": 4133,
-    "hash": "8bc3d8999f5dde0c62b31424d63dc7d046b70ba9",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/ui_themes/dark.json"
+    "hash": "6c4a7a9a509c3b81c62a497c4cb53a3eddf61219",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/ui_themes/dark.json"
   },
   {
-    "path": "config/fancymenu2/ui_themes/light.json",
+    "path": "config/fancymenu/ui_themes/light.json",
     "size": 4135,
     "hash": "fb42def9e33a2792c19002a717318ec733283e8d",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/ui_themes/light.json"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/ui_themes/light.json"
   },
   {
-    "path": "config/fancymenu2/user_variables.db",
+    "path": "config/fancymenu/user_variables.db",
     "size": 23,
     "hash": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
-    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu2/user_variables.db"
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/fancymenu/user_variables.db"
+  },
+  {
+    "path": "config/jei/jei-client.ini",
+    "size": 7994,
+    "hash": "55550378a577932441c6517655112c23afd0d260",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/config/jei/jei-client.ini"
   },
   {
     "path": "emotes/Back Flip.emotecraft",
@@ -655,8 +667,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 232,
-    "hash": "c1e2d1bc0ee5a3bed0f258f81bf1854aa5f908b0",
+    "size": 5813,
+    "hash": "6bc41813650796bd3435a99ab393ab807eb358a3",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {
