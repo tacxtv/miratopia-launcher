@@ -95,6 +95,12 @@
       "custom/pnj_eddy_proxi"
     ]
   },
+  "custom.pnj_elmet_foodebeat_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_elmet_foodebeat_fin"
+    ]
+  },
   "custom.pnj_elmet_foudebeat": {
     "category": "neutral",
     "sounds": [
@@ -105,6 +111,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_elvis_nesslait"
+    ]
+  },
+  "custom.pnj_elvis_nesslait_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_elvis_nesslait_bateau"
+    ]
+  },
+  "custom.pnj_elvis_nesslait_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_elvis_nesslait_fin"
     ]
   },
   "custom.pnj_enanab": {
@@ -149,6 +167,54 @@
       "custom/pnj_geralt"
     ]
   },
+  "custom.pnj_guidhibou_end": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_end"
+    ]
+  },
+  "custom.pnj_guidhibou_itineralis": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_itineralis"
+    ]
+  },
+  "custom.pnj_guidhibou_jump": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_jump"
+    ]
+  },
+  "custom.pnj_guidhibou_mini_jeu_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_mini_jeu_1"
+    ]
+  },
+  "custom.pnj_guidhibou_mini_jeu_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_mini_jeu_2"
+    ]
+  },
+  "custom.pnj_guidhibou_mini_jeu_3": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_mini_jeu_3"
+    ]
+  },
+  "custom.pnj_guidhibou_miracup": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_miracup"
+    ]
+  },
+  "custom.pnj_guidhibou_spawn": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_guidhibou_spawn"
+    ]
+  },
   "custom.pnj_indie_anette": {
     "category": "neutral",
     "sounds": [
@@ -171,6 +237,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_issay_eau"
+    ]
+  },
+  "custom.pnj_issay_eau_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_issay_eau_fin"
     ]
   },
   "custom.pnj_jenny_arehivepa": {
@@ -207,6 +279,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_pat_ourage"
+    ]
+  },
+  "custom.pnj_perlinpinpin_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_perlinpinpin_bateau"
+    ]
+  },
+  "custom.pnj_perlinpinpin_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_perlinpinpin_proxi"
     ]
   },
   "custom.pnj_petunia_pot": {
@@ -293,6 +377,12 @@
       "custom/pnj_random_4"
     ]
   },
+  "custom.pnj_ron_chon_itineralis": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ron_chon_itineralis"
+    ]
+  },
   "custom.pnj_sabri_anal": {
     "category": "neutral",
     "sounds": [
@@ -351,6 +441,18 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_tibo_instair"
+    ]
+  },
+  "custom.pnj_viktor_bateau": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_viktor_bateau"
+    ]
+  },
+  "custom.pnj_viktor_itineralis": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_viktor_itineralis"
     ]
   },
   "custom.pnj_vil_turner": {
