@@ -686,7 +686,9 @@
       "hash": "725d6ae05f78b2007a4dfa52c238efa5ea52548b",
       "path": "mods/observable-4.4.2.jar",
       "size": 475232,
-      "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/MprPnUls/observable-4.4.2.jar"
+      "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/MprPnUls/observable-4.4.2.jar",
+      "default": false,
+      "optional": true
     },
     {
       "hash": "de8221f7235a8f529ef031ae019a90f8b7d4f429",
