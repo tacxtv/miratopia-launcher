@@ -137,6 +137,12 @@
       "custom/pnj_esirec_proxi"
     ]
   },
+  "custom.pnj_fee_fe_see": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_fee_fe_see"
+    ]
+  },
   "custom.pnj_fitz_proxi": {
     "category": "neutral",
     "sounds": [
@@ -269,6 +275,12 @@
       "custom/pnj_issay_eau_fin"
     ]
   },
+  "custom.pnj_jean_dujarre": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jean_dujarre"
+    ]
+  },
   "custom.pnj_jenny_arehivepa": {
     "category": "neutral",
     "sounds": [
@@ -341,6 +353,12 @@
       "custom/pnj_pet_chapon"
     ]
   },
+  "custom.pnj_pet_daim": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_daim"
+    ]
+  },
   "custom.pnj_pet_daisy": {
     "category": "neutral",
     "sounds": [
@@ -357,6 +375,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_pet_salem"
+    ]
+  },
+  "custom.pnj_pet_sofiane": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_sofiane"
     ]
   },
   "custom.pnj_phil_armonik": {
