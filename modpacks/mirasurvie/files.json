@@ -654,6 +654,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_issay_eau_fin.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_jean_dela.ogg",
+    "size": 55076,
+    "hash": "6c0f8c6b9bea9502df64bcc5cf00701d8def2373",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_jean_dela.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_jean_dujarre.ogg",
     "size": 110779,
     "hash": "07d5e228e583d3617139a052f2c1233f5bf67042",
@@ -748,6 +754,12 @@
     "size": 72438,
     "hash": "6161d25fb16b6fc0346713aadeb1f6f8d97c44f2",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pet_garfield.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_pet_piggou.ogg",
+    "size": 48997,
+    "hash": "8fe72dec3c7ecef3ef277bcec6e6e49cb1a3db0b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pet_piggou.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_pet_salem.ogg",
@@ -925,8 +937,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 10951,
-    "hash": "8345c3e07a1bf0f91712f48a687207850d5b879e",
+    "size": 11175,
+    "hash": "8982f5aeb579d01537ea39f64c8822eb6536701f",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {

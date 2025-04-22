@@ -275,6 +275,12 @@
       "custom/pnj_issay_eau_fin"
     ]
   },
+  "custom.pnj_jean_dela": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_jean_dela"
+    ]
+  },
   "custom.pnj_jean_dujarre": {
     "category": "neutral",
     "sounds": [
@@ -369,6 +375,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_pet_garfield"
+    ]
+  },
+  "custom.pnj_pet_piggou": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_piggou"
     ]
   },
   "custom.pnj_pet_salem": {
