@@ -167,6 +167,30 @@
       "custom/pnj_geralt"
     ]
   },
+  "custom.pnj_geralt_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_geralt_fin"
+    ]
+  },
+  "custom.pnj_gob_burger_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_gob_burger_1"
+    ]
+  },
+  "custom.pnj_gob_burger_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_gob_burger_2"
+    ]
+  },
+  "custom.pnj_gouverneur": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_gouverneur"
+    ]
+  },
   "custom.pnj_guidhibou_end": {
     "category": "neutral",
     "sounds": [
@@ -279,6 +303,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_pat_ourage"
+    ]
+  },
+  "custom.pnj_pat_ourage_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pat_ourage_fin"
     ]
   },
   "custom.pnj_perlinpinpin_bateau": {
@@ -441,6 +471,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_tibo_instair"
+    ]
+  },
+  "custom.pnj_tibo_instair_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_tibo_instair_fin"
     ]
   },
   "custom.pnj_viktor_bateau": {

@@ -546,6 +546,30 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_geralt.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_geralt_fin.ogg",
+    "size": 157263,
+    "hash": "f6781d1f2724cc18a716e8e76342b1b94b9e0e2b",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_geralt_fin.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gob_burger_1.ogg",
+    "size": 223650,
+    "hash": "bec7688793db01396cee93039275013c667f01ee",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_gob_burger_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gob_burger_2.ogg",
+    "size": 193727,
+    "hash": "6b053d185b8f81e82cd8354429e9e8fbb4796c6e",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_gob_burger_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_gouverneur.ogg",
+    "size": 624137,
+    "hash": "b3ad4de23904b341360ef6bba007c5626bcdfbe8",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_gouverneur.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_guidhibou_end.ogg",
     "size": 179441,
     "hash": "b87402c2607d51675a598c9a8cd6fd388a97b15e",
@@ -658,6 +682,12 @@
     "size": 274665,
     "hash": "0c24da12d999e07c31323058e98f8b26c4514908",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pat_ourage.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_pat_ourage_fin.ogg",
+    "size": 159231,
+    "hash": "af3096b601d9e19fc5c0f95c5f0cc49f135824bb",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pat_ourage_fin.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_perlinpinpin_bateau.ogg",
@@ -822,6 +852,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_tibo_instair.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_tibo_instair_fin.ogg",
+    "size": 137939,
+    "hash": "6016a924455ae962f8fb41a0709452c80486ce49",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_tibo_instair_fin.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_viktor_bateau.ogg",
     "size": 121475,
     "hash": "03e5721812b4f4289810b075a791b39e882feb44",
@@ -865,8 +901,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 9791,
-    "hash": "a78a4c956e8b96244318c6f2a75e48a5535e6516",
+    "size": 10497,
+    "hash": "627f0f511a4ece523d27526e35731a8562ca8000",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {
