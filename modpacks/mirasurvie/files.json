@@ -738,6 +738,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_petunia_pot_fin.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_pet_amsterdam.ogg",
+    "size": 68423,
+    "hash": "3ae17f1307d95fc4d4c1ae5dac69c015254b5837",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_pet_amsterdam.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_pet_chapon.ogg",
     "size": 32919,
     "hash": "6722f6853a61498833808f8083372396e07bab9e",
@@ -943,8 +949,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 11300,
-    "hash": "8384c92397f81e706e6f8628a9f64a8cab281465",
+    "size": 11419,
+    "hash": "dd07f32c5144cf2f9d1a5535fd01e9120a569254",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {
