@@ -77,6 +77,12 @@
       "custom/pnj_bonpote_fin"
     ]
   },
+  "custom.pnj_brifie": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_brifie"
+    ]
+  },
   "custom.pnj_charonne_stone": {
     "category": "neutral",
     "sounds": [
@@ -443,16 +449,46 @@
       "custom/pnj_picassiette_fin"
     ]
   },
+  "custom.pnj_random_1": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_1"
+    ]
+  },
+  "custom.pnj_random_2": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_2"
+    ]
+  },
+  "custom.pnj_random_3 copy": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_3 copy"
+    ]
+  },
   "custom.pnj_random_3": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_random_3"
     ]
   },
+  "custom.pnj_random_4 copy": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_4 copy"
+    ]
+  },
   "custom.pnj_random_4": {
     "category": "neutral",
     "sounds": [
       "custom/pnj_random_4"
+    ]
+  },
+  "custom.pnj_random_5": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_random_5"
     ]
   },
   "custom.pnj_ron_chon_itineralis": {
@@ -525,6 +561,12 @@
     "category": "neutral",
     "sounds": [
       "custom/pnj_tibo_instair_fin"
+    ]
+  },
+  "custom.pnj_viktor": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_viktor"
     ]
   },
   "custom.pnj_viktor_bateau": {

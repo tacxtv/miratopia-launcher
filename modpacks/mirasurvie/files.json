@@ -456,6 +456,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_bonpote_fin.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_brifie.ogg",
+    "size": 24618,
+    "hash": "a1b5db268d3353dc47aaa79e331c24e3c1ff2cbd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_brifie.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_charonne_stone.ogg",
     "size": 252075,
     "hash": "6ec70e7fc1901f4585e714725d400b1dbe83390d",
@@ -822,16 +828,46 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_picassiette_fin.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_random_1.ogg",
+    "size": 72260,
+    "hash": "8f62a5a394b0b5c482d289de799c2307b7af0cdd",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_1.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_random_2.ogg",
+    "size": 45736,
+    "hash": "b22d84dbfaf226ca58dd25f244efe2f08d388acf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_2.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_random_3 copy.ogg",
+    "size": 40680,
+    "hash": "4e9e134c7b5d03a80d07e3ce1977495e2fb18fb2",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_3 copy.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_random_3.ogg",
     "size": 40680,
     "hash": "4e9e134c7b5d03a80d07e3ce1977495e2fb18fb2",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_3.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_random_4 copy.ogg",
+    "size": 43784,
+    "hash": "43939d6280dfa3f085be4c81cbaf9095ff4e44a1",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_4 copy.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_random_4.ogg",
     "size": 43784,
     "hash": "43939d6280dfa3f085be4c81cbaf9095ff4e44a1",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_4.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_random_5.ogg",
+    "size": 38671,
+    "hash": "d08adbb3982a4edf8ef1b53cb8eb794a3cecdcb9",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_random_5.ogg"
   },
   {
     "path": "resources/minecraft/sounds/custom/pnj_ron_chon_itineralis.ogg",
@@ -906,6 +942,12 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_tibo_instair_fin.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_viktor.ogg",
+    "size": 44499,
+    "hash": "9650581423702e0f9711b08353d6ee817c8e5c3f",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_viktor.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_viktor_bateau.ogg",
     "size": 121475,
     "hash": "03e5721812b4f4289810b075a791b39e882feb44",
@@ -949,8 +991,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 11419,
-    "hash": "dd07f32c5144cf2f9d1a5535fd01e9120a569254",
+    "size": 12194,
+    "hash": "f0ca5b3188ddc3bf06e34894427589cf6bf40dcd",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {
