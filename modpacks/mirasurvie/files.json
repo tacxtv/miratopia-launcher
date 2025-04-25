@@ -1003,8 +1003,8 @@
   },
   {
     "path": "servers.dat",
-    "size": 73,
-    "hash": "2669c52ac8c5bc5964f42a8f74928c91a4cb4a09",
+    "size": 96,
+    "hash": "83d892f13d581498d877e22e0c670de156e38a6f",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/servers.dat"
   }
 ]
