@@ -89,6 +89,12 @@
       "custom/pnj_charonne_stone_bateau"
     ]
   },
+  "custom.pnj_croktezmor_proxi": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_croktezmor_proxi"
+    ]
+  },
   "custom.pnj_eddy_proxi": {
     "category": "neutral",
     "sounds": [
