@@ -491,6 +491,12 @@
       "custom/pnj_random_5"
     ]
   },
+  "custom.pnj_ron_chon": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_ron_chon"
+    ]
+  },
   "custom.pnj_ron_chon_itineralis": {
     "category": "neutral",
     "sounds": [
