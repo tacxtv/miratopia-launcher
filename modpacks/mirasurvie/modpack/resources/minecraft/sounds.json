@@ -359,6 +359,12 @@
       "custom/pnj_petunia_pot_fin"
     ]
   },
+  "custom.pnj_pet_amsterdam": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_pet_amsterdam"
+    ]
+  },
   "custom.pnj_pet_chapon": {
     "category": "neutral",
     "sounds": [
