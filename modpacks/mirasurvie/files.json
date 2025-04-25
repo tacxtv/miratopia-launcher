@@ -690,6 +690,18 @@
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_jenny_arehivepa_bateau.ogg"
   },
   {
+    "path": "resources/minecraft/sounds/custom/pnj_john.ogg",
+    "size": 131336,
+    "hash": "d7ecc56d73e0ff8992f62488eed6ac3213549d28",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_john.ogg"
+  },
+  {
+    "path": "resources/minecraft/sounds/custom/pnj_john_fin.ogg",
+    "size": 73161,
+    "hash": "855975941dd9098e568ef163915d2ddc266004cf",
+    "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds/custom/pnj_john_fin.ogg"
+  },
+  {
     "path": "resources/minecraft/sounds/custom/pnj_ken_proxi.ogg",
     "size": 91494,
     "hash": "299dffbd2119daf9f270e82acfc6cc163c8f09ae",
@@ -985,8 +997,8 @@
   },
   {
     "path": "resources/minecraft/sounds.json",
-    "size": 12065,
-    "hash": "a2dd71a382b38aefb9d9c11a8abe9e71aced49f9",
+    "size": 12275,
+    "hash": "a3f95f39a56ba9f976828fd37439650728280a77",
     "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/resources/minecraft/sounds.json"
   },
   {

@@ -311,6 +311,18 @@
       "custom/pnj_jenny_arehivepa_bateau"
     ]
   },
+  "custom.pnj_john": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_john"
+    ]
+  },
+  "custom.pnj_john_fin": {
+    "category": "neutral",
+    "sounds": [
+      "custom/pnj_john_fin"
+    ]
+  },
   "custom.pnj_ken_proxi": {
     "category": "neutral",
     "sounds": [
