@@ -25,7 +25,9 @@ jobs:
         if: runner.os == 'Linux'
         run: |
           sudo apt update
-          sudo apt install -y snapcraft
+          sudo apt install -y snapd
+          sudo systemctl start snapd
+          sudo snap install snapcraft --classic
 
       - name: Build/release Electron app
         uses: samuelmeuli/action-electron-builder@v1
