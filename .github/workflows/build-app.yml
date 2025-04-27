@@ -21,6 +21,12 @@ jobs:
       - name: Install clean-modules
         run: npm install -g clean-modules
 
+      - name: Install Snapcraft (only on Ubuntu)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt update
+          sudo apt install -y snapcraft
+
       - name: Build/release Electron app
         uses: samuelmeuli/action-electron-builder@v1
         with:
