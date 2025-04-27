@@ -19,14 +19,17 @@
   //     "dmg"
   //   ]
   // },
-  "linux": {
-    "target": ["AppImage", "snap"],
-    "icon": "public/logo.png",
-    "category": "Utility",
-    "executableName": "miratopia-launcher"
+  linux: {
+    target: [
+      'AppImage',
+      // "snap"
+    ],
+    icon: 'public/logo.png',
+    category: 'Utility',
+    executableName: 'miratopia-launcher',
   },
-  "snap": {
-    "artifactName": "miratopia-launcher-${version}_${arch}.snap"
+  snap: {
+    artifactName: 'miratopia-launcher-${version}_${arch}.snap',
   },
   win: {
     icon: 'public/logo.ico',
