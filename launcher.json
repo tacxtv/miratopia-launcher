@@ -19,6 +19,7 @@
                 "name": "miratopia",
                 "whitelisted": true,
                 "whitelist": [
+                    "tarpiin",
                     "tacxounet",
                     "samsaoule",
                     "ainohopie",
@@ -33,6 +34,7 @@
                 "name": "mirabuild",
                 "whitelisted": true,
                 "whitelist": [
+                    "tarpiin",
                     "tacxounet",
                     "samsaoule",
                     "ainohopie",
