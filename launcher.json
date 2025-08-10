@@ -19,13 +19,21 @@
                 "name": "miratopia",
                 "whitelisted": true,
                 "whitelist": [
-                    "tacxouneta",
+                    "tacxounet",
                     "mrpazuzud"
                 ]
             },
             {
                 "name": "mirasurvie",
                 "whitelisted": false
+            },
+            {
+                "name": "mirabuild",
+                "whitelisted": true,
+                "whitelist": [
+                    "tacxounet",
+                    "mrpazuzud"
+                ]
             }
         ]
     }
