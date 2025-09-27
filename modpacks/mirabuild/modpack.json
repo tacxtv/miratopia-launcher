@@ -136,40 +136,40 @@
       "url": "https://cdn.modrinth.com/data/7vxePowz/versions/PB4pwRax/FarmersDelight-1.20.1-2.4.0%2Brefabricated.jar"
     },
     {
-      "hash": "7fde7917655a3356cab92f17ad2bca34962c4928",
-      "path": "mods/ftb-chunks-forge-2001.3.6.jar",
-      "size": 1158842,
-      "url": "https://mediafilez.forgecdn.net/files/6431/735/ftb-chunks-forge-2001.3.6.jar"
+      "hash": "5bb9152187a1d0a90425399e6fb68f2229260129",
+      "path": "mods/ftb-chunks-fabric-2001.3.6.jar",
+      "size": 970189,
+      "url": "https://mediafilez.forgecdn.net/files/6431/734/ftb-chunks-fabric-2001.3.6.jar"
     },
     {
-      "hash": "9472bb30d0e38cb774b9cc7852bdd8dbf845622b",
-      "path": "mods/ftb-library-forge-2001.2.10.jar",
-      "size": 791875,
-      "url": "https://mediafilez.forgecdn.net/files/6807/424/ftb-library-forge-2001.2.10.jar"
+      "hash": "bccf36ae9068d7c923402a312b1542744191fdb5",
+      "path": "mods/ftb-library-fabric-2001.2.10.jar",
+      "size": 781194,
+      "url": "https://mediafilez.forgecdn.net/files/6807/422/ftb-library-fabric-2001.2.10.jar"
     },
     {
-      "hash": "479d9ad654984f5cedf23c14a311f3cff4efbcb7",
-      "path": "mods/ftb-quests-forge-2001.4.14.jar",
-      "size": 1222711,
-      "url": "https://mediafilez.forgecdn.net/files/6829/212/ftb-quests-forge-2001.4.14.jar"
+      "hash": "90818e1ded4ea34d80e05a5bfebe0f32c7f9d8c2",
+      "path": "mods/ftb-quests-fabric-2001.4.14.jar",
+      "size": 1230694,
+      "url": "https://mediafilez.forgecdn.net/files/6829/211/ftb-quests-fabric-2001.4.14.jar"
     },
     {
-      "hash": "1ef101b4c5991cc239d9b56a95500e3b404228f7",
-      "path": "mods/ftb-ranks-forge-2001.1.7.jar",
-      "size": 87362,
-      "url": "https://mediafilez.forgecdn.net/files/6522/73/ftb-ranks-forge-2001.1.7.jar"
+      "hash": "c44da4e9d6b32452ffb8aa4b8f19b38478d0d8f1",
+      "path": "mods/ftb-ranks-fabric-2001.1.7.jar",
+      "size": 85307,
+      "url": "https://mediafilez.forgecdn.net/files/6522/71/ftb-ranks-fabric-2001.1.7.jar"
     },
     {
-      "hash": "c2af94e0b86631cb75daa8de2377ff72527651ca",
-      "path": "mods/ftb-teams-forge-2001.3.1.jar",
-      "size": 248592,
-      "url": "https://mediafilez.forgecdn.net/files/6130/786/ftb-teams-forge-2001.3.1.jar"
+      "hash": "515a933d22c60d0f9c249a6eef02402afc2695ac",
+      "path": "mods/ftb-teams-fabric-2001.3.1.jar",
+      "size": 244872,
+      "url": "https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar"
     },
     {
-      "hash": "0584f628d2bc6a612d79dee368324357ebae1423",
-      "path": "mods/ftb-xmod-compat-forge-2.1.3.jar",
-      "size": 129725,
-      "url": "https://mediafilez.forgecdn.net/files/6402/486/ftb-xmod-compat-forge-2.1.3.jar"
+      "hash": "20ff2644eb3580563e9b47758487fed2686682f3",
+      "path": "mods/ftb-xmod-compat-fabric-2.1.3.jar",
+      "size": 131086,
+      "url": "https://mediafilez.forgecdn.net/files/6402/485/ftb-xmod-compat-fabric-2.1.3.jar"
     },
     {
       "hash": "459ccaa507c4c28738c6d821e12b66de31861c66",
@@ -241,7 +241,7 @@
       "hash": "5f0676a7369999e7414e7b2ab4f90da1f51471d4",
       "path": "mods/WorldEditCUI-1.20%2B01.jar",
       "size": 168681,
-      "url": "https://cdn.modrinth.com/data/lOELapP1/versions/SRJCpmta/WorldEditCUI-1.20%2B01.jar"
+      "url": "https://mediafilez.forgecdn.net/files/4575/22/WorldEditCUI-1.20%2B01.jar"
     }
   ]
 }
