@@ -35,6 +35,10 @@
                 "whitelisted": false
             },
             {
+                "name": "mira26",
+                "whitelisted": false
+            },
+            {
                 "name": "mirabuild",
                 "whitelisted": true,
                 "whitelist": [
