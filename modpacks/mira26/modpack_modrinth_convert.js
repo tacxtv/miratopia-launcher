@@ -1,8 +1,24 @@
 const fs = require('fs');
 const crypto = require('crypto');
 
+function normalizePath(p) {
+    return String(p).replace(/\\/g, '/');
+}
 
 (async () => {
+    let infos = { opt: [], optdef: [] };
+    if (fs.existsSync('infos.json')) {
+        const parsed = JSON.parse(fs.readFileSync('infos.json', 'utf8'));
+        infos.opt = Array.isArray(parsed.opt) ? parsed.opt : [];
+        infos.optdef = Array.isArray(parsed.optdef) ? parsed.optdef : [];
+        console.log(`Loaded infos.json (opt: ${infos.opt.length}, optdef: ${infos.optdef.length})`);
+    } else {
+        console.log('No infos.json (optional); only .opt / .optdef suffixes apply.');
+    }
+
+    const optSet = new Set(infos.opt.map(normalizePath));
+    const optdefSet = new Set(infos.optdef.map(normalizePath));
+
     const data = fs.readFileSync('modrinth.index.json', 'utf8');
     const modrinth = JSON.parse(data);
 
@@ -12,9 +28,52 @@ const crypto = require('crypto');
     let files = [];
     for (const file of modrinthFiles) {
         const filename = file.path.split('/').pop();
+        const normPath = normalizePath(file.path);
+        const pathNoOpt = normPath.replace(/\.opt$/, '');
+        const pathNoOptdef = normPath.replace(/\.optdef$/, '');
 
         if (/.disabled$/.test(filename)) {
             console.log(`Skipping ${filename}...`);
+            continue;
+        }
+
+        const endsOpt = /\.opt$/.test(normPath);
+        const endsOptdef = /\.optdef$/.test(normPath);
+        const fromInfosOptdef =
+            optdefSet.has(normPath) ||
+            optdefSet.has(pathNoOptdef) ||
+            (endsOpt && !endsOptdef && optdefSet.has(pathNoOpt));
+        const fromInfosOpt =
+            !fromInfosOptdef &&
+            (optSet.has(normPath) || optSet.has(pathNoOpt));
+
+        if (fromInfosOptdef) {
+            let outPath = normPath;
+            if (endsOptdef) outPath = pathNoOptdef;
+            else if (endsOpt) outPath = pathNoOpt;
+            console.log(`Make as optional (default on) [infos] ${outPath}...`);
+            files.push({
+                "hash": file.hashes.sha1,
+                "path": outPath,
+                "size": file.fileSize,
+                "url": file.downloads[0],
+                "optional": true,
+                "default": true,
+            });
+            continue;
+        }
+
+        if (fromInfosOpt) {
+            const outPath = endsOpt ? pathNoOpt : normPath;
+            console.log(`Make as optional [infos] ${outPath}...`);
+            files.push({
+                "hash": file.hashes.sha1,
+                "path": outPath,
+                "size": file.fileSize,
+                "url": file.downloads[0],
+                "optional": true,
+                "default": false,
+            });
             continue;
         }
 
