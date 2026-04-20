@@ -24,7 +24,7 @@ function listInternalFilesRecursive(directory, directoryRoot) {
         const relativePath = normalizePath(path.relative(directoryRoot, filePath));
         fileList.push({
             "hash": hash,
-            "path": `internal/${relativePath}`,
+            "path": `mods/${relativePath}`,
             "size": stats.size,
             "url": `https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/${relativePath}`,
         });
