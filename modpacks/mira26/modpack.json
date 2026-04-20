@@ -80,7 +80,9 @@
       "hash": "12fc300ced1d9e71abbd4505a623cfed5723d835",
       "path": "mods/Axiom-5.2.1-for-MC1.21.1.jar",
       "size": 44210201,
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "6a29963a30afd7fa8993b97e4f870460b3f51323",
@@ -686,7 +688,9 @@
       "hash": "8f25b0babc279ee9f5d07f20d9168a7a4ef93dac",
       "path": "mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "size": 1974380,
-      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "305cf6ea335b5a61742927642dc3bdf0c7ea55e8",
