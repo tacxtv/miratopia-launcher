@@ -1,7 +1,7 @@
 const fs = require('fs');
 const crypto = require('crypto');
 
-const baseUrl = 'https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mirasurvie/modpack/';
+const baseUrl = 'https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/modpack/';
 
 function listFilesRecursive(directory) {
     const files = fs.readdirSync(directory);

@@ -1,8 +1,36 @@
 const fs = require('fs');
 const crypto = require('crypto');
+const path = require('path');
 
 function normalizePath(p) {
     return String(p).replace(/\\/g, '/');
+}
+
+function listInternalFilesRecursive(directory, directoryRoot) {
+    const entries = fs.readdirSync(directory);
+    let fileList = [];
+
+    for (const entry of entries) {
+        const filePath = path.join(directory, entry);
+        const stats = fs.statSync(filePath);
+
+        if (stats.isDirectory()) {
+            fileList = fileList.concat(listInternalFilesRecursive(filePath, directoryRoot));
+            continue;
+        }
+
+        const fileData = fs.readFileSync(filePath);
+        const hash = crypto.createHash('sha1').update(fileData).digest('hex');
+        const relativePath = normalizePath(path.relative(directoryRoot, filePath));
+        fileList.push({
+            "hash": hash,
+            "path": `internal/${relativePath}`,
+            "size": stats.size,
+            "url": `https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/${relativePath}`,
+        });
+    }
+
+    return fileList;
 }
 
 (async () => {
@@ -149,6 +177,14 @@ function normalizePath(p) {
             "url": file,
         })
         console.log(`Added ${filename} to modpack...`);
+    }
+
+    const internalDirectory = './internal';
+    if (fs.existsSync(internalDirectory)) {
+        const internalRoot = path.resolve(internalDirectory);
+        const internalFiles = listInternalFilesRecursive(internalDirectory, internalRoot);
+        console.log(`Checking internal files... (${internalFiles.length})`);
+        files = files.concat(internalFiles);
     }
 
     const target = fs.readFileSync('modpack.json', 'utf8');

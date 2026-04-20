@@ -29,6 +29,12 @@
   ],
   "files": [
     {
+      "hash": "ddd31af1c8e16cd5304fbc468fcc5e3f04eae387",
+      "path": "internal/portals-1.21.1-1.2.0.jar",
+      "size": 142058,
+      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/portals-1.21.1-1.2.0.jar"
+    },
+    {
       "hash": "1731b439f18e0b48f97c7f09362f3efe57b9e12a",
       "path": "mods/[Neoforge 1.21.1] Better Zoom v2.7.0.jar",
       "size": 20827,
