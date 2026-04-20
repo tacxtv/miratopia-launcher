@@ -32,7 +32,9 @@
       "hash": "1731b439f18e0b48f97c7f09362f3efe57b9e12a",
       "path": "mods/[Neoforge 1.21.1] Better Zoom v2.7.0.jar",
       "size": 20827,
-      "url": "https://cdn.modrinth.com/data/rOY9XqdO/versions/P1tY9nD4/%5BNeoforge%201.21.1%5D%20Better%20Zoom%20v2.7.0.jar"
+      "url": "https://cdn.modrinth.com/data/rOY9XqdO/versions/P1tY9nD4/%5BNeoforge%201.21.1%5D%20Better%20Zoom%20v2.7.0.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "c5fe733d743af20f84eb87dd75b5bb57684f3e05",
@@ -106,13 +108,17 @@
       "hash": "8fa17df26d3650416bc124be7a264bc1566a3b26",
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "size": 481646,
-      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "e91af996b413bb498e276bf410d0deff52a34a74",
       "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
       "size": 60941,
-      "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar"
+      "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
@@ -136,7 +142,9 @@
       "hash": "650ff9d879051196c8c46b5718342db46c745cc9",
       "path": "mods/chat_heads-0.15.1-neoforge-1.21.jar",
       "size": 89272,
-      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar"
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "6f5395f58139802edfde7cb9170279f92f291971",
@@ -148,13 +156,17 @@
       "hash": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
       "path": "mods/Chunky-NeoForge-1.4.23.jar",
       "size": 340572,
-      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "b1c53d6e13100658d4dc2b2e33a650162748c4ea",
       "path": "mods/ChunkyBorder-1.2.18.jar",
       "size": 155772,
-      "url": "https://cdn.modrinth.com/data/s86X568j/versions/Pj0tqKnE/ChunkyBorder-1.2.18.jar"
+      "url": "https://cdn.modrinth.com/data/s86X568j/versions/Pj0tqKnE/ChunkyBorder-1.2.18.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "01b18dfa37528aebd63b49874c9ac7795a4fc084",
@@ -190,7 +202,9 @@
       "hash": "930067497b5c1249e51b3e33620ab4e72dc92f4c",
       "path": "mods/connector-2.0.0-beta.14+1.21.1-full.jar",
       "size": 4526785,
-      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar"
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f",
@@ -478,7 +492,9 @@
       "hash": "a3e6355915c7d3b2bc392724795113e51d289378",
       "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
       "size": 2438548,
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "d5bf134b3dbde9f5258666823900e21341dc0a50",
@@ -574,7 +590,9 @@
       "hash": "e17417eee213aac8291ff8bad1c6a5f710636b72",
       "path": "mods/observable-5.4.4.jar",
       "size": 388133,
-      "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/f8lSH3bs/observable-5.4.4.jar"
+      "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/f8lSH3bs/observable-5.4.4.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
@@ -586,7 +604,9 @@
       "hash": "39d2fa3c396bf75a00078922dd6c2a7bf9f63f46",
       "path": "mods/particular-1.21.1-NeoForge-1.1.7.jar",
       "size": 221535,
-      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/QmW99EbW/particular-1.21.1-NeoForge-1.1.7.jar"
+      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/QmW99EbW/particular-1.21.1-NeoForge-1.1.7.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "7140974a26a2cd79cdc7b85ab4e834916eacc7f1",
@@ -732,13 +752,17 @@
       "hash": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
       "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "size": 202454,
-      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
       "path": "mods/spark-1.10.124-neoforge.jar",
       "size": 3642581,
-      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar"
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+      "optional": true,
+      "default": false
     },
     {
       "hash": "827b0857f6075dfe5d40ce42aadd65e7cb36a7a9",
@@ -774,7 +798,9 @@
       "hash": "b400034ca8affe8f30b21935ae4ef74b1cf2fa29",
       "path": "mods/visuality-forge-2.1.0.jar",
       "size": 115765,
-      "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/ZBidwV02/visuality-forge-2.1.0.jar"
+      "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/ZBidwV02/visuality-forge-2.1.0.jar",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "d813f78eeeb6a27e2529df098128a12e4c043dd8",
@@ -822,13 +848,17 @@
       "hash": "c9a22a78edbf2b2de5f24650d167835a3312cda7",
       "path": "resourcepacks/Stellarity-5.2.0-Music.zip",
       "size": 32037191,
-      "url": "https://cdn.modrinth.com/data/IJHcrsas/versions/KlL5P1FZ/Stellarity-5.2.0-Music.zip"
+      "url": "https://cdn.modrinth.com/data/IJHcrsas/versions/KlL5P1FZ/Stellarity-5.2.0-Music.zip",
+      "optional": true,
+      "default": true
     },
     {
       "hash": "b560f646a124d5204b1fb7321fec373b9c346fa5",
       "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
       "size": 522970,
-      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip"
+      "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
+      "optional": true,
+      "default": true
     }
   ]
 }
