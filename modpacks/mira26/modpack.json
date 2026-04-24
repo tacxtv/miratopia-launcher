@@ -29,12 +29,6 @@
   ],
   "files": [
     {
-      "hash": "ddd31af1c8e16cd5304fbc468fcc5e3f04eae387",
-      "path": "mods/portals-1.21.1-1.2.0.jar",
-      "size": 142058,
-      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/portals-1.21.1-1.2.0.jar"
-    },
-    {
       "hash": "1731b439f18e0b48f97c7f09362f3efe57b9e12a",
       "path": "mods/[Neoforge 1.21.1] Better Zoom v2.7.0.jar",
       "size": 20827,
@@ -85,12 +79,10 @@
       "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TyNITLDY/attributefix-neoforge-1.21.1-21.1.3.jar"
     },
     {
-      "hash": "12fc300ced1d9e71abbd4505a623cfed5723d835",
-      "path": "mods/Axiom-5.2.1-for-MC1.21.1.jar",
-      "size": 44210201,
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar",
-      "optional": true,
-      "default": false
+      "hash": "fa8d110a3029bf9395bd11382b173df4ae874fb3",
+      "path": "mods/Axiom-5.0.1-for-MC1.21.1.jar",
+      "size": 42657378,
+      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6BFd0w5s/Axiom-5.0.1-for-MC1.21.1.jar"
     },
     {
       "hash": "6a29963a30afd7fa8993b97e4f870460b3f51323",
@@ -387,6 +379,12 @@
       "url": "https://cdn.modrinth.com/data/rMvP0ujv/versions/vEdApGdT/ExtraQuests-1.6.2-1.21.1-NeoForge.jar"
     },
     {
+      "hash": "65f4e8b9dcbad6697b2fb32fa0bb937ec5efcd84",
+      "path": "mods/fabric-api-0.116.11+1.21.1.jar",
+      "size": 2426356,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/IpaMcBLh/fabric-api-0.116.11%2B1.21.1.jar"
+    },
+    {
       "hash": "2415b91d6437977e676985b4a2ef877208d202e1",
       "path": "mods/FarmersDelight-1.21.1-1.2.11.jar",
       "size": 2941573,
@@ -643,6 +641,12 @@
       "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
       "size": 174972,
       "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+    },
+    {
+      "hash": "ddd31af1c8e16cd5304fbc468fcc5e3f04eae387",
+      "path": "mods/portals-1.21.1-1.2.0.jar",
+      "size": 142058,
+      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/portals-1.21.1-1.2.0.jar"
     },
     {
       "hash": "7ffcaa416b5e5e8dcbb70bc6909e0b1775811da7",
