@@ -32,7 +32,18 @@
             },
             {
                 "name": "mirasurvie",
-                "whitelisted": false
+                "whitelisted": true,
+                "whitelist": [
+                    "tarpiin",
+                    "tacxounet",
+                    "samsaoule",
+                    "ainohopie",
+                    "mrpazuzud",
+                    "zenfyxx",
+                    "sadakoscarlet",
+                    "pobee_",
+                    "_shnow_"
+                ]
             },
             {
                 "name": "mira26",

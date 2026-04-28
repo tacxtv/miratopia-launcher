@@ -1,7 +1,7 @@
 {
   "id": "mirasurvie",
   "name": "Miratopia SMP",
-  "default": true,
+  "default": false,
   "description": "Bienvenue dans Miratopia, un monde en pleine expansion ! Après les événements passés, devenez l'aventurier chargé par le gouverneur de Fraktalis, le gouverneur le plus avide de pouvoir ! Explorez un tout nouveau monde, aidez les voyageurs qui vous ont accompagnés, découvrez de nouvelles structures bercées dans les légendes anciennes et établissez ensemble le nouveau village communautaire d'Itineralis !",
   "hidden": false,
   "minecraft": {
@@ -32,6 +32,17 @@
       "type": "fabric",
       "version": "0.16.10"
     }
+  ],
+  "whitelist": [
+    "tarpiin",
+    "samsaoule",
+    "ainohopie",
+    "tacxounet",
+    "mrpazuzud",
+    "pobee_",
+    "sadakoscarlet",
+    "zenfyxx",
+    "_shnow_"
   ],
   "files": [
     {

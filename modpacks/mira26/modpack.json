@@ -1,8 +1,8 @@
 {
   "id": "mira26",
-  "name": "Miratopia 2026",
+  "name": "MiraLabs",
   "default": true,
-  "description": "Miratopia 2026",
+  "description": "MiraLabs 2026",
   "hidden": false,
   "minecraft": {
     "version": "1.21.1",
