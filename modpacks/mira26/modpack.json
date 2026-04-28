@@ -100,6 +100,8 @@
       "size": 42657378,
       "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6BFd0w5s/Axiom-5.0.1-for-MC1.21.1.jar",
       "name": "Axiom",
+      "optional": true,
+      "default": false,
       "description": "Éditeur de monde avancé intégré au jeu : sculpt, sélection 3D, undo/redo, outils professionnels de construction."
     },
     {
@@ -526,6 +528,8 @@
       "size": 5569793,
       "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
       "name": "Forgified Fabric API",
+      "optional": true,
+      "default": false,
       "description": "Portage de la Fabric API sous NeoForge, requis pour faire tourner des mods Fabric via Connector."
     },
     {
