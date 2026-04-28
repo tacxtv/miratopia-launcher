@@ -6,6 +6,33 @@ function normalizePath(p) {
     return String(p).replace(/\\/g, '/');
 }
 
+function makeFileEntry(file, pathValue, optional, isDefault, additionalInfosMap) {
+    const outPath = normalizePath(pathValue);
+    const entry = {
+        "hash": file.hashes.sha1,
+        "path": outPath,
+        "size": file.fileSize,
+        "url": file.downloads[0],
+    };
+
+    if (optional) {
+        entry.optional = true;
+        entry.default = Boolean(isDefault);
+    }
+
+    const additionalInfo = additionalInfosMap.get(outPath);
+    if (additionalInfo) {
+        if (typeof additionalInfo.name === 'string' && additionalInfo.name.trim()) {
+            entry.name = additionalInfo.name;
+        }
+        if (typeof additionalInfo.description === 'string' && additionalInfo.description.trim()) {
+            entry.description = additionalInfo.description;
+        }
+    }
+
+    return entry;
+}
+
 function listInternalFilesRecursive(directory, directoryRoot) {
     const entries = fs.readdirSync(directory);
     let fileList = [];
@@ -34,18 +61,24 @@ function listInternalFilesRecursive(directory, directoryRoot) {
 }
 
 (async () => {
-    let infos = { opt: [], optdef: [] };
+    let infos = { opt: [], optdef: [], additionalInfos: [] };
     if (fs.existsSync('infos.json')) {
         const parsed = JSON.parse(fs.readFileSync('infos.json', 'utf8'));
         infos.opt = Array.isArray(parsed.opt) ? parsed.opt : [];
         infos.optdef = Array.isArray(parsed.optdef) ? parsed.optdef : [];
-        console.log(`Loaded infos.json (opt: ${infos.opt.length}, optdef: ${infos.optdef.length})`);
+        infos.additionalInfos = Array.isArray(parsed.additionalInfos) ? parsed.additionalInfos : [];
+        console.log(`Loaded infos.json (opt: ${infos.opt.length}, optdef: ${infos.optdef.length}, additionalInfos: ${infos.additionalInfos.length})`);
     } else {
         console.log('No infos.json (optional); only .opt / .optdef suffixes apply.');
     }
 
     const optSet = new Set(infos.opt.map(normalizePath));
     const optdefSet = new Set(infos.optdef.map(normalizePath));
+    const additionalInfosMap = new Map();
+    for (const info of infos.additionalInfos) {
+        if (!info || typeof info.path !== 'string') continue;
+        additionalInfosMap.set(normalizePath(info.path), info);
+    }
 
     const data = fs.readFileSync('modrinth.index.json', 'utf8');
     const modrinth = JSON.parse(data);
@@ -80,65 +113,32 @@ function listInternalFilesRecursive(directory, directoryRoot) {
             if (endsOptdef) outPath = pathNoOptdef;
             else if (endsOpt) outPath = pathNoOpt;
             console.log(`Make as optional (default on) [infos] ${outPath}...`);
-            files.push({
-                "hash": file.hashes.sha1,
-                "path": outPath,
-                "size": file.fileSize,
-                "url": file.downloads[0],
-                "optional": true,
-                "default": true,
-            });
+            files.push(makeFileEntry(file, outPath, true, true, additionalInfosMap));
             continue;
         }
 
         if (fromInfosOpt) {
             const outPath = endsOpt ? pathNoOpt : normPath;
             console.log(`Make as optional [infos] ${outPath}...`);
-            files.push({
-                "hash": file.hashes.sha1,
-                "path": outPath,
-                "size": file.fileSize,
-                "url": file.downloads[0],
-                "optional": true,
-                "default": false,
-            });
+            files.push(makeFileEntry(file, outPath, true, false, additionalInfosMap));
             continue;
         }
 
         if (/.opt$/.test(filename)) {
             console.log(`Make as optional ${filename}...`);
             
-            files.push({
-                "hash": file.hashes.sha1,
-                "path": file.path.replace('.opt', ''),
-                "size": file.fileSize,
-                "url": file.downloads[0],
-                "optional": true,
-                "default": false,
-            })
+            files.push(makeFileEntry(file, file.path.replace('.opt', ''), true, false, additionalInfosMap))
             continue;
         }
 
         if (/.optdef$/.test(filename)) {
             console.log(`Make as optional ${filename}...`);
             
-            files.push({
-                "hash": file.hashes.sha1,
-                "path": file.path.replace('.optdef', ''),
-                "size": file.fileSize,
-                "url": file.downloads[0],
-                "optional": true,
-                "default": true,
-            })
+            files.push(makeFileEntry(file, file.path.replace('.optdef', ''), true, true, additionalInfosMap))
             continue;
         }
 
-        files.push({
-            "hash": file.hashes.sha1,
-            "path": file.path,
-            "size": file.fileSize,
-            "url": file.downloads[0],
-        })
+        files.push(makeFileEntry(file, file.path, false, false, additionalInfosMap))
     }
 
     const dextra = fs.readFileSync('extra.json', 'utf8');
