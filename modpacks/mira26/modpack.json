@@ -99,9 +99,9 @@
       "path": "mods/Axiom-5.0.1-for-MC1.21.1.jar",
       "size": 42657378,
       "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6BFd0w5s/Axiom-5.0.1-for-MC1.21.1.jar",
-      "name": "Axiom",
       "optional": true,
       "default": false,
+      "name": "Axiom",
       "description": "Éditeur de monde avancé intégré au jeu : sculpt, sélection 3D, undo/redo, outils professionnels de construction."
     },
     {
@@ -291,10 +291,10 @@
       "url": "https://mediafilez.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
     },
     {
-      "hash": "59314285929fb405e667a1dd8d1c32cddbd69a18",
-      "path": "mods/create_connected-1.1.13-mc1.21.1.jar",
-      "size": 6555122,
-      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cpErBxbD/create_connected-1.1.13-mc1.21.1.jar",
+      "hash": "d3f2a4638a8e3be35063156e3e48e16a07d86d28",
+      "path": "mods/create_connected-1.1.14-mc1.21.1.jar",
+      "size": 6590288,
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/ffuMPkho/create_connected-1.1.14-mc1.21.1.jar",
       "name": "Create: Connected",
       "description": "Extension de Create ajoutant des câbles, connecteurs et nouveaux éléments de transmission mécanique."
     },
@@ -307,10 +307,10 @@
       "description": "Rend les machines Create réactives au stress : vibrations, effets visuels selon la charge du réseau."
     },
     {
-      "hash": "bf08bf8980c080f42d6f644f4f44a725cf7c3be9",
-      "path": "mods/create-1.21.1-6.0.9.jar",
-      "size": 19019888,
-      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar",
+      "hash": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
       "name": "Create",
       "description": "Mod d'automatisation mécanique basé sur des engrenages, courroies et convoyeurs pour construire des usines."
     },
@@ -359,12 +359,6 @@
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
       "name": "Curios API",
       "description": "API de slots d'accessoires modulaires (amulette, ceinture, bague…) utilisée par de nombreux mods d'équipement."
-    },
-    {
-      "hash": "6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1",
-      "path": "mods/Design-n-Decor-1.21.1-2.1.0.jar",
-      "size": 3264862,
-      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar"
     },
     {
       "hash": "e40d7532ab81a06bd21bd4fcede85d6cd83a9e3b",
@@ -437,12 +431,6 @@
       "url": "https://cdn.modrinth.com/data/HQsBdHGd/versions/zL0UHyGf/edf-remastered-5.0-beta4.jar",
       "name": "End: Demons & Fallen (Remastered)",
       "description": "Refonte de la dimension de l'End avec de nouveaux biomes, monstres, boss et structures inédites."
-    },
-    {
-      "hash": "56063839172a000d079272794bad366f2ad4cbbd",
-      "path": "mods/embeddium-1.0.15+mc1.21.1.jar",
-      "size": 1048745,
-      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/J7b96IEd/embeddium-1.0.15%2Bmc1.21.1.jar"
     },
     {
       "hash": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4",
@@ -527,9 +515,9 @@
       "path": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
       "size": 5569793,
       "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
-      "name": "Forgified Fabric API",
       "optional": true,
       "default": false,
+      "name": "Forgified Fabric API",
       "description": "Portage de la Fabric API sous NeoForge, requis pour faire tourner des mods Fabric via Connector."
     },
     {
@@ -629,6 +617,16 @@
       "url": "https://cdn.modrinth.com/data/KpICtuVx/versions/TBI4EWjs/incontrol-1.21-10.2.6.jar",
       "name": "In Control!",
       "description": "Contrôle précis du spawn des monstres via des règles JSON : conditions, biomes, dimensions, loot."
+    },
+    {
+      "hash": "a3e6355915c7d3b2bc392724795113e51d289378",
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "size": 2438548,
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "optional": true,
+      "default": true,
+      "name": "Iris Shaders",
+      "description": "Ajoute le support des shaderpacks OptiFine/Iris sous NeoForge pour un rendu visuel amélioré."
     },
     {
       "hash": "d5bf134b3dbde9f5258666823900e21341dc0a50",
@@ -745,18 +743,18 @@
       "description": "Librairie audio pour Immersive Melodies, gère la lecture des fichiers musicaux et instruments custom."
     },
     {
+      "hash": "e72aa9c2f9244327697e118043a3c5004ab2802a",
+      "path": "mods/modernfix-neoforge-5.27.3+mc1.21.1.jar",
+      "size": 562031,
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QbebWhuK/modernfix-neoforge-5.27.3%2Bmc1.21.1.jar"
+    },
+    {
       "hash": "24e720753a7abc80f6673cf957c1e74aed52c084",
       "path": "mods/moonlight-1.21-2.29.33-neoforge.jar",
       "size": 1596760,
       "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/RftyTwKR/moonlight-1.21-2.29.33-neoforge.jar",
       "name": "Moonlight Lib",
       "description": "Librairie de MehVahdJukaar utilisée par Supplementaries, Amendments et d'autres mods de la suite."
-    },
-    {
-      "hash": "561550dd5a4ca05bb31b90e50bc7194c263065ff",
-      "path": "mods/neoculus-mc1.21.1-1.8.7.jar",
-      "size": 2799219,
-      "url": "https://cdn.modrinth.com/data/ndV543Q3/versions/ZMibIRkN/neoculus-mc1.21.1-1.8.7.jar"
     },
     {
       "hash": "9f1ba483216aebce1ee6185601231158684f5de8",
@@ -811,6 +809,14 @@
       "description": "Charge automatiquement des resourcepacks et datapacks placés dans un dossier dédié du serveur."
     },
     {
+      "hash": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "name": "Player Animation Lib (Forge)",
+      "description": "API d'animation du modèle joueur côté Forge, permet aux mods de modifier les animations en jeu."
+    },
+    {
       "hash": "0e7a8ec1e6da15f1f4669797da734e38ffcb8647",
       "path": "mods/player-drops-head-v.3.3.1.jar",
       "size": 82897,
@@ -849,10 +855,10 @@
       "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/portals-1.21.1-1.2.0.jar"
     },
     {
-      "hash": "7ffcaa416b5e5e8dcbb70bc6909e0b1775811da7",
-      "path": "mods/powergrid-mc1.21.1-0.5.4.jar",
-      "size": 6117871,
-      "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/bli22EIb/powergrid-mc1.21.1-0.5.4.jar",
+      "hash": "06b0500d7101c5846e9e2c5bb4b53646a50ef133",
+      "path": "mods/powergrid-mc1.21.1-0.5.5.1.jar",
+      "size": 6252168,
+      "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar",
       "name": "Power Grid",
       "description": "Réseau électrique complet avec câbles, transformateurs et production d'énergie pour automatiser les bases."
     },
@@ -865,18 +871,18 @@
       "description": "Librairie de Triplenickel utilisée pour Terralith et Incendium, gère la configuration des datapacks."
     },
     {
-      "hash": "2767bb73a33358b7796239310416b13db476f0b4",
-      "path": "mods/railways-0.2.0-beta.2+neoforge-mc1.21.1.jar",
-      "size": 11904503,
-      "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/dZa50kut/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar"
-    },
-    {
       "hash": "ee67247e85711af07029bf723b13386139b986eb",
       "path": "mods/reconstructedwands-neoforge-1.21.1-1.0.0.jar",
       "size": 178848,
       "url": "https://cdn.modrinth.com/data/zj6ZBpmY/versions/JEkqCnZf/reconstructedwands-neoforge-1.21.1-1.0.0.jar",
       "name": "Reconstructed Wands",
       "description": "Ajoute des baguettes magiques craftables avec différents effets de sorts et niveaux de puissance."
+    },
+    {
+      "hash": "b03d05495be28d8cef7a34872941bb8d703d60e6",
+      "path": "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "size": 78451,
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar"
     },
     {
       "hash": "39642950b06493383791ede79cd8d2d01b204f9f",
@@ -909,12 +915,6 @@
       "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/ZdLtebKH/rhino-2101.2.7-build.81.jar",
       "name": "Rhino",
       "description": "Moteur JavaScript (Rhino) embarqué dans KubeJS pour l'exécution des scripts de modification du jeu."
-    },
-    {
-      "hash": "963b6b8c92197fd9a6f1dc80b9473e3d1b72256e",
-      "path": "mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
-      "size": 383418,
-      "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/uOgJjIFf/rubidium-extra-0.5.7e%2Bmc1.21-build.132.jar"
     },
     {
       "hash": "e5b9c7e6a7856302c6b078255e6b90b5cc1ec0b0",
@@ -963,6 +963,22 @@
       "url": "https://cdn.modrinth.com/data/gk3B4zrk/versions/Qf76J2L2/SmoothBoot-NeoForge%2B1.21-1.0.0.jar",
       "name": "Smooth Boot",
       "description": "Optimise le démarrage du jeu en régulant les threads de chargement pour éviter les freezes initiaux."
+    },
+    {
+      "hash": "7473bb42753902c639294821af13e9cd9ee735da",
+      "path": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "size": 367047,
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
+      "name": "Sodium Extra",
+      "description": "Ajoute des options graphiques supplémentaires à Sodium : particules, animations, effets de temps, FOV."
+    },
+    {
+      "hash": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1",
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "size": 1162994,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "name": "Sodium",
+      "description": "Remplacement du moteur de rendu Minecraft offrant des gains de FPS drastiques, surtout côté client."
     },
     {
       "hash": "5b7bf1f595e5c0b4f56c3502f49a85b3ce6f7484",
@@ -1047,14 +1063,6 @@
       "url": "https://cdn.modrinth.com/data/JtifUr64/versions/2y01mBUy/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
       "name": "Traveler's Titles",
       "description": "Affiche le nom du biome ou de la dimension en grand à l'écran lors de l'entrée dans un nouveau territoire."
-    },
-    {
-      "hash": "fae8bb9f13cd9d086949b9aca85956bb6fa47f56",
-      "path": "mods/vanillin-neoforge-1.21.1-1.1.3.jar",
-      "size": 870344,
-      "url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/Qn76dRvj/vanillin-neoforge-1.21.1-1.1.3.jar",
-      "optional": true,
-      "default": false
     },
     {
       "hash": "b400034ca8affe8f30b21935ae4ef74b1cf2fa29",
