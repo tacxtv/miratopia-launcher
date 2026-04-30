@@ -377,10 +377,10 @@
       "description": "Extension de Farmer's Delight permettant d'exposer les plats sur des présentoirs et tables de buffet."
     },
     {
-      "hash": "eacbdeabe5271b46aacb4c15d9a44915ab953831",
-      "path": "mods/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
-      "size": 2097048,
-      "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/M6CMBAur/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+      "hash": "9471767b8c14ebebedda7a194e03c4a105ac4275",
+      "path": "mods/dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
+      "size": 2097179,
+      "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/JR8KnpFM/dragonlib-neoforge-1.21.1-beta-3.0.25.jar",
       "name": "DragonLib",
       "description": "Librairie pour les mods à base de dragons et grandes créatures, gère animations, hitboxes et comportements."
     },
@@ -743,6 +743,12 @@
       "description": "Librairie audio pour Immersive Melodies, gère la lecture des fichiers musicaux et instruments custom."
     },
     {
+      "hash": "21348da91702f0d468997865696e8bbdcaa90d06",
+      "path": "mods/miramod-1.0.0-neoforge-1.21.1.jar",
+      "size": 23135,
+      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/miramod-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
       "hash": "e72aa9c2f9244327697e118043a3c5004ab2802a",
       "path": "mods/modernfix-neoforge-5.27.3+mc1.21.1.jar",
       "size": 562031,
@@ -1091,14 +1097,6 @@
       "description": "Affiche le nom de la structure dans laquelle vous vous trouvez via un message discret à l'écran."
     },
     {
-      "hash": "7bd06fb7dfd6904a0f4ec5b9b46da2325e247aa3",
-      "path": "mods/waystones-neoforge-1.21.1-21.1.29.jar",
-      "size": 876329,
-      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ayolso4x/waystones-neoforge-1.21.1-21.1.29.jar",
-      "name": "Waystones",
-      "description": "Ajoute des pierres de téléportation (waystones) que les joueurs peuvent lier et utiliser pour voyager."
-    },
-    {
       "hash": "e1c394779fb9e038e4f7a1b4558d0432607d263b",
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "size": 388678,
@@ -1129,16 +1127,6 @@
       "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/iopJiJQp/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "name": "YUNG's Better Nether Fortresses",
       "description": "Refonte des forteresses du Nether avec des salles plus variées, de meilleures dispositions et plus de butin."
-    },
-    {
-      "hash": "c9a22a78edbf2b2de5f24650d167835a3312cda7",
-      "path": "resourcepacks/Stellarity-5.2.0-Music.zip",
-      "size": 32037191,
-      "url": "https://cdn.modrinth.com/data/IJHcrsas/versions/KlL5P1FZ/Stellarity-5.2.0-Music.zip",
-      "optional": true,
-      "default": true,
-      "name": "Stellarity Music Pack",
-      "description": "Pack de ressources ajoutant une bande sonore musicale inédite pour enrichir l'ambiance de l'End et des donjons."
     },
     {
       "hash": "b560f646a124d5204b1fb7321fec373b9c346fa5",
