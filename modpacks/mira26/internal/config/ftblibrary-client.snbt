@@ -6,6 +6,7 @@
 		# Default: []
 		recents: [I; ]
 	}
+	
 	sidebar: {
 		buttons: {
 			"ftbteams:my_team": {
@@ -64,6 +65,7 @@
 		# Valid values: "top_left", "top_right", "bottom_left", "bottom_right"
 		position: "top_left"
 	}
+
 	tooltips: {
 		# Add the name of the mod that entities belong to in the entity face selection GUI.
 		# Default: true

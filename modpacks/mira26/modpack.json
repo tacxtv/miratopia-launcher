@@ -251,10 +251,10 @@
       "description": "Ajoute une esquive/roulade en combat activable via un bouton dédié, avec cooldown et poids d'équipement."
     },
     {
-      "hash": "73a1e5b0bf0447e4d73df589fc3d91e20ed03b77",
+      "hash": "0eacc9d84feaf21a17395d67592e345e520c1982",
       "path": "config/ftblibrary-client.snbt",
-      "size": 1729,
-      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/config/ftblibraby-client.snbt"
+      "size": 1735,
+      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/config/ftblibrary-client.snbt"
     },
     {
       "hash": "930067497b5c1249e51b3e33620ab4e72dc92f4c",
