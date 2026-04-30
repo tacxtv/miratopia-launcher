@@ -945,6 +945,12 @@
       "description": "Ensemble d'optimisations serveur : limitation du tick des entités éloignées, gestion des chunks, TPS."
     },
     {
+      "hash": "391f9d158960b14d3b3346ca3b08ffa991192fd7",
+      "path": "mods/servers.dat",
+      "size": 90,
+      "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/servers.dat"
+    },
+    {
       "hash": "81748b4f728575d9bbab571ab07e6a24cf3ff126",
       "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
       "size": 1400084,
