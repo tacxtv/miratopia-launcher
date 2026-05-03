@@ -867,6 +867,12 @@
       "url": "https://raw.githubusercontent.com/tacxtv/miratopia-launcher/config/modpacks/mira26/internal/portals-1.21.1-1.2.0.jar"
     },
     {
+      "hash": "40dd3e88285159c99d32f6b677af4d214f58b906",
+      "path": "mods/refinedstorage-jei-integration-neoforge-1.0.0.jar",
+      "size": 58343,
+      "url": "https://cdn.modrinth.com/data/VzR5wiLo/versions/BYZmHubv/refinedstorage-jei-integration-neoforge-1.0.0.jar"
+    },
+    {
       "hash": "06b0500d7101c5846e9e2c5bb4b53646a50ef133",
       "path": "mods/powergrid-mc1.21.1-0.5.5.1.jar",
       "size": 6252168,
